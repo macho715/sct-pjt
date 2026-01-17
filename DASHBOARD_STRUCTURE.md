@@ -58,10 +58,11 @@ graph TD
 ### 2.1 Header Area
 *   **Purpose**: Branding and global utilities.
 *   **Elements**:
-    *   **Project Title**: "ADNOC HVDC Scheduler AI"
-    *   **Sub-text**: "Anti-Gravity Engine v2.0 Active"
-    *   **Risk Scan**: Triggers a project-wide risk assessment algorithm.
-    *   **AI Badge**: Displays confidence score (e.g., "AI Accuracy 94%").
+    - **Project Title**: "ADNOC HVDC Scheduler AI"
+    - **Sub-text**: "Anti-Gravity Engine v2.0 Active"
+    - **Risk Scan**: Triggers project-wide risk assessment algorithm (showing 🔥/⚠️).
+    - **AI Badge**: Displays confidence score (e.g., "AI Accuracy 94%").
+    - **View Tabs**: "Hierarchical (Read-Only)" vs "Interactive (P6 Style)".
 
 ### 2.2 KPI & Control Grid
 *   **Purpose**: High-level metrics and scenario switching.
@@ -93,7 +94,18 @@ graph TD
         *   **Button**: "Ask AI Assistant"
         *   **Result**: Risk Level (High/Low), text analysis, and actionable recommendation.
 
+### 2.5 Interactive Gantt (`InteractiveGantt`)
+*   **Purpose**: Editable, professional scheduling view (Primavera P6 replacement).
+*   **Visuals**:
+    *   **Milestones**: Diamond shapes (◆).
+    *   **Risks**: Left-border color codes (Red=Critical, Orange=High) + Icons.
+    *   **Grouping**: Grouped by **Voyage/Shipment** instead of generic phases.
+*   **Features**:
+    *   **Drag & Drop**: Moving a task auto-updates dependent tasks.
+    *   **Save Button**: Persists changes to backend CSVs.
+
 ## 3. Interaction Flow Logic
+
 
 ```mermaid
 sequenceDiagram

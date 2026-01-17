@@ -28,8 +28,10 @@ The application is divided into a **Next.js Frontend** for the user interface an
 - **State Management**: React Hooks & Context
 - **UI Library**: Tremor (Charts), Headless UI, Tailwind CSS
 - **Key Components**:
-    - `PhaseGantt`: Hierarchical Accordion view for complex schedules.
+    - `PhaseGantt`: Hierarchical Accordion view for read-only overview.
+    - `InteractiveGantt`: **P6-Style** Interactive Gantt with Drag & Drop and Risk Visualization.
     - `TaskDrawer`: Slide-out panel for task details and AI risk analysis.
+
     - `ComparisonGantt`: Visual comparison between Baseline vs. Optimized schedules.
 
 ### Backend (`/backend`)
@@ -49,11 +51,19 @@ classDiagram
 
     class Components {
         +PhaseGantt (Accordion View)
+        +InteractiveGantt (P6 Style)
         +TaskDrawer (Details & AI)
         +KPI Cards
     }
-    
+
+    class Utils {
+        +voyageLogic (Grouping)
+        +riskLogic (Ontology Rules)
+        +dependency (Auto-Schedule)
+    }
+
     class Backend {
+
         +MainAPI (FastAPI)
         +Routers
         +DataGeneration
