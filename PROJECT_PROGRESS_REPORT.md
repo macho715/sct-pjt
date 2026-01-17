@@ -69,14 +69,41 @@ This report details the development progress of the **ADNOC HVDC Scheduler AI** 
     *   `main_api.py`: FastAPI server with Save/Backup endpoints.
     *   `scripts/`: Python utilities for data processing.
 
-## 4. Current Status
-The system is fully functional locally with persistent storage.
-1.  **Interactive Mode**: Users can drag-and-drop tasks to reschedule.
-2.  **Persistence**: Changes are saved to server CSVs and persisted across reloads.
-3.  **Safety**: History backups allow rollback if needed.
-4.  **Stability**: Error handling is in place for common React/Next.js issues.
+### Phase 4: Dynamic Cost Engine (Completed)
+*   **Cost Calculation**:
+    *   **Backend**: Injected `daily_rate` and `total_cost` calculation into `main_api.py`.
+    *   **Frontend**: Implemented real-time cost tracking in `InteractiveGantt.tsx`. Dragging a task now instantly updates the specific task cost and the global "Total Project Cost" KPI.
 
-## 5. Next Steps / Recommendations
-*   **Backend Sync**: Connect the frontend "Interactive Mode" changes to the Python backend to save changes permanently to the CSV/Excel files.
-*   **Cost Integration**: Update the "Est. Budget" KPI dynamically when the schedule is modified in Interactive Mode.
-*   **Deployment**: Deploy the application to Vercel/Render for team access (if required).
+### Phase 5: P6-Style Visual Enhancements (Completed)
+*   **Visual Standard**: Upgraded Gantt visual language to match **Oracle Primavera P6**.
+    *   **Milestones**: Rendered as distinct diamond shapes (◆).
+    *   **Critical Path**: Highlighted critical red bars for tasks > 30 days or marked 'critical'.
+    *   **Buffers**: Striped patterns for buffer/waiting tasks.
+    *   **UI Tuning**: Removed excessive grid lines, added current-time markers, and refined tooltips.
+
+### Phase 6: Voyage-Centric Restructuring (Completed)
+*   **Grouping Logic**: Shifted from generic "Phase" grouping to **Voyage/Shipment** based grouping (e.g., "Voyage 1 (TR Units 1 & 2)").
+*   **Implementation**:
+    *   Created `utils/voyageLogic.ts` for centralized grouping rules.
+    *   Updated `InteractiveGantt` to group tasks by Voyage ID ranges, aligning with logistics operations.
+
+### Phase 7: Ontology-Driven Insights (In Progress)
+*   **Voyage Risk Profile (Implemented)**:
+    *   **Logic**: Developed `riskLogic.ts` based on `CONSOLIDATED-04` ontology.
+    *   **Features**: Automatically flags "Heavy Lift" (>40t), "Tandem Lifts", and "Sensitive Cargo" (Cable).
+    *   **UI**: Adds Risk Borders (Red/Orange) and Icons (🔥/⚠️) to Gantt bars.
+*   **Advanced Compliance (Planned)**:
+    *   **Flow Code v3.5**: Visualizing logic flow (0-5) and efficiency.
+    *   **AGI/DAS Rules**: Enforcing mandatory MOSB legs for offshore sites.
+
+## 4. Current Status
+The system has evolved into a **Logistics-Aware Project Intelligence Tool**.
+1.  **Risk-Aware**: It sees beyond dates—identifying risks in cargo types and voyage complexity.
+2.  **Cost-Dynamic**: Scheduler changes reflect financial impact immediately.
+3.  **Operationally Aligned**: Grouping by Voyage matches the actual execution model.
+
+## 5. Next Steps
+*   **Phase 7B**: Implement Flow Code & AGI/DAS Compliance Rules.
+*   **Phase 7C**: Implement Cost Guard (Budget Traffic Lights).
+*   **Deployment**: Finalize git sync and prepare for deployment.
+

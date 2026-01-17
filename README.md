@@ -13,8 +13,11 @@ This project is an AI-driven logistics and scheduling dashboard designed for ADN
 - **Styling**: Tailwind CSS, Framer Motion
 - **New Features**:
     - **Hierarchical Gantt**: Accordion-style grouping by Phase for better readability.
+    - **Interactive P6 Gantt**: Drag-and-drop visuals matching Oracle Primavera P6 (Milestones/Critical Path).
+    - **Logistics Insights**: Voyage-based grouping, dynamic Cost Calculation, and **Voyage Risk Profile** (Heavy Lift/Stability).
     - **AI Risk Analysis**: On-demand risk assessment for specific tasks via the Drawer interface.
     - **Scenario Comparison**: Explicit logical comparison between Option A (Baseline) and Option B (Optimized).
+
 
 ### Backend (`/backend`)
 - **Framework**: FastAPI (Python)
