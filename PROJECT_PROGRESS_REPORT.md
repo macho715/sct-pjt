@@ -35,6 +35,19 @@ This report details the development progress of the **ADNOC HVDC Scheduler AI** 
     *   **Auto-Cascade (`dependency.ts`)**: Implemented recursive logic (`propagateChanges`) that automatically updates successor task dates when a predecessor is moved.
 *   **View Switching**: Updated the main dashboard to allow users to toggle between the "Hierarchical View" (Overview) and "Interactive View" (Edit Mode).
 
+### Phase 3.5: Backend Persistence & Stability (Completed)
+*   **Backend Synchronization**:
+    *   **Endpoint**: Implemented `POST /api/schedule/save` in `backend/main_api.py`.
+    *   **Functionality**: Saves modified `vis-timeline` data back to the server CSVs.
+    *   **Safety**: Automatically creates timestamped backups in `backend/data/history/` before overwriting.
+    *   **UI Integration**: Added a "Save Changes to Server" button in `InteractiveGantt.tsx` that triggers the sync.
+*   **Critical Bug Fixes**:
+    *   **Hydration Error**: Fixed server/client mismatch by adding `suppressHydrationWarning` to `layout.tsx`.
+    *   **Duplicate ID Crash**: Implemented deduplication logic in `InteractiveGantt.tsx` to handle unclean input data safely.
+    *   **Timeline Cleanup Error**: Added `try-catch` blocks around `vis-timeline` destruction to prevent "null property" runtime crashes during re-renders.
+*   **Maintenance**:
+    *   **Dependency Upgrade**: Started upgrade process for Next.js (v16.1.2) to resolve version staleness warnings.
+
 ## 3. Technical Deliverables
 
 ### A. Documentation
@@ -43,24 +56,25 @@ This report details the development progress of the **ADNOC HVDC Scheduler AI** 
 | `README.md` | Project overview, installation guide, and feature list. |
 | `SYSTEM_ARCHITECTURE.md` | High-level system design, class diagrams, and stack details. |
 | `DASHBOARD_STRUCTURE.md` | Visual breakdown of UI components and interaction flows. |
+| `PROJECT_PROGRESS_REPORT.md` | Detailed log of development phases and changelog. |
 
 ### B. Key Source Code
 1.  **Frontend**:
     *   `app/page.tsx`: Main dashboard controller with View Mode toggle.
     *   `components/dashboard/PhaseGantt.tsx`: Accordion-based read-only view.
-    *   `components/dashboard/InteractiveGantt.tsx`: Editable P6-style view.
+    *   `components/dashboard/InteractiveGantt.tsx`: Editable P6-style view with Save Logic.
     *   `components/ui/TaskDrawer.tsx`: Slide-out details panel.
     *   `utils/dependency.ts`: Core logic for date propagation.
 2.  **Backend**:
-    *   `main_api.py`: FastAPI server handling data requests.
+    *   `main_api.py`: FastAPI server with Save/Backup endpoints.
     *   `scripts/`: Python utilities for data processing.
 
 ## 4. Current Status
-The system is fully functional locally. Users can:
-1.  View the project status in a high-level hierarchical view.
-2.  Drill down into specific tasks using the Detail Drawer.
-3.  Switch to "Interactive Mode" to simulate schedule changes via drag-and-drop.
-4.  Run the "Risk Scan" and "Anti-Gravity" simulations.
+The system is fully functional locally with persistent storage.
+1.  **Interactive Mode**: Users can drag-and-drop tasks to reschedule.
+2.  **Persistence**: Changes are saved to server CSVs and persisted across reloads.
+3.  **Safety**: History backups allow rollback if needed.
+4.  **Stability**: Error handling is in place for common React/Next.js issues.
 
 ## 5. Next Steps / Recommendations
 *   **Backend Sync**: Connect the frontend "Interactive Mode" changes to the Python backend to save changes permanently to the CSV/Excel files.

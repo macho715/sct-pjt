@@ -49,6 +49,23 @@ def load_csv_as_json(filename):
     else:
         df['start_offset'] = 0
 
+    # 🧠 Cost Injection Logic (Simulation)
+    def get_daily_rate(row):
+        notes = str(row.get('Notes', '')).lower()
+        phase = str(row.get('Phase', '')).lower()
+        
+        if 'spmt' in notes or 'crane' in notes:
+            return 3500.0 # High cost equipment
+        if 'mobilization' in phase:
+            return 1500.0 # Crew cost
+        return 500.0 # Standard standby rate
+
+    # Apply to DataFrame and handle NaN durations
+    if not df.empty:
+        df['daily_rate'] = df.apply(get_daily_rate, axis=1)
+        df['duration_clean'] = pd.to_numeric(df['duration'], errors='coerce').fillna(1)
+        df['total_cost'] = df['duration_clean'] * df['daily_rate']
+
     return df.fillna("").to_dict(orient="records")
 
 @app.get("/")
