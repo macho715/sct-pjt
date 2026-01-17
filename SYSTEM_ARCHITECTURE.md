@@ -27,6 +27,10 @@ The application is divided into a **Next.js Frontend** for the user interface an
 - **Technology**: Next.js 14, React, TypeScript
 - **State Management**: React Hooks & Context
 - **UI Library**: Tremor (Charts), Headless UI, Tailwind CSS
+- **Key Components**:
+    - `PhaseGantt`: Hierarchical Accordion view for complex schedules.
+    - `TaskDrawer`: Slide-out panel for task details and AI risk analysis.
+    - `ComparisonGantt`: Visual comparison between Baseline vs. Optimized schedules.
 
 ### Backend (`/backend`)
 - **Technology**: Python, FastAPI, Uvicorn
@@ -42,6 +46,12 @@ classDiagram
         +Components (Tremor)
         +Services (API Client)
     }
+
+    class Components {
+        +PhaseGantt (Accordion View)
+        +TaskDrawer (Details & AI)
+        +KPI Cards
+    }
     
     class Backend {
         +MainAPI (FastAPI)
@@ -54,6 +64,7 @@ classDiagram
         +CSV Files
     }
 
+    Frontend --> Components : Renders
     Frontend --> Backend : HTTP Requests
     Backend --> DataLayer : File I/O
 ```
