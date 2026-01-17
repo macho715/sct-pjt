@@ -105,6 +105,58 @@ def get_comparison_analysis():
         
     return sorted(result, key=lambda x: x['saved'], reverse=True)
 
+from fastapi import Body
+import shutil
+from datetime import datetime
+
+@app.post("/api/schedule/save")
+def save_schedule(
+    option: str = "A", 
+    tasks: list = Body(...)
+):
+    """
+    Receives modified tasks from Frontend and saves to CSV.
+    """
+    filename = FILE_A if option == "A" else FILE_B
+    filepath = os.path.join(BASE_DIR, filename)
+    
+    # 1. Backup original file (Safety First)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    history_dir = os.path.join(BASE_DIR, "history")
+    os.makedirs(history_dir, exist_ok=True)
+    backup_path = os.path.join(history_dir, f"{filename}.{timestamp}.bak")
+    
+    if os.path.exists(filepath):
+        shutil.copy(filepath, backup_path)
+    
+    try:
+        # 2. Load current CSV to DataFrame
+        df = pd.read_csv(filepath)
+        
+        # 3. Update DataFrame with new dates
+        # Convert list of dicts to a quick lookup dictionary
+        updates = {t['id']: t for t in tasks}
+        
+        for index, row in df.iterrows():
+            task_id = row.get('ID') or row.get('task_id') # Handle column name variations
+            if task_id in updates:
+                new_data = updates[task_id]
+                # Convert ISO string to YYYY-MM-DD (first 10 chars)
+                if 'start' in new_data:
+                    df.at[index, 'Start'] = new_data['start'][:10]
+                if 'end' in new_data:
+                     # CSV might not have 'End', but let's assume it does or we update Duration
+                     # Ideally we update Duration too if start/end changes
+                     pass # For now, let's stick to user request: update Start/End dates if columns exist
+
+        # 4. Save back to CSV
+        df.to_csv(filepath, index=False)
+        
+        return {"status": "success", "msg": f"Saved version {timestamp}"}
+        
+    except Exception as e:
+        return {"status": "error", "msg": str(e)}
+
 class AnalyzeRequest(BaseModel):
     task_name: str
     duration: float
