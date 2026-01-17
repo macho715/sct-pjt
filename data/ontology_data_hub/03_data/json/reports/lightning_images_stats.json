@@ -1,0 +1,20 @@
+{
+  "total_images": 77,
+  "total_size_mb": 11.56,
+  "image_types": {
+    "WhatsApp_Image": 64,
+    "WhatsApp_Sticker": 13
+  },
+  "date_distribution": {
+    "2025-09": 19,
+    "2025-10": 46,
+    "2024-08": 2,
+    "2024-09": 2,
+    "2024-11": 1,
+    "2024-12": 2,
+    "2025-01": 2,
+    "2025-02": 1,
+    "2025-05": 2
+  },
+  "integration_timestamp": "2025-10-22T21:09:49.356046"
+}

@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-10-30T21:11:05.508832",
+  "source_ttl": "rdf_output/test_data_wh_events.ttl",
+  "total_triples": 72692,
+  "validation_results": {
+    "human_gate_flow23": {
+      "count": 0,
+      "file": "validation_results\\human_gate_flow23_no_inbound.json"
+    },
+    "missing_dates": {
+      "count": 0,
+      "file": "validation_results\\human_gate_missing_dates.json"
+    },
+    "coverage_stats": {
+      "total_cases": 8995,
+      "with_inbound": 5012,
+      "with_outbound": 2381,
+      "with_both": 1194,
+      "with_neither": 2796,
+      "inbound_coverage_pct": 55.72,
+      "outbound_coverage_pct": 26.47
+    },
+    "flow_patterns": [
+      {
+        "flow_code": "0",
+        "total_cases": 172,
+        "with_inbound": 0,
+        "with_outbound": 0,
+        "inbound_pct": 0.0,
+        "outbound_pct": 0.0
+      },
+      {
+        "flow_code": "1",
+        "total_cases": 3682,
+        "with_inbound": 3682,
+        "with_outbound": 0,
+        "inbound_pct": 100.0,
+        "outbound_pct": 0.0
+      },
+      {
+        "flow_code": "2",
+        "total_cases": 4391,
+        "with_inbound": 592,
+        "with_outbound": 1631,
+        "inbound_pct": 13.48,
+        "outbound_pct": 37.14
+      },
+      {
+        "flow_code": "3",
+        "total_cases": 750,
+        "with_inbound": 738,
+        "with_outbound": 750,
+        "inbound_pct": 98.4,
+        "outbound_pct": 100.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,1048 @@
+{
+  "metadata": {
+    "analysis_date": "2025-10-20T01:04:45.011163",
+    "rdf_file": "output/abu_logistics_data.ttl",
+    "total_triples": 2140
+  },
+  "summary": {
+    "total_persons": 12,
+    "total_entities": 295,
+    "person_details": {
+      "Shariff": {
+        "shipments": 41,
+        "containers": 0,
+        "deliveries": 1,
+        "total_entities": 42,
+        "vessels": [
+          "Buahra",
+          "JPT62",
+          "JPT71",
+          "Jpt62",
+          "Jpt71",
+          "THURAYA",
+          "Thuraya",
+          "YEAM",
+          "Yeam",
+          "thuraya"
+        ],
+        "locations": [
+          "MW4",
+          "AGI",
+          "DAS",
+          "Al Jaber",
+          "das"
+        ],
+        "top_vessels": [
+          "Buahra",
+          "JPT62",
+          "JPT71",
+          "Jpt62",
+          "Jpt71"
+        ],
+        "top_locations": [
+          "MW4",
+          "AGI",
+          "DAS",
+          "Al Jaber",
+          "das"
+        ],
+        "peak_hour": "08",
+        "activity_span": 14,
+        "total_activities": 42
+      },
+      "Haitham": {
+        "shipments": 154,
+        "containers": 0,
+        "deliveries": 2,
+        "total_entities": 156,
+        "vessels": [
+          "JPT62",
+          "JPT71",
+          "JPt62",
+          "Jpt71",
+          "Taibah",
+          "Tamarah",
+          "Thuraya",
+          "Yeam",
+          "taibah",
+          "thuraya",
+          "yeam"
+        ],
+        "locations": [
+          "AGI",
+          "agi",
+          "Musaffah",
+          "MW4",
+          "Umm ALanbar",
+          "MOSB",
+          "DAS",
+          "das",
+          "mosb",
+          "Das",
+          "al jaber"
+        ],
+        "top_vessels": [
+          "JPT62",
+          "JPT71",
+          "JPt62",
+          "Jpt71",
+          "Taibah"
+        ],
+        "top_locations": [
+          "AGI",
+          "agi",
+          "Musaffah",
+          "MW4",
+          "Umm ALanbar"
+        ],
+        "peak_hour": "07",
+        "activity_span": 21,
+        "total_activities": 156
+      },
+      "상욱": {
+        "shipments": 38,
+        "containers": 3,
+        "deliveries": 1,
+        "total_entities": 42,
+        "vessels": [
+          "JPT62",
+          "JPT71",
+          "Thuraya",
+          "Yeam",
+          "jpt62"
+        ],
+        "locations": [
+          "MOSB",
+          "DAS",
+          "AGI",
+          "Al Jaber"
+        ],
+        "top_vessels": [
+          "JPT62",
+          "JPT71",
+          "Thuraya",
+          "Yeam",
+          "jpt62"
+        ],
+        "top_locations": [
+          "MOSB",
+          "DAS",
+          "AGI",
+          "Al Jaber"
+        ],
+        "peak_hour": "08",
+        "activity_span": 12,
+        "total_activities": 42
+      },
+      "ronpap20": {
+        "shipments": 5,
+        "containers": 1,
+        "deliveries": 0,
+        "total_entities": 6,
+        "vessels": [
+          "JPT62",
+          "THURAYA"
+        ],
+        "locations": [],
+        "top_vessels": [
+          "JPT62",
+          "THURAYA"
+        ],
+        "top_locations": [],
+        "peak_hour": "08",
+        "activity_span": 4,
+        "total_activities": 6
+      },
+      "Jhysn": {
+        "shipments": 3,
+        "containers": 0,
+        "deliveries": 1,
+        "total_entities": 4,
+        "vessels": [
+          "THURAYA"
+        ],
+        "locations": [],
+        "top_vessels": [
+          "THURAYA"
+        ],
+        "top_locations": [],
+        "peak_hour": "17",
+        "activity_span": 3,
+        "total_activities": 4
+      },
+      "Thusar": {
+        "shipments": 16,
+        "containers": 0,
+        "deliveries": 0,
+        "total_entities": 16,
+        "vessels": [
+          "THURAYA",
+          "Thuraya",
+          "thuraya"
+        ],
+        "locations": [],
+        "top_vessels": [
+          "THURAYA",
+          "Thuraya",
+          "thuraya"
+        ],
+        "top_locations": [],
+        "peak_hour": "21",
+        "activity_span": 12,
+        "total_activities": 16
+      },
+      "국일 Kim": {
+        "shipments": 6,
+        "containers": 0,
+        "deliveries": 3,
+        "total_entities": 9,
+        "vessels": [
+          "Thuraya",
+          "Yeam"
+        ],
+        "locations": [],
+        "top_vessels": [
+          "Thuraya",
+          "Yeam"
+        ],
+        "top_locations": [],
+        "peak_hour": "15",
+        "activity_span": 6,
+        "total_activities": 9
+      },
+      "Logistics Driver 1": {
+        "shipments": 1,
+        "containers": 0,
+        "deliveries": 0,
+        "total_entities": 1,
+        "vessels": [
+          "YEAM"
+        ],
+        "locations": [],
+        "top_vessels": [
+          "YEAM"
+        ],
+        "top_locations": [],
+        "peak_hour": "19",
+        "activity_span": 1,
+        "total_activities": 1
+      },
+      "Karthi": {
+        "shipments": 0,
+        "containers": 1,
+        "deliveries": 0,
+        "total_entities": 1,
+        "vessels": [],
+        "locations": [],
+        "top_vessels": [],
+        "top_locations": [],
+        "peak_hour": "12",
+        "activity_span": 1,
+        "total_activities": 1
+      },
+      "Friday D 13th": {
+        "shipments": 0,
+        "containers": 1,
+        "deliveries": 12,
+        "total_entities": 13,
+        "vessels": [],
+        "locations": [],
+        "top_vessels": [],
+        "top_locations": [],
+        "peak_hour": "08",
+        "activity_span": 9,
+        "total_activities": 13
+      },
+      "kEn 🏄🏻🌊": {
+        "shipments": 0,
+        "containers": 0,
+        "deliveries": 2,
+        "total_entities": 2,
+        "vessels": [],
+        "locations": [],
+        "top_vessels": [],
+        "top_locations": [],
+        "peak_hour": "09",
+        "activity_span": 1,
+        "total_activities": 2
+      },
+      "DaN": {
+        "shipments": 0,
+        "containers": 0,
+        "deliveries": 3,
+        "total_entities": 3,
+        "vessels": [],
+        "locations": [],
+        "top_vessels": [],
+        "top_locations": [],
+        "peak_hour": "17",
+        "activity_span": 3,
+        "total_activities": 3
+      }
+    },
+    "top_persons": [
+      {
+        "person": "Haitham",
+        "total_entities": 156,
+        "shipments": 154,
+        "containers": 0,
+        "deliveries": 2
+      },
+      {
+        "person": "Shariff",
+        "total_entities": 42,
+        "shipments": 41,
+        "containers": 0,
+        "deliveries": 1
+      },
+      {
+        "person": "상욱",
+        "total_entities": 42,
+        "shipments": 38,
+        "containers": 3,
+        "deliveries": 1
+      },
+      {
+        "person": "Thusar",
+        "total_entities": 16,
+        "shipments": 16,
+        "containers": 0,
+        "deliveries": 0
+      },
+      {
+        "person": "Friday D 13th",
+        "total_entities": 13,
+        "shipments": 0,
+        "containers": 1,
+        "deliveries": 12
+      },
+      {
+        "person": "국일 Kim",
+        "total_entities": 9,
+        "shipments": 6,
+        "containers": 0,
+        "deliveries": 3
+      },
+      {
+        "person": "ronpap20",
+        "total_entities": 6,
+        "shipments": 5,
+        "containers": 1,
+        "deliveries": 0
+      },
+      {
+        "person": "Jhysn",
+        "total_entities": 4,
+        "shipments": 3,
+        "containers": 0,
+        "deliveries": 1
+      },
+      {
+        "person": "DaN",
+        "total_entities": 3,
+        "shipments": 0,
+        "containers": 0,
+        "deliveries": 3
+      },
+      {
+        "person": "kEn 🏄🏻🌊",
+        "total_entities": 2,
+        "shipments": 0,
+        "containers": 0,
+        "deliveries": 2
+      }
+    ]
+  },
+  "detailed_stats": {
+    "Shariff": {
+      "shipments": 41,
+      "containers": 0,
+      "deliveries": 1,
+      "vessels": [
+        "Buahra",
+        "JPT62",
+        "JPT71",
+        "Jpt62",
+        "Jpt71",
+        "THURAYA",
+        "Thuraya",
+        "YEAM",
+        "Yeam",
+        "thuraya"
+      ],
+      "locations": [
+        "MW4",
+        "AGI",
+        "DAS",
+        "Al Jaber",
+        "das"
+      ],
+      "keywords": [],
+      "timestamps": [
+        "2024-11-10T13:37:00",
+        "2024-11-21T08:35:00",
+        "2025-02-17T07:34:00",
+        "2025-03-13T15:30:00",
+        "2025-04-11T11:35:00",
+        "2025-07-12T08:23:00",
+        "2025-07-15T11:59:00",
+        "2025-07-16T06:47:00",
+        "2024-11-22T07:42:00",
+        "2024-12-13T07:29:00",
+        "2025-06-18T14:33:00",
+        "2025-07-14T15:30:00",
+        "2025-07-15T09:05:00",
+        "2025-07-17T20:02:00",
+        "2025-04-24T07:22:00",
+        "2024-10-30T16:31:00",
+        "2025-07-12T08:09:00",
+        "2024-10-10T16:38:00",
+        "2024-10-15T08:26:00",
+        "2024-10-15T15:29:00",
+        "2024-10-17T13:26:00",
+        "2024-10-20T13:24:00",
+        "2024-11-11T08:41:00",
+        "2024-11-13T12:58:00",
+        "2024-11-13T18:54:00",
+        "2024-11-14T15:24:00",
+        "2024-11-20T07:52:00",
+        "2024-11-20T14:25:00",
+        "2024-11-22T08:13:00",
+        "2024-11-24T10:19:00",
+        "2024-08-21T16:17:00",
+        "2024-09-26T11:05:00",
+        "2025-03-14T09:18:00",
+        "2025-04-27T13:58:00",
+        "2025-05-26T16:41:00",
+        "2025-07-23T16:15:00",
+        "2024-11-18T14:45:00",
+        "2024-11-27T10:56:00",
+        "2024-11-28T15:23:00",
+        "2024-11-18T17:59:00",
+        "2024-11-18T10:07:00",
+        "2025-02-10T09:39:00"
+      ]
+    },
+    "Haitham": {
+      "shipments": 154,
+      "containers": 0,
+      "deliveries": 2,
+      "vessels": [
+        "JPT62",
+        "JPT71",
+        "JPt62",
+        "Jpt71",
+        "Taibah",
+        "Tamarah",
+        "Thuraya",
+        "Yeam",
+        "taibah",
+        "thuraya",
+        "yeam"
+      ],
+      "locations": [
+        "AGI",
+        "agi",
+        "Musaffah",
+        "MW4",
+        "Umm ALanbar",
+        "MOSB",
+        "DAS",
+        "das",
+        "mosb",
+        "Das",
+        "al jaber"
+      ],
+      "keywords": [],
+      "timestamps": [
+        "2024-10-10T07:32:00",
+        "2024-10-10T15:04:00",
+        "2024-10-11T07:25:00",
+        "2024-10-12T07:44:00",
+        "2024-10-13T07:35:00",
+        "2024-10-13T16:46:00",
+        "2024-10-14T07:31:00",
+        "2024-12-22T13:44:00",
+        "2024-08-25T07:24:00",
+        "2024-08-25T18:05:00",
+        "2024-08-26T07:17:00",
+        "2024-08-26T14:13:00",
+        "2024-08-27T07:48:00",
+        "2024-08-27T17:34:00",
+        "2024-08-28T07:19:00",
+        "2024-08-29T07:35:00",
+        "2024-08-30T07:32:00",
+        "2024-08-31T09:28:00",
+        "2024-09-10T07:24:00",
+        "2024-09-10T16:53:00",
+        "2024-09-11T07:28:00",
+        "2024-09-11T17:33:00",
+        "2024-09-12T07:20:00",
+        "2024-09-12T18:00:00",
+        "2024-09-13T07:21:00",
+        "2024-09-14T13:29:00",
+        "2024-09-15T09:09:00",
+        "2024-09-15T23:58:00",
+        "2024-09-16T07:08:00",
+        "2024-09-16T17:37:00",
+        "2024-09-17T07:11:00",
+        "2024-09-18T07:22:00",
+        "2024-09-18T17:43:00",
+        "2024-09-18T22:31:00",
+        "2024-09-19T07:19:00",
+        "2024-09-19T17:35:00",
+        "2024-09-20T07:24:00",
+        "2024-09-20T16:59:00",
+        "2024-09-21T15:22:00",
+        "2024-09-22T07:24:00",
+        "2024-09-22T17:52:00",
+        "2024-09-23T07:18:00",
+        "2024-09-24T07:21:00",
+        "2024-09-25T07:35:00",
+        "2024-09-26T07:21:00",
+        "2024-09-28T07:34:00",
+        "2024-09-29T01:18:00",
+        "2024-09-29T07:22:00",
+        "2024-09-30T07:20:00",
+        "2024-09-30T17:07:00",
+        "2025-01-15T13:55:00",
+        "2024-10-15T07:07:00",
+        "2024-10-16T07:21:00",
+        "2024-10-17T07:17:00",
+        "2024-10-18T07:25:00",
+        "2024-10-20T07:37:00",
+        "2024-10-21T07:26:00",
+        "2024-10-22T07:39:00",
+        "2024-10-23T07:22:00",
+        "2024-10-24T07:40:00",
+        "2024-11-10T10:56:00",
+        "2025-04-11T10:18:00",
+        "2024-08-21T17:07:00",
+        "2024-08-22T07:23:00",
+        "2024-08-22T07:43:00",
+        "2024-08-23T07:31:00",
+        "2024-10-27T09:02:00",
+        "2024-12-12T18:05:00",
+        "2024-09-13T17:57:00",
+        "2024-09-23T16:34:00",
+        "2024-09-24T16:13:00",
+        "2024-09-24T22:46:00",
+        "2025-03-14T06:28:00",
+        "2025-03-14T09:21:00",
+        "2025-06-28T14:22:00",
+        "2024-10-15T08:42:00",
+        "2024-10-17T14:28:00",
+        "2024-10-18T01:02:00",
+        "2024-10-20T13:25:00",
+        "2024-10-21T22:40:00",
+        "2024-10-25T07:12:00",
+        "2024-10-27T09:01:00",
+        "2024-11-11T19:18:00",
+        "2024-11-13T18:53:00",
+        "2024-11-14T06:30:00",
+        "2024-11-21T06:50:00",
+        "2024-11-24T10:45:00",
+        "2024-11-25T01:05:00",
+        "2024-11-26T13:41:00",
+        "2024-11-27T09:15:00",
+        "2024-11-27T14:55:00",
+        "2024-11-28T08:18:00",
+        "2024-11-28T11:20:00",
+        "2024-11-28T18:11:00",
+        "2024-08-23T11:27:00",
+        "2024-08-25T16:44:00",
+        "2024-08-27T00:09:00",
+        "2024-09-13T07:25:00",
+        "2024-09-23T00:11:00",
+        "2024-09-24T22:48:00",
+        "2024-09-26T18:28:00",
+        "2025-02-18T08:05:00",
+        "2025-02-20T08:10:00",
+        "2025-03-28T20:11:00",
+        "2025-04-27T03:03:00",
+        "2025-05-23T15:17:00",
+        "2025-06-16T07:50:00",
+        "2025-06-30T11:14:00",
+        "2025-07-14T10:08:00",
+        "2025-07-14T17:50:00",
+        "2025-07-14T17:57:00",
+        "2025-08-15T15:04:00",
+        "2025-08-24T12:51:00",
+        "2025-09-12T10:00:00",
+        "2025-09-14T08:59:00",
+        "2025-09-15T08:45:00",
+        "2025-09-27T16:32:00",
+        "2024-11-20T17:31:00",
+        "2024-11-24T22:48:00",
+        "2024-11-25T15:52:00",
+        "2024-12-13T10:10:00",
+        "2024-09-10T10:20:00",
+        "2024-09-10T11:02:00",
+        "2025-05-26T14:57:00",
+        "2025-08-18T07:23:00",
+        "2024-09-19T18:11:00",
+        "2024-09-22T10:45:00",
+        "2024-10-11T07:36:00",
+        "2024-10-17T14:27:00",
+        "2024-10-20T18:02:00",
+        "2024-11-13T16:32:00",
+        "2024-11-13T18:54:00",
+        "2024-11-13T19:46:00",
+        "2024-11-16T00:50:00",
+        "2024-11-24T19:38:00",
+        "2024-08-22T11:31:00",
+        "2024-08-22T16:58:00",
+        "2024-08-27T01:44:00",
+        "2024-08-27T02:09:00",
+        "2024-09-19T18:11:00",
+        "2024-09-23T00:11:00",
+        "2025-10-12T16:31:00",
+        "2025-10-14T07:31:00",
+        "2025-10-16T19:01:00",
+        "2025-02-17T14:33:00",
+        "2025-04-30T23:04:00",
+        "2025-07-14T13:05:00",
+        "2025-07-14T16:31:00",
+        "2025-08-24T08:33:00",
+        "2025-08-27T07:40:00",
+        "2025-09-15T16:29:00",
+        "2025-09-29T13:24:00",
+        "2024-11-19T08:06:00",
+        "2024-11-20T14:25:00",
+        "2025-05-18T11:06:00",
+        "2025-05-27T12:41:00"
+      ]
+    },
+    "상욱": {
+      "shipments": 38,
+      "containers": 3,
+      "deliveries": 1,
+      "vessels": [
+        "JPT62",
+        "JPT71",
+        "Thuraya",
+        "Yeam",
+        "jpt62"
+      ],
+      "locations": [
+        "MOSB",
+        "DAS",
+        "AGI",
+        "Al Jaber"
+      ],
+      "keywords": [],
+      "timestamps": [
+        "2025-01-14T17:51:00",
+        "2025-01-15T08:27:00",
+        "2025-01-20T14:57:00",
+        "2025-02-16T13:13:00",
+        "2025-02-24T09:46:00",
+        "2025-03-12T10:45:00",
+        "2025-04-20T11:10:00",
+        "2025-04-23T10:45:00",
+        "2025-05-14T07:02:00",
+        "2025-05-23T08:24:00",
+        "2025-07-20T16:46:00",
+        "2025-07-25T11:33:00",
+        "2025-08-19T08:07:00",
+        "2025-08-30T04:46:00",
+        "2025-01-14T17:45:00",
+        "2025-01-20T08:28:00",
+        "2025-02-14T15:37:00",
+        "2025-02-16T14:29:00",
+        "2025-04-17T13:34:00",
+        "2025-05-13T09:54:00",
+        "2025-01-13T09:49:00",
+        "2025-01-14T16:58:00",
+        "2025-02-24T15:02:00",
+        "2025-03-16T12:00:00",
+        "2025-04-10T14:13:00",
+        "2025-04-23T07:26:00",
+        "2025-04-24T10:59:00",
+        "2025-04-25T16:01:00",
+        "2025-04-30T10:41:00",
+        "2025-05-19T14:31:00",
+        "2025-07-25T11:33:00",
+        "2025-08-11T17:27:00",
+        "2025-08-12T15:06:00",
+        "2025-08-29T07:18:00",
+        "2025-09-12T07:13:00",
+        "2025-09-15T13:02:00",
+        "2025-05-15T08:44:00",
+        "2025-01-16T08:07:00",
+        "2025-06-15T08:20:00",
+        "2025-07-28T07:32:00",
+        "2025-01-19T10:51:00",
+        "2025-09-10T08:49:00"
+      ]
+    },
+    "ronpap20": {
+      "shipments": 5,
+      "containers": 1,
+      "deliveries": 0,
+      "vessels": [
+        "JPT62",
+        "THURAYA"
+      ],
+      "locations": [],
+      "keywords": [],
+      "timestamps": [
+        "2025-03-24T15:56:00",
+        "2025-07-20T08:05:00",
+        "2025-09-30T14:44:00",
+        "2025-03-16T12:01:00",
+        "2025-09-21T14:35:00",
+        "2025-04-24T08:45:00"
+      ]
+    },
+    "Jhysn": {
+      "shipments": 3,
+      "containers": 0,
+      "deliveries": 1,
+      "vessels": [
+        "THURAYA"
+      ],
+      "locations": [],
+      "keywords": [],
+      "timestamps": [
+        "2025-10-12T17:20:00",
+        "2025-10-12T17:38:00",
+        "2025-09-18T10:12:00",
+        "2024-11-20T12:06:00"
+      ]
+    },
+    "Thusar": {
+      "shipments": 16,
+      "containers": 0,
+      "deliveries": 0,
+      "vessels": [
+        "THURAYA",
+        "Thuraya",
+        "thuraya"
+      ],
+      "locations": [],
+      "keywords": [],
+      "timestamps": [
+        "2025-02-17T21:31:00",
+        "2025-02-17T22:44:00",
+        "2025-02-24T17:26:00",
+        "2025-03-21T05:12:00",
+        "2025-10-16T21:49:00",
+        "2025-04-13T12:48:00",
+        "2025-04-24T04:06:00",
+        "2025-07-26T08:12:00",
+        "2025-07-29T09:27:00",
+        "2025-09-12T04:03:00",
+        "2025-09-15T13:04:00",
+        "2025-09-21T19:41:00",
+        "2025-09-21T20:00:00",
+        "2025-09-27T09:44:00",
+        "2025-09-29T16:04:00",
+        "2025-07-14T16:41:00"
+      ]
+    },
+    "System": {
+      "shipments": 6,
+      "containers": 1,
+      "deliveries": 2,
+      "vessels": [
+        "THURAYA",
+        "Thuraya",
+        "Yeam"
+      ],
+      "locations": [],
+      "keywords": [],
+      "timestamps": [
+        "2025-03-31T15:48:00",
+        "2025-04-27T14:46:00",
+        "2025-05-14T11:00:00",
+        "2025-05-23T11:37:00",
+        "2025-09-15T17:03:00",
+        "2025-09-15T16:23:00",
+        "2025-07-17T11:33:00",
+        "2025-05-14T07:51:00",
+        "2025-05-14T07:53:00"
+      ]
+    },
+    "국일 Kim": {
+      "shipments": 6,
+      "containers": 0,
+      "deliveries": 3,
+      "vessels": [
+        "Thuraya",
+        "Yeam"
+      ],
+      "locations": [],
+      "keywords": [],
+      "timestamps": [
+        "2024-11-14T17:30:00",
+        "2025-10-12T15:09:00",
+        "2025-02-24T16:56:00",
+        "2025-03-23T10:47:00",
+        "2025-09-11T15:56:00",
+        "2024-11-20T16:13:00",
+        "2025-10-12T14:38:00",
+        "2025-01-14T15:45:00",
+        "2025-08-26T08:42:00"
+      ]
+    },
+    "Logistics Driver 1": {
+      "shipments": 1,
+      "containers": 0,
+      "deliveries": 0,
+      "vessels": [
+        "YEAM"
+      ],
+      "locations": [],
+      "keywords": [],
+      "timestamps": [
+        "2025-09-28T19:21:00"
+      ]
+    },
+    "Karthi": {
+      "shipments": 0,
+      "containers": 1,
+      "deliveries": 0,
+      "vessels": [],
+      "locations": [],
+      "keywords": [],
+      "timestamps": [
+        "2025-07-15T12:15:00"
+      ]
+    },
+    "Friday D 13th": {
+      "shipments": 0,
+      "containers": 1,
+      "deliveries": 12,
+      "vessels": [],
+      "locations": [],
+      "keywords": [],
+      "timestamps": [
+        "2024-11-15T08:38:00",
+        "2024-11-15T14:48:00",
+        "2025-01-16T16:20:00",
+        "2025-01-20T17:27:00",
+        "2025-01-27T08:28:00",
+        "2025-02-13T10:14:00",
+        "2025-02-20T10:14:00",
+        "2025-02-20T14:17:00",
+        "2024-08-22T07:32:00",
+        "2024-11-11T09:09:00",
+        "2025-01-28T08:17:00",
+        "2024-12-11T15:54:00",
+        "2025-01-14T13:17:00"
+      ]
+    },
+    "kEn 🏄🏻🌊": {
+      "shipments": 0,
+      "containers": 0,
+      "deliveries": 2,
+      "vessels": [],
+      "locations": [],
+      "keywords": [],
+      "timestamps": [
+        "2024-10-26T09:48:00",
+        "2025-06-10T09:16:00"
+      ]
+    },
+    "DaN": {
+      "shipments": 0,
+      "containers": 0,
+      "deliveries": 3,
+      "vessels": [],
+      "locations": [],
+      "keywords": [],
+      "timestamps": [
+        "2025-07-24T17:07:00",
+        "2025-04-28T11:58:00",
+        "2025-09-11T16:43:00"
+      ]
+    }
+  },
+  "time_analysis": {
+    "Shariff": {
+      "total_activities": 42,
+      "hourly_distribution": {
+        "08": 6,
+        "07": 5,
+        "15": 5,
+        "16": 5,
+        "13": 4,
+        "11": 3,
+        "14": 3,
+        "09": 3,
+        "10": 3,
+        "06": 1,
+        "20": 1,
+        "12": 1,
+        "18": 1,
+        "17": 1
+      },
+      "peak_hour": "08",
+      "activity_span": 14
+    },
+    "Haitham": {
+      "total_activities": 156,
+      "hourly_distribution": {
+        "07": 47,
+        "16": 12,
+        "17": 12,
+        "18": 10,
+        "14": 8,
+        "10": 8,
+        "08": 8,
+        "13": 7,
+        "09": 6,
+        "11": 6,
+        "15": 5,
+        "22": 5,
+        "01": 4,
+        "19": 4,
+        "00": 4,
+        "06": 3,
+        "23": 2,
+        "12": 2,
+        "20": 1,
+        "03": 1,
+        "02": 1
+      },
+      "peak_hour": "07",
+      "activity_span": 21
+    },
+    "상욱": {
+      "total_activities": 42,
+      "hourly_distribution": {
+        "08": 8,
+        "10": 5,
+        "07": 5,
+        "14": 4,
+        "17": 3,
+        "13": 3,
+        "09": 3,
+        "11": 3,
+        "16": 3,
+        "15": 3,
+        "04": 1,
+        "12": 1
+      },
+      "peak_hour": "08",
+      "activity_span": 12
+    },
+    "ronpap20": {
+      "total_activities": 6,
+      "hourly_distribution": {
+        "08": 2,
+        "14": 2,
+        "15": 1,
+        "12": 1
+      },
+      "peak_hour": "08",
+      "activity_span": 4
+    },
+    "Jhysn": {
+      "total_activities": 4,
+      "hourly_distribution": {
+        "17": 2,
+        "10": 1,
+        "12": 1
+      },
+      "peak_hour": "17",
+      "activity_span": 3
+    },
+    "Thusar": {
+      "total_activities": 16,
+      "hourly_distribution": {
+        "21": 2,
+        "04": 2,
+        "09": 2,
+        "16": 2,
+        "22": 1,
+        "17": 1,
+        "05": 1,
+        "12": 1,
+        "08": 1,
+        "13": 1,
+        "19": 1,
+        "20": 1
+      },
+      "peak_hour": "21",
+      "activity_span": 12
+    },
+    "System": {
+      "total_activities": 9,
+      "hourly_distribution": {
+        "11": 3,
+        "07": 2,
+        "15": 1,
+        "14": 1,
+        "17": 1,
+        "16": 1
+      },
+      "peak_hour": "11",
+      "activity_span": 6
+    },
+    "국일 Kim": {
+      "total_activities": 9,
+      "hourly_distribution": {
+        "15": 3,
+        "16": 2,
+        "17": 1,
+        "10": 1,
+        "14": 1,
+        "08": 1
+      },
+      "peak_hour": "15",
+      "activity_span": 6
+    },
+    "Logistics Driver 1": {
+      "total_activities": 1,
+      "hourly_distribution": {
+        "19": 1
+      },
+      "peak_hour": "19",
+      "activity_span": 1
+    },
+    "Karthi": {
+      "total_activities": 1,
+      "hourly_distribution": {
+        "12": 1
+      },
+      "peak_hour": "12",
+      "activity_span": 1
+    },
+    "Friday D 13th": {
+      "total_activities": 13,
+      "hourly_distribution": {
+        "08": 3,
+        "14": 2,
+        "10": 2,
+        "16": 1,
+        "17": 1,
+        "07": 1,
+        "09": 1,
+        "15": 1,
+        "13": 1
+      },
+      "peak_hour": "08",
+      "activity_span": 9
+    },
+    "kEn 🏄🏻🌊": {
+      "total_activities": 2,
+      "hourly_distribution": {
+        "09": 2
+      },
+      "peak_hour": "09",
+      "activity_span": 1
+    },
+    "DaN": {
+      "total_activities": 3,
+      "hourly_distribution": {
+        "17": 1,
+        "11": 1,
+        "16": 1
+      },
+      "peak_hour": "17",
+      "activity_span": 3
+    }
+  }
+}

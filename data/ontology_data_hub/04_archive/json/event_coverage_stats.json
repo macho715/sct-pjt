@@ -1,0 +1,9 @@
+{
+  "total_cases": 8995,
+  "with_inbound": 5012,
+  "with_outbound": 2381,
+  "with_both": 1194,
+  "with_neither": 2796,
+  "inbound_coverage_pct": 55.72,
+  "outbound_coverage_pct": 26.47
+}

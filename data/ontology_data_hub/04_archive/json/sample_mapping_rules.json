@@ -1,0 +1,82 @@
+{
+    "namespaces": {
+        "ex": "http://samsung.com/project-logistics#",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "xsd": "http://www.w3.org/2001/XMLSchema#"
+    },
+    "field_map": {
+        "Case_No": "hasCase",
+        "Date": "hasDate",
+        "Location": "hasLocation",
+        "Qty": "hasQuantity",
+        "Amount": "hasAmount",
+        "Handling Fee": "hasHandlingFee",
+        "HVDC CODE": "hasHvdcCode",
+        "HVDC CODE 2": "hasHvdcCode2",
+        "HVDC CODE 3": "hasHvdcCode3",
+        "HVDC CODE 4": "hasHvdcCode4",
+        "Operation Month": "hasOperationMonth",
+        "ETA": "hasETA",
+        "SQM": "hasSQM",
+        "Handling In freight ton": "hasHandlingIn",
+        "Handling out Freight Ton": "hasHandlingOut",
+        "CBM": "hasCBM",
+        "Pkg": "hasPackage",
+        "G.W(KG)": "hasGrossWeight",
+        "N.W(kgs)": "hasNetWeight",
+        "L(CM)": "hasLength",
+        "W(CM)": "hasWidth",
+        "H(CM)": "hasHeight"
+    },
+    "property_mappings": {
+        "Qty": {
+            "datatype": "xsd:integer"
+        },
+        "Amount": {
+            "datatype": "xsd:decimal"
+        },
+        "Handling Fee": {
+            "datatype": "xsd:decimal"
+        },
+        "SQM": {
+            "datatype": "xsd:decimal"
+        },
+        "CBM": {
+            "datatype": "xsd:decimal"
+        },
+        "Pkg": {
+            "datatype": "xsd:integer"
+        },
+        "G.W(KG)": {
+            "datatype": "xsd:decimal"
+        },
+        "N.W(kgs)": {
+            "datatype": "xsd:decimal"
+        },
+        "L(CM)": {
+            "datatype": "xsd:decimal"
+        },
+        "W(CM)": {
+            "datatype": "xsd:decimal"
+        },
+        "H(CM)": {
+            "datatype": "xsd:decimal"
+        }
+    },
+    "class_mappings": {
+        "TransportEvent": "TransportEvent",
+        "Dataset": "Dataset"
+    },
+    "hvdc_code3_valid": [
+        "HE",
+        "SIM"
+    ],
+    "warehouse_codes": [
+        "DSV Outdoor",
+        "DSV Indoor",
+        "DSV Al Markaz",
+        "DSV MZP"
+    ],
+    "month_matching": "operation_month_eq_eta_month"
+}

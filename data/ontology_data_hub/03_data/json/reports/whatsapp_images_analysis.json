@@ -1,0 +1,2609 @@
+{
+  "analysis_timestamp": "2025-10-20T01:16:58.270388",
+  "summary": {
+    "total_images": 282,
+    "date_range": {
+      "earliest": "2025-02-26",
+      "latest": "2025-10-19"
+    },
+    "file_size_distribution": {
+      "small": 82,
+      "medium": 200,
+      "large": 0
+    },
+    "most_active_dates": {
+      "2025-09-04": 56,
+      "2025-10-14": 40,
+      "2025-10-13": 36,
+      "2025-10-15": 28,
+      "2025-10-12": 24
+    }
+  },
+  "detailed_analysis": {
+    "images_by_date": {
+      "2025-02-26": 1,
+      "2025-04-18": 1,
+      "2025-06-19": 1,
+      "2025-09-01": 1,
+      "2025-09-04": 56,
+      "2025-09-05": 21,
+      "2025-10-11": 5,
+      "2025-10-12": 24,
+      "2025-10-13": 36,
+      "2025-10-14": 40,
+      "2025-10-15": 28,
+      "2025-10-16": 21,
+      "2025-10-17": 22,
+      "2025-10-18": 4,
+      "2025-10-19": 21
+    },
+    "file_naming_patterns": {
+      "IMG-prefix": 282,
+      "WhatsApp-format": 282
+    },
+    "daily_activity": {
+      "2025-02-26": 1,
+      "2025-04-18": 1,
+      "2025-06-19": 1,
+      "2025-09-01": 1,
+      "2025-09-04": 56,
+      "2025-09-05": 21,
+      "2025-10-11": 5,
+      "2025-10-12": 24,
+      "2025-10-13": 36,
+      "2025-10-14": 40,
+      "2025-10-15": 28,
+      "2025-10-16": 21,
+      "2025-10-17": 22,
+      "2025-10-18": 4,
+      "2025-10-19": 21
+    }
+  },
+  "image_list": [
+    {
+      "filename": "IMG-20250226-WA0017.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250226-WA0017.jpg",
+      "file_size": 119679,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.145772",
+      "extracted_date": "2025-02-26",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250418-WA0027.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250418-WA0027.jpg",
+      "file_size": 78214,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.168401",
+      "extracted_date": "2025-04-18",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250619-WA0030.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250619-WA0030.jpg",
+      "file_size": 82129,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.173180",
+      "extracted_date": "2025-06-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250901-WA0024.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250901-WA0024.jpg",
+      "file_size": 240824,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.185886",
+      "extracted_date": "2025-09-01",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0001.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0001.jpg",
+      "file_size": 202180,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.187803",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0002.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0002.jpg",
+      "file_size": 217422,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.196482",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0004.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0004.jpg",
+      "file_size": 200785,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.201482",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0005.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0005.jpg",
+      "file_size": 270980,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.207483",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0006.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0006.jpg",
+      "file_size": 168908,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.211066",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0007.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0007.jpg",
+      "file_size": 76950,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.215069",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0008.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0008.jpg",
+      "file_size": 140138,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.220070",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0009.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0009.jpg",
+      "file_size": 214284,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.224250",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0011.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0011.jpg",
+      "file_size": 98025,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.229250",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0012.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0012.jpg",
+      "file_size": 80896,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.232250",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0013.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0013.jpg",
+      "file_size": 57735,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.237251",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0014.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0014.jpg",
+      "file_size": 326300,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.238251",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0018.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0018.jpg",
+      "file_size": 124688,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.238251",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0031.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0031.jpg",
+      "file_size": 215461,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.238251",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0034.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0034.jpg",
+      "file_size": 14408,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.255563",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0035.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0035.jpg",
+      "file_size": 83402,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.257448",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0036.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0036.jpg",
+      "file_size": 114006,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.257448",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0037.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0037.jpg",
+      "file_size": 94511,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.257448",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0038.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0038.jpg",
+      "file_size": 56495,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.268185",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0039.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0039.jpg",
+      "file_size": 92705,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.269925",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0041.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0041.jpg",
+      "file_size": 130211,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.269925",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0042.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0042.jpg",
+      "file_size": 130563,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.269925",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0043.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0043.jpg",
+      "file_size": 245971,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.285591",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0045.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0045.jpg",
+      "file_size": 217122,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.285591",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0046.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0046.jpg",
+      "file_size": 203466,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.285591",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0047.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0047.jpg",
+      "file_size": 171168,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.285591",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0048.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0048.jpg",
+      "file_size": 146031,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.301310",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0049.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0049.jpg",
+      "file_size": 190694,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.301310",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0050.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0050.jpg",
+      "file_size": 166648,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.311242",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0051.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0051.jpg",
+      "file_size": 371454,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.317394",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0052.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0052.jpg",
+      "file_size": 295955,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.319874",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0053.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0053.jpg",
+      "file_size": 170210,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.319874",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0054.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0054.jpg",
+      "file_size": 280505,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.319874",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0055.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0055.jpg",
+      "file_size": 319276,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.335370",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0056.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0056.jpg",
+      "file_size": 271291,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.340627",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0057.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0057.jpg",
+      "file_size": 395180,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.345671",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0058.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0058.jpg",
+      "file_size": 186716,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.347671",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0059.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0059.jpg",
+      "file_size": 228040,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.351283",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0060.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0060.jpg",
+      "file_size": 188619,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.351283",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0061.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0061.jpg",
+      "file_size": 236894,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.363392",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0062.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0062.jpg",
+      "file_size": 213655,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.363392",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0063.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0063.jpg",
+      "file_size": 230652,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.369905",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0064.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0064.jpg",
+      "file_size": 174901,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.369905",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0065.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0065.jpg",
+      "file_size": 380410,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.379363",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0066.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0066.jpg",
+      "file_size": 249852,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.379363",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0067.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0067.jpg",
+      "file_size": 255831,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.395019",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0068.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0068.jpg",
+      "file_size": 240537,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.397553",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0069.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0069.jpg",
+      "file_size": 372617,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.379363",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0070.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0070.jpg",
+      "file_size": 299348,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.397553",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0071.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0071.jpg",
+      "file_size": 237004,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.406380",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0073.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0073.jpg",
+      "file_size": 137174,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.411382",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0074.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0074.jpg",
+      "file_size": 116385,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.416545",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0075.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0075.jpg",
+      "file_size": 188251,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.422556",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0076.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0076.jpg",
+      "file_size": 149368,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.427410",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0077.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0077.jpg",
+      "file_size": 82584,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.427410",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250904-WA0078.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250904-WA0078.jpg",
+      "file_size": 120970,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.427410",
+      "extracted_date": "2025-09-04",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0005.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0005.jpg",
+      "file_size": 251659,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.443114",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0006.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0006.jpg",
+      "file_size": 99927,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.447218",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0007.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0007.jpg",
+      "file_size": 57844,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.451220",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0008.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0008.jpg",
+      "file_size": 75544,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.454218",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0015.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0015.jpg",
+      "file_size": 44062,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.457217",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0017.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0017.jpg",
+      "file_size": 30158,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.457217",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0018.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0018.jpg",
+      "file_size": 50591,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.457217",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0019.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0019.jpg",
+      "file_size": 251962,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.457217",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0021.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0021.jpg",
+      "file_size": 170673,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.472866",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0022.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0022.jpg",
+      "file_size": 63860,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.472866",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0024.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0024.jpg",
+      "file_size": 222563,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.472866",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0025.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0025.jpg",
+      "file_size": 157038,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.488930",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0026.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0026.jpg",
+      "file_size": 184722,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.488930",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0027.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0027.jpg",
+      "file_size": 129809,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.488930",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0028.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0028.jpg",
+      "file_size": 212174,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.488930",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0029.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0029.jpg",
+      "file_size": 71024,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.504749",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0030.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0030.jpg",
+      "file_size": 95129,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.504749",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0031.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0031.jpg",
+      "file_size": 104728,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.511698",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0032.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0032.jpg",
+      "file_size": 91166,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.511698",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0033.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0033.jpg",
+      "file_size": 115247,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.511698",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20250905-WA0034.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20250905-WA0034.jpg",
+      "file_size": 156034,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.522390",
+      "extracted_date": "2025-09-05",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251011-WA0012.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251011-WA0012.jpg",
+      "file_size": 116849,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.528034",
+      "extracted_date": "2025-10-11",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251011-WA0015.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251011-WA0015.jpg",
+      "file_size": 132882,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.536279",
+      "extracted_date": "2025-10-11",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251011-WA0016.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251011-WA0016.jpg",
+      "file_size": 108902,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.536279",
+      "extracted_date": "2025-10-11",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251011-WA0017.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251011-WA0017.jpg",
+      "file_size": 106832,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.536279",
+      "extracted_date": "2025-10-11",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251011-WA0019.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251011-WA0019.jpg",
+      "file_size": 66055,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.551535",
+      "extracted_date": "2025-10-11",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0000.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0000.jpg",
+      "file_size": 177844,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.555458",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0001.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0001.jpg",
+      "file_size": 216941,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.567446",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0002.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0002.jpg",
+      "file_size": 188588,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.559444",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0003.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0003.jpg",
+      "file_size": 71535,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.076491",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0004.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0004.jpg",
+      "file_size": 309262,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.565542",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0005.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0005.jpg",
+      "file_size": 116140,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.567446",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0006.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0006.jpg",
+      "file_size": 97908,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.567446",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0007.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0007.jpg",
+      "file_size": 24152,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.567446",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0010.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0010.jpg",
+      "file_size": 158209,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.567446",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0011.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0011.jpg",
+      "file_size": 81626,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.583268",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0013.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0013.jpg",
+      "file_size": 116217,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.583268",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0014.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0014.jpg",
+      "file_size": 96353,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.599053",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0015.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0015.jpg",
+      "file_size": 69093,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.599053",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0025.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0025.jpg",
+      "file_size": 86889,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.609704",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0026.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0026.jpg",
+      "file_size": 357555,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.614723",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0027.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0027.jpg",
+      "file_size": 318622,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.618418",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0028.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0028.jpg",
+      "file_size": 151885,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.627373",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0029.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0029.jpg",
+      "file_size": 334274,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.632797",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0030.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0030.jpg",
+      "file_size": 195632,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.632797",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0031.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0031.jpg",
+      "file_size": 97601,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.632797",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0032.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0032.jpg",
+      "file_size": 93720,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.643155",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0033.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0033.jpg",
+      "file_size": 166253,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.649575",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0034.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0034.jpg",
+      "file_size": 145648,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.653652",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251012-WA0035.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251012-WA0035.jpg",
+      "file_size": 26755,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.656651",
+      "extracted_date": "2025-10-12",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0003.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0003.jpg",
+      "file_size": 70928,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.659713",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0004.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0004.jpg",
+      "file_size": 79138,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.663202",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0005.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0005.jpg",
+      "file_size": 193664,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.667631",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0006.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0006.jpg",
+      "file_size": 105598,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.671487",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0007.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0007.jpg",
+      "file_size": 360988,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.678748",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0008.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0008.jpg",
+      "file_size": 66523,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.682842",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0009.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0009.jpg",
+      "file_size": 497096,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.692164",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0010.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0010.jpg",
+      "file_size": 110984,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.695304",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0011.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0011.jpg",
+      "file_size": 107263,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.700588",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0012.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0012.jpg",
+      "file_size": 283476,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.705936",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0013.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0013.jpg",
+      "file_size": 107138,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.708377",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0016.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0016.jpg",
+      "file_size": 103923,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.712230",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0018.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0018.jpg",
+      "file_size": 226266,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.716461",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0019.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0019.jpg",
+      "file_size": 187399,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.722751",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0020.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0020.jpg",
+      "file_size": 113980,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.725796",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0021.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0021.jpg",
+      "file_size": 115931,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.729060",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0022.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0022.jpg",
+      "file_size": 109925,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.733382",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0023.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0023.jpg",
+      "file_size": 88143,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.738605",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0026.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0026.jpg",
+      "file_size": 211353,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.740428",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0027.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0027.jpg",
+      "file_size": 84347,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.745511",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0029.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0029.jpg",
+      "file_size": 104445,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.788552",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0033.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0033.jpg",
+      "file_size": 298286,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.912991",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0034.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0034.jpg",
+      "file_size": 367085,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.917016",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0035.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0035.jpg",
+      "file_size": 355862,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.917016",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0036.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0036.jpg",
+      "file_size": 88854,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.925934",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0037.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0037.jpg",
+      "file_size": 210778,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.932297",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0040.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0040.jpg",
+      "file_size": 282469,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.932297",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0043.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0043.jpg",
+      "file_size": 63459,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.942742",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0044.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0044.jpg",
+      "file_size": 223233,
+      "created_date": "2025-10-20T01:12:48",
+      "modified_date": "2025-10-20T01:15:50.942742",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0046.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0046.jpg",
+      "file_size": 281741,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.035923",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0047.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0047.jpg",
+      "file_size": 233392,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.043220",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0048.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0048.jpg",
+      "file_size": 204820,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.049646",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0049.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0049.jpg",
+      "file_size": 178111,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.053746",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0050.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0050.jpg",
+      "file_size": 166884,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.053746",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0053.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0053.jpg",
+      "file_size": 224750,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.063071",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251013-WA0055.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251013-WA0055.jpg",
+      "file_size": 27473,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.067290",
+      "extracted_date": "2025-10-13",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0002.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0002.jpg",
+      "file_size": 16477,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.067290",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0003.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0003.jpg",
+      "file_size": 131504,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.072272",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0005.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0005.jpg",
+      "file_size": 176391,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.078784",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0006.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0006.jpg",
+      "file_size": 157375,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.085625",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0007.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0007.jpg",
+      "file_size": 41499,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.088969",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0008.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0008.jpg",
+      "file_size": 136898,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.091932",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0009.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0009.jpg",
+      "file_size": 201273,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.096934",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0010.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0010.jpg",
+      "file_size": 225503,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.100936",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0011.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0011.jpg",
+      "file_size": 195882,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.104937",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0013.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0013.jpg",
+      "file_size": 87807,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.108936",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0014.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0014.jpg",
+      "file_size": 98376,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.113441",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0015.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0015.jpg",
+      "file_size": 196862,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.118123",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0018.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0018.jpg",
+      "file_size": 370188,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.118123",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0020.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0020.jpg",
+      "file_size": 227709,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.129279",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0021.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0021.jpg",
+      "file_size": 196088,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.132005",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0023.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0023.jpg",
+      "file_size": 34250,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.132005",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0025.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0025.jpg",
+      "file_size": 210368,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.132005",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0029.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0029.jpg",
+      "file_size": 63541,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.144491",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0030.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0030.jpg",
+      "file_size": 256031,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.147769",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0032.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0032.jpg",
+      "file_size": 98841,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.147769",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0033.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0033.jpg",
+      "file_size": 75045,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.156301",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0034.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0034.jpg",
+      "file_size": 122530,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.160417",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0035.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0035.jpg",
+      "file_size": 249089,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.162529",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0036.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0036.jpg",
+      "file_size": 77848,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.167804",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0037.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0037.jpg",
+      "file_size": 230047,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.172031",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0038.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0038.jpg",
+      "file_size": 27027,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.174134",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0041.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0041.jpg",
+      "file_size": 127600,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.176137",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0042.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0042.jpg",
+      "file_size": 119445,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.181048",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0043.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0043.jpg",
+      "file_size": 133520,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.181048",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0044.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0044.jpg",
+      "file_size": 127852,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.185519",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0045.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0045.jpg",
+      "file_size": 94685,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.193448",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0046.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0046.jpg",
+      "file_size": 95866,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.197778",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0047.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0047.jpg",
+      "file_size": 97521,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.200645",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0048.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0048.jpg",
+      "file_size": 282151,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.200645",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0049.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0049.jpg",
+      "file_size": 168330,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.212449",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0050.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0050.jpg",
+      "file_size": 260267,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.217453",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0051.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0051.jpg",
+      "file_size": 165872,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.223452",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0052.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0052.jpg",
+      "file_size": 184298,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.223452",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0053.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0053.jpg",
+      "file_size": 71871,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.223452",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251014-WA0054.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251014-WA0054.jpg",
+      "file_size": 478014,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.223452",
+      "extracted_date": "2025-10-14",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0002.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0002.jpg",
+      "file_size": 231098,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.239110",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0004.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0004.jpg",
+      "file_size": 198220,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.244537",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0005.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0005.jpg",
+      "file_size": 73917,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.244537",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0006.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0006.jpg",
+      "file_size": 216179,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.254849",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0007.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0007.jpg",
+      "file_size": 295178,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.259948",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0008.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0008.jpg",
+      "file_size": 190659,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.268864",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0010.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0010.jpg",
+      "file_size": 183105,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.272273",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0014.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0014.jpg",
+      "file_size": 234324,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.278080",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0015.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0015.jpg",
+      "file_size": 179063,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.278080",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0016.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0016.jpg",
+      "file_size": 156978,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.263953",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0019.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0019.jpg",
+      "file_size": 209619,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.286329",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0020.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0020.jpg",
+      "file_size": 157897,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.286329",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0021.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0021.jpg",
+      "file_size": 149905,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.286329",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0022.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0022.jpg",
+      "file_size": 162924,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.297992",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0025.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0025.jpg",
+      "file_size": 196835,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.303186",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0029.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0029.jpg",
+      "file_size": 89543,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.307049",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0031.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0031.jpg",
+      "file_size": 83860,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.310052",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0035.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0035.jpg",
+      "file_size": 213412,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.314558",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0036.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0036.jpg",
+      "file_size": 272884,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.319582",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0037.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0037.jpg",
+      "file_size": 76986,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.322559",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0039.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0039.jpg",
+      "file_size": 117040,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.326186",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0040.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0040.jpg",
+      "file_size": 116420,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.329937",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0041.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0041.jpg",
+      "file_size": 71101,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.332940",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0044.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0044.jpg",
+      "file_size": 75351,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.334578",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0045.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0045.jpg",
+      "file_size": 270249,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.340318",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0046.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0046.jpg",
+      "file_size": 87449,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.340318",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0047.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0047.jpg",
+      "file_size": 118486,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.340318",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251015-WA0049.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251015-WA0049.jpg",
+      "file_size": 155065,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.354254",
+      "extracted_date": "2025-10-15",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0001.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0001.jpg",
+      "file_size": 208487,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.354254",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0002.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0002.jpg",
+      "file_size": 198904,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.364962",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0003.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0003.jpg",
+      "file_size": 39912,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.370947",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0005.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0005.jpg",
+      "file_size": 70091,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.370947",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0006.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0006.jpg",
+      "file_size": 91324,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.370947",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0007.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0007.jpg",
+      "file_size": 249423,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.380652",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0008.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0008.jpg",
+      "file_size": 200072,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.380652",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0009.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0009.jpg",
+      "file_size": 118081,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.380652",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0010.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0010.jpg",
+      "file_size": 227542,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.399716",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0014.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0014.jpg",
+      "file_size": 234488,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.404049",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0015.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0015.jpg",
+      "file_size": 42189,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.407969",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0016.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0016.jpg",
+      "file_size": 214180,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.412862",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0017.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0017.jpg",
+      "file_size": 216101,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.416992",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0019.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0019.jpg",
+      "file_size": 217937,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.424118",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0020.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0020.jpg",
+      "file_size": 136782,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.429788",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0021.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0021.jpg",
+      "file_size": 73635,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.434034",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0026.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0026.jpg",
+      "file_size": 218670,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.438411",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0027.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0027.jpg",
+      "file_size": 77081,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.442412",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0028.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0028.jpg",
+      "file_size": 100684,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.442412",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0029.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0029.jpg",
+      "file_size": 29677,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.442412",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251016-WA0030.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251016-WA0030.jpg",
+      "file_size": 146087,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.451379",
+      "extracted_date": "2025-10-16",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0002.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0002.jpg",
+      "file_size": 220244,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.458088",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0003.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0003.jpg",
+      "file_size": 238188,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.462378",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0004.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0004.jpg",
+      "file_size": 63675,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.464801",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0005.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0005.jpg",
+      "file_size": 165428,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.464801",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0009.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0009.jpg",
+      "file_size": 125129,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.474194",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0010.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0010.jpg",
+      "file_size": 300866,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.474194",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0011.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0011.jpg",
+      "file_size": 321950,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.474194",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0012.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0012.jpg",
+      "file_size": 118355,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.485539",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0013.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0013.jpg",
+      "file_size": 95245,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.489935",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0014.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0014.jpg",
+      "file_size": 229648,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.489935",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0015.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0015.jpg",
+      "file_size": 181202,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.489935",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0035.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0035.jpg",
+      "file_size": 171712,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.489935",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0037.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0037.jpg",
+      "file_size": 100904,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.489935",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0038.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0038.jpg",
+      "file_size": 224039,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.505584",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0039.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0039.jpg",
+      "file_size": 208370,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.513149",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0040.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0040.jpg",
+      "file_size": 188919,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.515152",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0041.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0041.jpg",
+      "file_size": 104532,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.521350",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0042.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0042.jpg",
+      "file_size": 101436,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.521350",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0043.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0043.jpg",
+      "file_size": 221143,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.528873",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0044.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0044.jpg",
+      "file_size": 199153,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.534926",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0045.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0045.jpg",
+      "file_size": 163837,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.539130",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251017-WA0046.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251017-WA0046.jpg",
+      "file_size": 151978,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.544131",
+      "extracted_date": "2025-10-17",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251018-WA0000.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251018-WA0000.jpg",
+      "file_size": 163446,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.552011",
+      "extracted_date": "2025-10-18",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251018-WA0001.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251018-WA0001.jpg",
+      "file_size": 150013,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.548008",
+      "extracted_date": "2025-10-18",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251018-WA0002.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251018-WA0002.jpg",
+      "file_size": 97166,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.551011",
+      "extracted_date": "2025-10-18",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251018-WA0006.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251018-WA0006.jpg",
+      "file_size": 57626,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.552011",
+      "extracted_date": "2025-10-18",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0001.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0001.jpg",
+      "file_size": 102820,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.552011",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0004.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0004.jpg",
+      "file_size": 218852,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.552011",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0005.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0005.jpg",
+      "file_size": 226009,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.569968",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0006.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0006.jpg",
+      "file_size": 263165,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.569968",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0007.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0007.jpg",
+      "file_size": 68391,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.577636",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0008.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0008.jpg",
+      "file_size": 105626,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.583089",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0009.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0009.jpg",
+      "file_size": 69948,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.587097",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0011.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0011.jpg",
+      "file_size": 120913,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.590770",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0012.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0012.jpg",
+      "file_size": 123722,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.590770",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0013.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0013.jpg",
+      "file_size": 43885,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.599263",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0015.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0015.jpg",
+      "file_size": 403613,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.602427",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0017.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0017.jpg",
+      "file_size": 7512,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.602427",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0019.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0019.jpg",
+      "file_size": 180467,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.615122",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0020.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0020.jpg",
+      "file_size": 202740,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.621182",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0021.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0021.jpg",
+      "file_size": 185077,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.621182",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0022.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0022.jpg",
+      "file_size": 182300,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.631174",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0023.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0023.jpg",
+      "file_size": 20231,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.634208",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0025.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0025.jpg",
+      "file_size": 259385,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.634208",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0026.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0026.jpg",
+      "file_size": 211615,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.645155",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0027.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0027.jpg",
+      "file_size": 68598,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.649997",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    },
+    {
+      "filename": "IMG-20251019-WA0028.jpg",
+      "file_path": "ABU\\WHATSAPP\\IMG-20251019-WA0028.jpg",
+      "file_size": 140695,
+      "created_date": "2025-10-20T01:12:50",
+      "modified_date": "2025-10-20T01:15:51.653998",
+      "extracted_date": "2025-10-19",
+      "file_type": "WhatsApp_Image"
+    }
+  ],
+  "recommendations": [
+    "대량의 이미지가 발견되었습니다. OCR 처리를 통한 LPO 정보 추출을 권장합니다.",
+    "이미지가 2025-02-26부터 2025-10-19까지 분포되어 있습니다. 시간순 분석이 가능합니다.",
+    "이미지에서 LPO 번호, 공급업체명, 금액, 날짜 등의 텍스트 정보를 추출할 수 있습니다.",
+    "WhatsApp 이미지는 주로 LPO 문서, 견적서, 승인서 등의 스크린샷일 가능성이 높습니다.",
+    "OCR 기술을 활용하여 이미지에서 구조화된 LPO 데이터를 추출하는 것을 권장합니다."
+  ]
+}

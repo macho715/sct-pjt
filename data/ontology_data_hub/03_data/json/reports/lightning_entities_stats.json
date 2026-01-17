@@ -1,0 +1,13 @@
+{
+  "total_entities": 321,
+  "total_messages": 4671,
+  "entity_counts": {
+    "vessels": 33,
+    "locations": 23,
+    "operations": 31,
+    "cargo": 27,
+    "persons": 14,
+    "times": 193
+  },
+  "extraction_timestamp": "2025-10-22T21:13:11.602237"
+}

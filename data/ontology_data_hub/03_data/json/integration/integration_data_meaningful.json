@@ -1,0 +1,759 @@
+{
+  "nodes": [
+    {
+      "id": "vessel:JPT71",
+      "label": "JPT71",
+      "type": "vessel",
+      "weight": 1.0,
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "person:Shariff",
+      "label": "Shariff",
+      "type": "person",
+      "shipments": 41,
+      "total_work": 42,
+      "color": "#74c0fc"
+    },
+    {
+      "id": "person:Haitham",
+      "label": "Haitham",
+      "type": "person",
+      "shipments": 154,
+      "total_work": 156,
+      "color": "#74c0fc"
+    },
+    {
+      "id": "person:상욱",
+      "label": "상욱",
+      "type": "person",
+      "shipments": 38,
+      "total_work": 42,
+      "color": "#74c0fc"
+    },
+    {
+      "id": "person:ronpap20",
+      "label": "ronpap20",
+      "type": "person",
+      "shipments": 5,
+      "total_work": 6,
+      "color": "#74c0fc"
+    },
+    {
+      "id": "person:Jhysn",
+      "label": "Jhysn",
+      "type": "person",
+      "shipments": 3,
+      "total_work": 4,
+      "color": "#74c0fc"
+    },
+    {
+      "id": "person:Thusar",
+      "label": "Thusar",
+      "type": "person",
+      "shipments": 16,
+      "total_work": 16,
+      "color": "#74c0fc"
+    },
+    {
+      "id": "person:국일 Kim",
+      "label": "국일 Kim",
+      "type": "person",
+      "shipments": 6,
+      "total_work": 9,
+      "color": "#74c0fc"
+    },
+    {
+      "id": "person:Logistics Driver 1",
+      "label": "Logistics Driver 1",
+      "type": "person",
+      "shipments": 1,
+      "total_work": 1,
+      "color": "#74c0fc"
+    },
+    {
+      "id": "person:Karthi",
+      "label": "Karthi",
+      "type": "person",
+      "shipments": 0,
+      "total_work": 1,
+      "color": "#74c0fc"
+    },
+    {
+      "id": "person:Friday D 13th",
+      "label": "Friday D 13th",
+      "type": "person",
+      "shipments": 0,
+      "total_work": 13,
+      "color": "#74c0fc"
+    },
+    {
+      "id": "person:kEn 🏄🏻🌊",
+      "label": "kEn 🏄🏻🌊",
+      "type": "person",
+      "shipments": 0,
+      "total_work": 2,
+      "color": "#74c0fc"
+    },
+    {
+      "id": "person:DaN",
+      "label": "DaN",
+      "type": "person",
+      "shipments": 0,
+      "total_work": 3,
+      "color": "#74c0fc"
+    },
+    {
+      "id": "vessel:Thuraya",
+      "label": "Thuraya",
+      "type": "vessel",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "vessel:thuraya",
+      "label": "thuraya",
+      "type": "vessel",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "vessel:THURAYA",
+      "label": "THURAYA",
+      "type": "vessel",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "vessel:Jpt62",
+      "label": "Jpt62",
+      "type": "vessel",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "vessel:YEAM",
+      "label": "YEAM",
+      "type": "vessel",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "vessel:Jpt71",
+      "label": "Jpt71",
+      "type": "vessel",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "vessel:Yeam",
+      "label": "Yeam",
+      "type": "vessel",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "vessel:JPT62",
+      "label": "JPT62",
+      "type": "vessel",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "vessel:Buahra",
+      "label": "Buahra",
+      "type": "vessel",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "vessel:Tamarah",
+      "label": "Tamarah",
+      "type": "vessel",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "vessel:JPt62",
+      "label": "JPt62",
+      "type": "vessel",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "vessel:yeam",
+      "label": "yeam",
+      "type": "vessel",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "vessel:Taibah",
+      "label": "Taibah",
+      "type": "vessel",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "vessel:taibah",
+      "label": "taibah",
+      "type": "vessel",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "vessel:jpt62",
+      "label": "jpt62",
+      "type": "vessel",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "port:Al Jaber",
+      "label": "Al Jaber",
+      "type": "port",
+      "color": "#51cf66"
+    },
+    {
+      "id": "port:AGI",
+      "label": "AGI",
+      "type": "port",
+      "color": "#51cf66"
+    },
+    {
+      "id": "port:MW4",
+      "label": "MW4",
+      "type": "port",
+      "color": "#51cf66"
+    },
+    {
+      "id": "port:DAS",
+      "label": "DAS",
+      "type": "port",
+      "color": "#51cf66"
+    },
+    {
+      "id": "port:das",
+      "label": "das",
+      "type": "port",
+      "color": "#51cf66"
+    },
+    {
+      "id": "port:MOSB",
+      "label": "MOSB",
+      "type": "port",
+      "color": "#51cf66"
+    },
+    {
+      "id": "port:Umm ALanbar",
+      "label": "Umm ALanbar",
+      "type": "port",
+      "color": "#51cf66"
+    },
+    {
+      "id": "port:mosb",
+      "label": "mosb",
+      "type": "port",
+      "color": "#51cf66"
+    },
+    {
+      "id": "port:Musaffah",
+      "label": "Musaffah",
+      "type": "port",
+      "color": "#51cf66"
+    },
+    {
+      "id": "port:Das",
+      "label": "Das",
+      "type": "port",
+      "color": "#51cf66"
+    },
+    {
+      "id": "port:al jaber",
+      "label": "al jaber",
+      "type": "port",
+      "color": "#51cf66"
+    },
+    {
+      "id": "port:agi",
+      "label": "agi",
+      "type": "port",
+      "color": "#51cf66"
+    },
+    {
+      "id": "operation:Shariff_shipments",
+      "label": "Shariff Shipments (41)",
+      "type": "operation",
+      "count": 41,
+      "color": "#ffd43b"
+    },
+    {
+      "id": "operation:Haitham_shipments",
+      "label": "Haitham Shipments (154)",
+      "type": "operation",
+      "count": 154,
+      "color": "#ffd43b"
+    },
+    {
+      "id": "operation:상욱_shipments",
+      "label": "상욱 Shipments (38)",
+      "type": "operation",
+      "count": 38,
+      "color": "#ffd43b"
+    },
+    {
+      "id": "operation:ronpap20_shipments",
+      "label": "ronpap20 Shipments (5)",
+      "type": "operation",
+      "count": 5,
+      "color": "#ffd43b"
+    },
+    {
+      "id": "operation:Jhysn_shipments",
+      "label": "Jhysn Shipments (3)",
+      "type": "operation",
+      "count": 3,
+      "color": "#ffd43b"
+    },
+    {
+      "id": "operation:Thusar_shipments",
+      "label": "Thusar Shipments (16)",
+      "type": "operation",
+      "count": 16,
+      "color": "#ffd43b"
+    },
+    {
+      "id": "operation:국일 Kim_shipments",
+      "label": "국일 Kim Shipments (6)",
+      "type": "operation",
+      "count": 6,
+      "color": "#ffd43b"
+    },
+    {
+      "id": "operation:Logistics Driver 1_shipments",
+      "label": "Logistics Driver 1 Shipments (1)",
+      "type": "operation",
+      "count": 1,
+      "color": "#ffd43b"
+    }
+  ],
+  "edges": [
+    {
+      "from": "vessel:JPT71",
+      "to": "person:Shariff",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "vessel:JPT71",
+      "to": "person:Haitham",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "vessel:JPT71",
+      "to": "person:상욱",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "vessel:JPT71",
+      "to": "person:ronpap20",
+      "rel": "managed_by",
+      "weight": 6
+    },
+    {
+      "from": "vessel:JPT71",
+      "to": "person:Jhysn",
+      "rel": "managed_by",
+      "weight": 4
+    },
+    {
+      "from": "vessel:JPT71",
+      "to": "person:Thusar",
+      "rel": "managed_by",
+      "weight": 16
+    },
+    {
+      "from": "vessel:JPT71",
+      "to": "person:국일 Kim",
+      "rel": "managed_by",
+      "weight": 9
+    },
+    {
+      "from": "vessel:JPT71",
+      "to": "person:Logistics Driver 1",
+      "rel": "managed_by",
+      "weight": 1
+    },
+    {
+      "from": "vessel:JPT71",
+      "to": "person:Karthi",
+      "rel": "managed_by",
+      "weight": 1
+    },
+    {
+      "from": "vessel:JPT71",
+      "to": "person:Friday D 13th",
+      "rel": "managed_by",
+      "weight": 13
+    },
+    {
+      "from": "vessel:JPT71",
+      "to": "person:kEn 🏄🏻🌊",
+      "rel": "managed_by",
+      "weight": 2
+    },
+    {
+      "from": "vessel:JPT71",
+      "to": "person:DaN",
+      "rel": "managed_by",
+      "weight": 3
+    },
+    {
+      "from": "person:Shariff",
+      "to": "vessel:Thuraya",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Shariff",
+      "to": "vessel:thuraya",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Shariff",
+      "to": "vessel:THURAYA",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Shariff",
+      "to": "vessel:Jpt62",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Shariff",
+      "to": "vessel:YEAM",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Shariff",
+      "to": "vessel:Jpt71",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Shariff",
+      "to": "vessel:Yeam",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Shariff",
+      "to": "vessel:JPT62",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Shariff",
+      "to": "vessel:Buahra",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Shariff",
+      "to": "port:Al Jaber",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Shariff",
+      "to": "port:AGI",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Shariff",
+      "to": "port:MW4",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Shariff",
+      "to": "port:DAS",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Shariff",
+      "to": "port:das",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Shariff",
+      "to": "operation:Shariff_shipments",
+      "rel": "performed",
+      "weight": 41
+    },
+    {
+      "from": "person:Haitham",
+      "to": "vessel:Tamarah",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "vessel:JPt62",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "vessel:Thuraya",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "vessel:thuraya",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "vessel:yeam",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "vessel:Jpt71",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "vessel:Yeam",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "vessel:Taibah",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "vessel:JPT62",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "vessel:taibah",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "port:MOSB",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "port:Umm ALanbar",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "port:AGI",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "port:mosb",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "port:Musaffah",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "port:MW4",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "port:Das",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "port:al jaber",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "port:DAS",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "port:agi",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "port:das",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Haitham",
+      "to": "operation:Haitham_shipments",
+      "rel": "performed",
+      "weight": 154
+    },
+    {
+      "from": "person:상욱",
+      "to": "vessel:Thuraya",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:상욱",
+      "to": "vessel:jpt62",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:상욱",
+      "to": "vessel:Yeam",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:상욱",
+      "to": "vessel:JPT62",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:상욱",
+      "to": "port:MOSB",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:상욱",
+      "to": "port:Al Jaber",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:상욱",
+      "to": "port:AGI",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:상욱",
+      "to": "port:DAS",
+      "rel": "works_at",
+      "weight": 1.0
+    },
+    {
+      "from": "person:상욱",
+      "to": "operation:상욱_shipments",
+      "rel": "performed",
+      "weight": 38
+    },
+    {
+      "from": "person:ronpap20",
+      "to": "vessel:THURAYA",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:ronpap20",
+      "to": "vessel:JPT62",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:ronpap20",
+      "to": "operation:ronpap20_shipments",
+      "rel": "performed",
+      "weight": 5
+    },
+    {
+      "from": "person:Jhysn",
+      "to": "vessel:THURAYA",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Jhysn",
+      "to": "operation:Jhysn_shipments",
+      "rel": "performed",
+      "weight": 3
+    },
+    {
+      "from": "person:Thusar",
+      "to": "vessel:thuraya",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Thusar",
+      "to": "vessel:Thuraya",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Thusar",
+      "to": "vessel:THURAYA",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Thusar",
+      "to": "operation:Thusar_shipments",
+      "rel": "performed",
+      "weight": 16
+    },
+    {
+      "from": "person:국일 Kim",
+      "to": "vessel:Yeam",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:국일 Kim",
+      "to": "vessel:Thuraya",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:국일 Kim",
+      "to": "operation:국일 Kim_shipments",
+      "rel": "performed",
+      "weight": 6
+    },
+    {
+      "from": "person:Logistics Driver 1",
+      "to": "vessel:YEAM",
+      "rel": "operates",
+      "weight": 1.0
+    },
+    {
+      "from": "person:Logistics Driver 1",
+      "to": "operation:Logistics Driver 1_shipments",
+      "rel": "performed",
+      "weight": 1
+    }
+  ]
+}

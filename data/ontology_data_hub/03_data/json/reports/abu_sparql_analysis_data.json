@@ -1,0 +1,118 @@
+{
+  "system_summary": {
+    "total_lpos": "442",
+    "total_persons": "7",
+    "total_vessels": "5",
+    "total_locations": "3",
+    "total_messages": "570",
+    "total_images": "282"
+  },
+  "person_list": [
+    {
+      "person": "https://hvdc.example.org/id/Person/Friday_D_13th"
+    },
+    {
+      "person": "https://hvdc.example.org/id/Person/Jhysn"
+    },
+    {
+      "person": "https://hvdc.example.org/id/Person/ronpap20"
+    },
+    {
+      "person": "https://hvdc.example.org/id/Person/상욱"
+    },
+    {
+      "person": "https://hvdc.example.org/id/Person/DaN"
+    },
+    {
+      "person": "https://hvdc.example.org/id/Person/국일_Kim"
+    },
+    {
+      "person": "https://hvdc.example.org/id/Person/kEn_🏄🏻🌊"
+    }
+  ],
+  "location_list": [
+    {
+      "location": "https://hvdc.example.org/id/Location/AGI"
+    },
+    {
+      "location": "https://hvdc.example.org/id/Location/DAS"
+    },
+    {
+      "location": "https://hvdc.example.org/id/Location/MOSB"
+    }
+  ],
+  "vessel_list": [
+    {
+      "vessel": "https://hvdc.example.org/id/Vessel/Bushra"
+    },
+    {
+      "vessel": "https://hvdc.example.org/id/Vessel/Tamarah"
+    },
+    {
+      "vessel": "https://hvdc.example.org/id/Vessel/JPT62"
+    },
+    {
+      "vessel": "https://hvdc.example.org/id/Vessel/JPT71"
+    },
+    {
+      "vessel": "https://hvdc.example.org/id/Vessel/Thuraya"
+    }
+  ],
+  "lpo_sample": [
+    {
+      "lpo": "https://hvdc.example.org/id/LPO/LPO-1000",
+      "person": "https://hvdc.example.org/id/Person/kEn_🏄🏻🌊",
+      "location": "https://hvdc.example.org/id/Location/DAS"
+    },
+    {
+      "lpo": "https://hvdc.example.org/id/LPO/LPO-1007",
+      "person": "https://hvdc.example.org/id/Person/kEn_🏄🏻🌊",
+      "location": "https://hvdc.example.org/id/Location/DAS"
+    },
+    {
+      "lpo": "https://hvdc.example.org/id/LPO/LPO-1022",
+      "person": "https://hvdc.example.org/id/Person/kEn_🏄🏻🌊",
+      "location": "https://hvdc.example.org/id/Location/DAS"
+    },
+    {
+      "lpo": "https://hvdc.example.org/id/LPO/LPO-1025",
+      "person": "https://hvdc.example.org/id/Person/kEn_🏄🏻🌊",
+      "location": "https://hvdc.example.org/id/Location/DAS"
+    },
+    {
+      "lpo": "https://hvdc.example.org/id/LPO/LPO-1036",
+      "person": "https://hvdc.example.org/id/Person/kEn_🏄🏻🌊",
+      "location": "https://hvdc.example.org/id/Location/DAS"
+    },
+    {
+      "lpo": "https://hvdc.example.org/id/LPO/LPO-1057",
+      "person": "https://hvdc.example.org/id/Person/kEn_🏄🏻🌊",
+      "location": "https://hvdc.example.org/id/Location/MOSB"
+    },
+    {
+      "lpo": "https://hvdc.example.org/id/LPO/LPO-1060",
+      "person": "https://hvdc.example.org/id/Person/kEn_🏄🏻🌊",
+      "location": "https://hvdc.example.org/id/Location/MOSB"
+    },
+    {
+      "lpo": "https://hvdc.example.org/id/LPO/LPO-1061",
+      "person": "https://hvdc.example.org/id/Person/kEn_🏄🏻🌊",
+      "location": "https://hvdc.example.org/id/Location/MOSB"
+    },
+    {
+      "lpo": "https://hvdc.example.org/id/LPO/LPO-1064",
+      "person": "https://hvdc.example.org/id/Person/kEn_🏄🏻🌊",
+      "location": "https://hvdc.example.org/id/Location/DAS"
+    },
+    {
+      "lpo": "https://hvdc.example.org/id/LPO/LPO-1069",
+      "person": "https://hvdc.example.org/id/Person/kEn_🏄🏻🌊",
+      "location": "https://hvdc.example.org/id/Location/DAS"
+    }
+  ],
+  "message_count": [
+    {
+      "message_count": "570"
+    }
+  ]
+}

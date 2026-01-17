@@ -1,0 +1,4079 @@
+{
+  "metadata": {
+    "file_name": "‎Abu Dhabi Logistics님과의 WhatsApp 대화.txt",
+    "analysis_date": "2025-10-20T00:51:06.406796",
+    "total_messages": 22429,
+    "file_size": 2516847
+  },
+  "message_stats": {
+    "total_messages": 22429,
+    "top_senders": {
+      "System": 21728,
+      "- Jhysn: LDA": 339,
+      "- Logistics Driver 1: LDA": 18,
+      "- DaN: Delivery Schedule": 14,
+      "- kEn 🏄🏻🌊: HCS Loading": 3,
+      "- Arvin: SCT-0023": 3,
+      "- Jhysn: FOLLOW UP COLLECTION": 3,
+      "- kEn 🏄🏻🌊: 7x 20' CNTR HILALCO": 2,
+      "- kEn 🏄🏻🌊: 40' DC": 2,
+      "- Jhysn: AGI": 2
+    },
+    "hourly_distribution": {
+      "09": 2948,
+      "08": 2679,
+      "10": 2262,
+      "11": 2207,
+      "07": 2029,
+      "15": 1972,
+      "16": 1798,
+      "14": 1598,
+      "12": 1431,
+      "17": 1328,
+      "13": 934,
+      "18": 415,
+      "19": 232,
+      "06": 131,
+      "20": 125,
+      "21": 81,
+      "23": 66,
+      "22": 47,
+      "01": 40,
+      "00": 39,
+      "05": 35,
+      "02": 15,
+      "04": 14,
+      "03": 3
+    }
+  },
+  "logistics_data": {
+    "shipments": [
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/8/21 16:17",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Thuraya. BL. GCC dump..driver.."
+      },
+      {
+        "ship_name": "JPt62",
+        "timestamp": "24/8/21 17:07",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "AGI tomorrow 6am",
+        "location": "AGI",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPt62* Casting off shortly before 6pm, ETA AGI tomorrow 6am"
+      },
+      {
+        "ship_name": "JPt62",
+        "timestamp": "24/8/22 07:23",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "AGI today pm hrs",
+        "location": "Umm ALanbar",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPt62* at Umm ALanbar, eta AGI today pm hrs."
+      },
+      {
+        "ship_name": "JPt62",
+        "timestamp": "24/8/22 07:43",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "AGI today pm hrs",
+        "location": "Umm ALanbar",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPt62* at Umm ALanbar, eta AGI today pm hrs."
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "24/8/22 11:31",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Offloading now.from thuraya dump truck"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "24/8/22 16:58",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "al jaber",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Confirmed for thuraya tomorrow morning 10am loading at al jaber base for A-Frames"
+      },
+      {
+        "ship_name": "JPt62",
+        "timestamp": "24/8/23 07:31",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "AGI",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPt62* at AGI offloading."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/8/23 11:27",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "ALJaber base 12:00hrs",
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya eta ALJaber base 12:00hrs"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/8/25 07:24",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "15:00hrs",
+        "location": "agi",
+        "cargo": [],
+        "status": "underway",
+        "message": "- Haitham: *JPT62* at underway to agi eta 15:00hrs"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/8/25 16:44",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya plan"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/8/25 18:05",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "AGI",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at AGI to offload to SCT."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/8/26 07:17",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "AGI",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at AGI offloading done, BL going on."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/8/26 14:13",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* going to ALqatiyah island to supply water"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/8/27 00:09",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya alongside loading LOLO 4 x basket then will shift to roro for loading manlift"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "24/8/27 01:44",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: 4 x baskets loaded on thuraya"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "24/8/27 02:09",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Manlift loaded successfully yo the lct thuraya, bunkering then sailing"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/8/27 07:48",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "underway",
+        "message": "- Haitham: *JPT62* underway to als, cant reach the vessel, tbu."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/8/27 17:34",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "agi",
+        "cargo": [],
+        "status": "at anchor",
+        "message": "- Haitham: *JPT62* at musffah anchorage waiting permission to enter to load remaining agi-131"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/8/28 07:19",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "9am",
+        "location": "Musaffah",
+        "cargo": [],
+        "status": "underway",
+        "message": "- Haitham: *JPT62* in Musaffah channel underway to ALS base, eta 9am."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/8/29 07:35",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "tbu",
+        "location": "agi",
+        "cargo": [],
+        "status": "underway",
+        "message": "- Haitham: *JPT62* underway to agi eta tbu."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/8/30 07:32",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "AGI",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* At AGI offloading going on."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/8/31 09:28",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "underway",
+        "message": "- Haitham: *JPT62* Underway to ummalanbar."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/10 07:24",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at ALS Base offloading going 80% done then RORO."
+      },
+      {
+        "ship_name": "Yeam",
+        "timestamp": "24/9/10 10:20",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "DAS",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: ALS shipping DAS, will take bushra and give us new Vessel LCT Yeam."
+      },
+      {
+        "ship_name": "Yeam",
+        "timestamp": "24/9/10 11:02",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Now this LCT Yeam is for us"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/10 16:53",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "underway",
+        "message": "- Haitham: *JPT62* at underway to Ettock"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/11 07:28",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "0815hrs",
+        "location": null,
+        "cargo": [],
+        "status": "underway",
+        "message": "- Haitham: *JPT62* at underway to Assofieya eta 0815hrs"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/11 17:33",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "underway",
+        "message": "- Haitham: *JPT62* underway UMM"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/12 07:20",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "08:20hrs",
+        "location": "AGI",
+        "cargo": [],
+        "status": "underway",
+        "message": "- Haitham: *JPT62* underway to AGI eta 08:20hrs"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/12 18:00",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "AGI",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at AGI offloading for sct."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/13 07:21",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "underway",
+        "message": "- Haitham: *JPT62* at underway to LMS base maintenance."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/9/13 07:25",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya Plan"
+      },
+      {
+        "ship_name": "Taibah",
+        "timestamp": "24/9/13 17:57",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Taibah plan sent"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/14 13:29",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/15 09:09",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/15 23:58",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/16 07:08",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/16 17:37",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/17 07:11",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/18 07:22",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/18 17:43",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/18 22:31",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/19 07:19",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/19 17:35",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "taibah",
+        "timestamp": "24/9/19 18:11",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "Das",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Das-166/167 full on taibah"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "24/9/19 18:11",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "Das",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Das-168 on thuraya"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/20 07:24",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/20 16:59",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/21 15:22",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/22 07:24",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "taibah",
+        "timestamp": "24/9/22 10:45",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "DAS",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: 5 inspected DAS-166 assigned taibah along with DAS-167"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/22 17:52",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* at  LMS base maintenance."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/9/23 00:11",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "mosb",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya at ALS base offloadinf BL dobe, FW and FO going on. Etd from mosb to ALJaber base 7or8 am"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "24/9/23 00:11",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Loading roro as per tide on thuraya capt tomorrow night time"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/23 07:18",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "Taibah",
+        "timestamp": "24/9/23 16:34",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Taibah delayed till tomorrow afternoon by KFS"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/24 07:21",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "Taibah",
+        "timestamp": "24/9/24 16:13",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Taibah at LMs base, FW and provision at 7pm"
+      },
+      {
+        "ship_name": "Taibah",
+        "timestamp": "24/9/24 22:46",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "after 15min",
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Taibah approaching ALS base eta after 15min"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/9/24 22:48",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "das",
+        "cargo": [],
+        "status": "at anchor",
+        "message": "- Haitham: Thuraya at das anchorage tomorrow offloading"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/25 07:35",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/26 07:21",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/9/26 11:05",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": "Al Jaber",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Thuraya.. Al Jaber first ??"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/9/26 18:28",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya offloading done"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/28 07:34",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/29 01:18",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/29 07:22",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/30 07:20",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/9/30 17:07",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/10/10 07:32",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/10/10 15:04",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/10/10 16:38",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Thuraya..offloading time ?"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/10/11 07:25",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "24/10/11 07:36",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: No changes on thuraya manifest, same of old one"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/10/12 07:44",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/10/13 07:35",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/10/13 16:46",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/10/14 07:31",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT62* still at LMS base maintenance."
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "24/10/15 07:07",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "MW4",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT71* at MW4 ready for loading JB's."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/10/15 08:26",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Thuraya..clad #1 to #20. Fyi."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/10/15 08:42",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "DAS tomorrow 06:00hrs",
+        "location": "DAS",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya castoff now, ETA DAS tomorrow 06:00hrs"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/10/15 15:29",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Next week. Thuraya..6 a frame."
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "24/10/16 07:21",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "MW4",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT71* at MW4 to continue loading JB GGBs."
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "24/10/17 07:17",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "AGI",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT71* at AGI to offload JB GGBs"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/10/17 13:26",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Thuraya..preloading manafest"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "24/10/17 14:27",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: On Marwah Sir not thuraya"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/10/17 14:28",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya now alongside"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/10/18 01:02",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: 8 lifts remaining on LCT Thuraya and then will castoff"
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "24/10/18 07:25",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "today 16:00hrs",
+        "location": "MW4",
+        "cargo": [],
+        "status": "underway",
+        "message": "- Haitham: *JPT71* underway to MW4 eta today 16:00hrs"
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "24/10/20 07:37",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "today 10:00hrs",
+        "location": "AGI",
+        "cargo": [],
+        "status": "underway",
+        "message": "- Haitham: *JPT71* underway to AGI eta today 10:00hrs"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/10/20 13:24",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Thuraya..stowage plan..please"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/10/20 13:25",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya give me also 10 min"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "24/10/20 18:02",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: A-frames thuraya loading tomorrow, upc informed"
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "24/10/21 07:26",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "AGI",
+        "cargo": [
+          "Aggregate"
+        ],
+        "status": "unknown",
+        "message": "- Haitham: *JPT71* at AGI offloading aggregate."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/10/21 22:40",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya, 4 aframes loaded"
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "24/10/22 07:39",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "MW4",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT71* at MW4 waiting for loading, the vessel has one truck not offloaded at AGI. Therefore loading of today will be only 7 trucks."
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "24/10/23 07:22",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "AGI",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT71* at AGI offloading going on."
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "24/10/24 07:40",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "MW4",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *JPT71* at MW4 to load JB."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/10/25 07:12",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya loading going on at ALS base"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/10/27 09:01",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya, Razan sheltering at ICAD 2"
+      },
+      {
+        "ship_name": "Jpt71",
+        "timestamp": "24/10/27 09:02",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "MW4",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Jpt71 sheltring at MW4"
+      },
+      {
+        "ship_name": "Jpt71",
+        "timestamp": "24/10/30 16:31",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": "AGI",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: AGI..congestion..Nassayem.Jewaher.Razan.Jpt71...."
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "24/11/10 10:56",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: who delivered these items to JPT71"
+      },
+      {
+        "ship_name": "Buahra",
+        "timestamp": "24/11/10 13:37",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Buahra berthed.."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/11 08:41",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Request for shifting .Thuraya BL"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/11 19:18",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "das tomorrow 15:00hrs",
+        "location": "das",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya cast off 6:45pm eta das tomorrow 15:00hrs"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/13 12:58",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Bushra. Thuraya loading time ??.  Hows status of operator.LB..?"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "24/11/13 16:32",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Both thuraya and bushra expected 11pm to be along side"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/13 18:53",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya plan rcvd by control tower"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/13 18:54",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Anyway..Thuraya is ok."
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "24/11/13 18:54",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Plan rcvd but no approval for thuraya yet <This message was edited>"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "24/11/13 19:46",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: 3 vessel are waiting before thuraya and bushra"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/14 06:30",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya offloading done now"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/14 15:24",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Thuraya RORO equips need CICPA stamp ?"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/14 17:30",
+        "sender": "System",
+        "responsible_person": "국일 Kim",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 국일 Kim: All six units have been eventually loaded onto Thuraya."
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "24/11/16 00:50",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Bushra and thuraya still sheltering"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "24/11/18 10:07",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": "das",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Once das 190 sr..we will make stowage plan..thuraya.bushra.new one..."
+      },
+      {
+        "ship_name": "YEAM",
+        "timestamp": "24/11/18 14:45",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: (YEAM 1)."
+      },
+      {
+        "ship_name": "Yeam",
+        "timestamp": "24/11/18 17:59",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: I will share stowage plan of Bushra and Yeam tomorrow."
+      },
+      {
+        "ship_name": "yeam",
+        "timestamp": "24/11/19 08:06",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: If 21 yeam ready we can send on yeam"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/20 07:52",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Thuraya totally change..I will share"
+      },
+      {
+        "ship_name": "yeam",
+        "timestamp": "24/11/20 14:25",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Also, may i reply to ur email for yeam, i will ask shibly for vessel number"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/20 14:25",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: No need Thuraya..stowage.."
+      },
+      {
+        "ship_name": "Yeam",
+        "timestamp": "24/11/20 16:13",
+        "sender": "System",
+        "responsible_person": "국일 Kim",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 국일 Kim: @⁨Haitham⁩ Please provide a fresh update on the vessel movement including Yeam-1"
+      },
+      {
+        "ship_name": "Yeam",
+        "timestamp": "24/11/20 17:31",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Yeam is planned to sarb island bu sikeen 🤔"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/21 06:50",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya one lift remaining,"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/11/21 08:35",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: JPT62..loaded Trailer..empty deck..now shifting to LOLO berth."
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "24/11/22 07:42",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Haitham..JPT71. go to Shelter..confirm."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/22 08:13",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: I shared.Razan Thuraya...pls check stowage.."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/24 10:19",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Thuraya.Yeam..manifeat  checking..pls"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/24 10:45",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "ALS base 11am",
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya eta ALS base 11am"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "24/11/24 19:38",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: One small concrete beam is missing on thuraya as per CO"
+      },
+      {
+        "ship_name": "Yeam",
+        "timestamp": "24/11/24 22:48",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: On Yeam"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/25 01:05",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "das today 17:00hrs",
+        "location": "das",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya eta das today 17:00hrs"
+      },
+      {
+        "ship_name": "Yeam",
+        "timestamp": "24/11/25 15:52",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: -Yeam Departure notification done."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/26 13:41",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: @⁨Shariff⁩ Sir, Thuraya Aljaber first or ALS Base first"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/27 09:15",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: *Thuraya update*"
+      },
+      {
+        "ship_name": "YEAM",
+        "timestamp": "24/11/27 10:56",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: YEAM..any update?.."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/27 14:55",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "ALS base today 19:00hrs for offloading loading then to aljaber base",
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya eta ALS base today 19:00hrs for offloading loading then to aljaber base"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/28 08:18",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya final, Bushra pre-loading"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/28 11:20",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Done for Thuraya"
+      },
+      {
+        "ship_name": "YEAM",
+        "timestamp": "24/11/28 15:23",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": "DAS",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Regarding YEAM..DAS marine sp confirmed to use Temp Jetty under condition of Good weather.."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "24/11/28 18:11",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya loaded already"
+      },
+      {
+        "ship_name": "Jpt71",
+        "timestamp": "24/12/12 18:05",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Jpt71 FW ofco checking after 6pm"
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "24/12/13 07:29",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: 1.JPT71..Final manifest"
+      },
+      {
+        "ship_name": "Yeam",
+        "timestamp": "24/12/13 10:10",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Marwah as replacement of Yeam"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "24/12/22 13:44",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "AGI",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: AGI-170 done the cargo loaded today on JPT62"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/1/13 09:49",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": "AGI",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Thuraya  AGI...FEP..check..pls"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/1/14 16:58",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Thuraya  moving"
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "25/1/14 17:45",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: If not..check to load onto JPT71."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/1/14 17:51",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: 1.JPT62..reduced cargo..replce counter weight..."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/1/15 08:27",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: 1.depart.noti..Bushra and JPT62"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/1/15 13:55",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: 1.depart.noti..Bushra and JPT62 *Done*"
+      },
+      {
+        "ship_name": "jpt62",
+        "timestamp": "25/1/16 08:07",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Tomorrow jpt62..crane loading..."
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "25/1/20 08:28",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": "DAS",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: JPT71..next 5 trips for DAS"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/1/20 14:57",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: JPT62..pla check status.."
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "25/2/14 15:37",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: [JPT71]..operation tomorrow."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/2/16 13:13",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Pls check..JPT62  lifting status"
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "25/2/16 14:29",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: 18th Feb loading....arrval trailer on18...direct loading on JPT71"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/2/17 07:34",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: JPT62 departure noti."
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "25/2/17 14:33",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Offloading thuraya done"
+      },
+      {
+        "ship_name": "THURAYA",
+        "timestamp": "25/2/17 21:31",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: 17/02/25 # 21:30 HRS UPC FLATBED LODING VESAL THURAYA IS STARTING NOW"
+      },
+      {
+        "ship_name": "THURAYA",
+        "timestamp": "25/2/17 22:44",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: THURAYA RORO LODING IS FINISHED JEST NOW"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/2/18 08:05",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya loading done"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/2/20 08:10",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: All planned on Thuraya next trip."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/2/24 09:46",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": "MOSB",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: JPT62. Aurora scorpio..waiting for permission to MOSB.."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/2/24 15:02",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Thuraya 10 bundle."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/2/24 16:56",
+        "sender": "System",
+        "responsible_person": "국일 Kim",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 국일 Kim: @⁨Thusar⁩ Berthing approval at RORO jetty received, LCT Thuraya is now preparing to move from berth to RORO jetty."
+      },
+      {
+        "ship_name": "THURAYA",
+        "timestamp": "25/2/24 17:26",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: THURAYA MOVING TO RORO NOW"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/3/12 10:45",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": "afternoon",
+        "location": "MOSB",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: JPT62..heading o MOSB..now..ETA afternoon"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/3/13 15:30",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: JPT62..WARDEH..still.."
+      },
+      {
+        "ship_name": "Tamarah",
+        "timestamp": "25/3/14 06:28",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Tamarah"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/3/14 09:18",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": "MOSB 500am",
+        "location": "DAS",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Thuraya.Tamara. departed fr DAS..ETA MOSB 500am"
+      },
+      {
+        "ship_name": "Tamarah",
+        "timestamp": "25/3/14 09:21",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": "MOSB",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Tamarah route changed: Assifieyah -> Zirku -> MOSB"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/3/16 12:00",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": "DAS",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: DAS. Thuraya  done ? <This message was edited>"
+      },
+      {
+        "ship_name": "THURAYA",
+        "timestamp": "25/3/16 12:01",
+        "sender": "System",
+        "responsible_person": "ronpap20",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- ronpap20: THURAYA done"
+      },
+      {
+        "ship_name": "THURAYA",
+        "timestamp": "25/3/21 05:12",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: UPC AFRAME LODING TO THURAYA IN AL JABAR BASE IS STARTING"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/3/23 10:47",
+        "sender": "System",
+        "responsible_person": "국일 Kim",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 국일 Kim: Please just mornitoring  the unloading of only the six A frame trailers currenty loaded on LCT Thuraya this afternoon or evening."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/3/24 15:56",
+        "sender": "System",
+        "responsible_person": "ronpap20",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- ronpap20: JPT62"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/3/28 20:11",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "MOSB tomorrow afternoon",
+        "location": "MOSB",
+        "cargo": [],
+        "status": "underway",
+        "message": "- Haitham: Thuraya underway to ALqatiya for bunkering, eta MOSB tomorrow afternoon"
+      },
+      {
+        "ship_name": "THURAYA",
+        "timestamp": "25/3/31 15:48",
+        "sender": "- Jhysn: GCC 016",
+        "responsible_person": "System",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "COLLECTED BY THURAYA"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/4/10 14:13",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Thuraya Cast off time ?"
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "25/4/11 10:18",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Hilalco want tondeliver 60 LTR of paint drums to JPT71"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/4/11 11:35",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Ronnel..JPT62..Collection status ?"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/4/13 12:48",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: Thuraya AL JABAR BASE OFFLOADING AFRAME IS DONE"
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "25/4/17 13:34",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": "AGI",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: If have any urgent items (available handy carry) for AGI..pla let me know...load JPT71"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/4/20 11:10",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Jhason..pls put in JPT62 CCU.."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/4/23 07:26",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Thuraya..Crane loading.  Operator  arrange."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/4/23 10:45",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: JPT62..berthed...collection going..."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/4/24 04:06",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: vp 24 Thuraya collection ongoing"
+      },
+      {
+        "ship_name": "Jpt62",
+        "timestamp": "25/4/24 07:22",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Jpt62..some beams are VP24..."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/4/24 10:59",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Thuraya castoff."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/4/25 16:01",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Thuraya..BL.."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/4/27 03:03",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "06:30hrs",
+        "location": null,
+        "cargo": [],
+        "status": "underway",
+        "message": "- Haitham: @⁨Thusar⁩ Thuraya underway to ALS base eta 06:30hrs"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/4/27 13:58",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Yard team..Thuraya collection status update..."
+      },
+      {
+        "ship_name": "THURAYA",
+        "timestamp": "25/4/27 14:46",
+        "sender": "- Jhysn: LDA",
+        "responsible_person": "System",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "THURAYA"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/4/30 10:41",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Thuraya  collection ??"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "25/4/30 23:04",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Roro loading on thuraya done"
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "25/5/13 09:54",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Toushar...pls load 20 membrain...and handover to JPT71.."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/5/14 07:02",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: VP24..JPT62 collection.check"
+      },
+      {
+        "ship_name": "THURAYA",
+        "timestamp": "25/5/14 11:00",
+        "sender": "- Jhysn: FOR DAS?... 40 ST EISU 1532630",
+        "responsible_person": "System",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "THURAYA"
+      },
+      {
+        "ship_name": "Yeam",
+        "timestamp": "25/5/15 08:44",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Check..Khalifa. Official confim. Yeam.Marwah status."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/5/19 14:31",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Once arrive..pls stuff in CCU. in Thuraya plan"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/5/23 08:24",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: JPT62..BL..1Dump.1 Crane.. no OP..yet"
+      },
+      {
+        "ship_name": "THURAYA",
+        "timestamp": "25/5/23 11:37",
+        "sender": "- Jhysn: STUFFED",
+        "responsible_person": "System",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "20 BA SCT 20HH 0003 - THURAYA <This message was edited>"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/5/23 15:17",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya plan sent"
+      },
+      {
+        "ship_name": "Yeam",
+        "timestamp": "25/5/26 14:57",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Yeam Still didnt get the CEP yet"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/5/26 16:41",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Thuraya..collection status ?"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/6/16 07:50",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Both scheduled on Thuraya today"
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "25/6/18 14:33",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: FP  HCS..will be loaded onto JPT71...not Allianz Taya."
+      },
+      {
+        "ship_name": "Tamarah",
+        "timestamp": "25/6/28 14:22",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Tamarah loading 303 / 38 boxes shipment 15th"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/6/30 11:14",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya back to SCT"
+      },
+      {
+        "ship_name": "THURAYA",
+        "timestamp": "25/7/12 08:09",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": "DAS",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: @⁨국일 Kim⁩ @⁨Shariff⁩ LCT THURAYA castoff from DAS on 12:10 Hrs"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/7/12 08:23",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Next JPT62 plan. check.."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/7/14 10:08",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya LOLO remaining 3 lifts then RORO after wardeh"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "25/7/14 13:05",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: We cant load thuraya as well bcz of this"
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "25/7/14 15:30",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: JPT71..Plan.?"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "25/7/14 16:31",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: @⁨Thusar⁩ thuraya roro after wardeh moved."
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "25/7/14 16:41",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: 1X flatbed 1X forklift parking in saide roro waiting thuraya"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/7/14 17:50",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya remaining roro, maube at night high tide now"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/7/14 17:57",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya approaching roro now, they will try loading"
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "25/7/15 09:05",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": "MW4",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: JPT71..MW4  loading tomorrow."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/7/15 11:59",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: JPT62  plan ?"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/7/16 06:47",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: Tamara. JPT62  collection status ?"
+      },
+      {
+        "ship_name": "JPT71",
+        "timestamp": "25/7/17 20:02",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: JPT71 captain messege..check please"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/7/20 08:05",
+        "sender": "System",
+        "responsible_person": "ronpap20",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- ronpap20: JPT62 Collection NOT YET STARTED."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/7/20 16:46",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: JPT62..collection ??"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/7/23 16:15",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "eta": null,
+        "location": "DAS",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Shariff: DAS 321...Thuraya..done"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/7/25 11:33",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": "1700pm",
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: JPT62..ETA 1700pm."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/7/25 11:33",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Also..Thuraya..1x trailer tail loading # 12098"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/7/26 08:12",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: Thuraya"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/7/29 09:27",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: Thuraya"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/8/11 17:27",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Thuraya..2x FB..trailer."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/8/12 15:06",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Thuraya..RORO  check"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/8/15 15:04",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "MOSB 17:00hrs",
+        "location": "MOSB",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya eta MOSB 17:00hrs"
+      },
+      {
+        "ship_name": "Yeam",
+        "timestamp": "25/8/18 07:23",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Yeam at aljaber waiting for offloading"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/8/19 08:07",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: JPT62  collection ?"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "25/8/24 08:33",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: @⁨Thusar⁩ after 45 min, loading LCT thuraya RORO"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/8/24 12:51",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya shifting now to roro @⁨Thusar⁩"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "25/8/27 07:40",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: FYI thuraya has RORO offloading for trojan"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/8/29 07:18",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": "Al Jaber",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Thuraya..Al Jaber ?."
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/8/30 04:46",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": "MOSB",
+        "location": "MOSB",
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: JPT62..ETA MOSB..0900.am"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/9/11 15:56",
+        "sender": "System",
+        "responsible_person": "국일 Kim",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 국일 Kim: @⁨Haitham⁩ *LCT Thuraya / Offloading LOLO -> Offloading RORO -> Load out (SPMT)*"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/9/12 04:03",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: #Thuraya"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/9/12 07:13",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Thuraya.Wardeh  collection ?"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/9/12 10:00",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya shifting to roro"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/9/14 08:59",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "today 21:00hrs",
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya eta today 21:00hrs."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/9/15 08:45",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya will shift to RORO shortly"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/9/15 13:02",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 상욱: Thuraya..loading ?"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/9/15 13:04",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: # Thuraya"
+      },
+      {
+        "ship_name": "Yeam",
+        "timestamp": "25/9/15 16:23",
+        "sender": "- 국일 Kim: @⁨ronpap20⁩ @⁨Haitham⁩ *BL cargo",
+        "responsible_person": "System",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "Yeam 1*"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "25/9/15 16:29",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: This one offloaded afternoon from thuraya"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/9/15 17:03",
+        "sender": "- 국일 Kim: @⁨Haitham⁩ Departure noti",
+        "responsible_person": "System",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "Thuraya"
+      },
+      {
+        "ship_name": "THURAYA",
+        "timestamp": "25/9/18 10:12",
+        "sender": "System",
+        "responsible_person": "Jhysn",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Jhysn: ALS-347 THURAYA"
+      },
+      {
+        "ship_name": "THURAYA",
+        "timestamp": "25/9/21 14:35",
+        "sender": "System",
+        "responsible_person": "ronpap20",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- ronpap20: Waiting buddy  please note: this Transformer will be loading tonight at THURAYA. Thanks"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/9/21 19:41",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: #Thuraya"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/9/21 20:00",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: @⁨DaN⁩ bro not yet started collection # Thuraya"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/9/27 09:44",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: #Thuraya"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/9/27 16:32",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Thuraya dept noti done"
+      },
+      {
+        "ship_name": "YEAM",
+        "timestamp": "25/9/28 19:21",
+        "sender": "System",
+        "responsible_person": "Logistics Driver 1",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Logistics Driver 1: LCT YEAM"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "25/9/29 13:24",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: @⁨Thusar⁩LCT thuraya shifting to RORO now for offloading and loading pls arrange"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/9/29 16:04",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: #Thuraya"
+      },
+      {
+        "ship_name": "JPT62",
+        "timestamp": "25/9/30 14:44",
+        "sender": "System",
+        "responsible_person": "ronpap20",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- ronpap20: Waiting bro crane is on collection activity for JPT62."
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/10/12 15:09",
+        "sender": "System",
+        "responsible_person": "국일 Kim",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- 국일 Kim: @⁨Haitham⁩  *LCT Thuraya*"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "25/10/12 16:31",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: LCT thuraya on RORO now for loading."
+      },
+      {
+        "ship_name": "THURAYA",
+        "timestamp": "25/10/12 17:20",
+        "sender": "System",
+        "responsible_person": "Jhysn",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Jhysn: THURAYA NOW APPROACHING.."
+      },
+      {
+        "ship_name": "THURAYA",
+        "timestamp": "25/10/12 17:38",
+        "sender": "System",
+        "responsible_person": "Jhysn",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Jhysn: THURAYA BERTHING IS COMPLETE"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "25/10/14 07:31",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": "thuraya 12:30hrs",
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: Eta thuraya 12:30hrs"
+      },
+      {
+        "ship_name": "thuraya",
+        "timestamp": "25/10/16 19:01",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Haitham: @⁨Thusar⁩ thuraya will be at roro jetty 8pm"
+      },
+      {
+        "ship_name": "Thuraya",
+        "timestamp": "25/10/16 21:49",
+        "sender": "System",
+        "responsible_person": "Thusar",
+        "eta": null,
+        "location": null,
+        "cargo": [],
+        "status": "unknown",
+        "message": "- Thusar: #Thuraya"
+      }
+    ],
+    "containers": [
+      {
+        "container_id": "TR 53766",
+        "timestamp": "24/11/15 08:38",
+        "sender": "System",
+        "responsible_person": "Friday D 13th",
+        "message": "- Friday D 13th: Exit pass TR 53766",
+        "type": "unknown"
+      },
+      {
+        "container_id": "TOLU4571680",
+        "timestamp": "25/1/19 10:51",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "message": "- 상욱: As per construction team the Hilalco containers are urgent for site, kindly accommodate them in next shipment and especially urgent container# TOLU4571680",
+        "type": "unknown"
+      },
+      {
+        "container_id": "TR1",
+        "timestamp": "25/4/24 08:45",
+        "sender": "System",
+        "responsible_person": "ronpap20",
+        "message": "- ronpap20: PC2-AG-TR1-006-682",
+        "type": "unknown"
+      },
+      {
+        "container_id": "HLXU3608613",
+        "timestamp": "25/6/15 08:20",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "message": "- 상욱: @⁨Haitham⁩ please send Renewed Certificate HLXU3608613 asap,",
+        "type": "unknown"
+      },
+      {
+        "container_id": "DNVU2044770",
+        "timestamp": "25/7/15 12:15",
+        "sender": "System",
+        "responsible_person": "Karthi",
+        "message": "- Karthi: DNVU2044770",
+        "type": "unknown"
+      },
+      {
+        "container_id": "TRLU6411433",
+        "timestamp": "25/7/17 11:33",
+        "sender": "- 상욱: 40ft OT Container",
+        "responsible_person": "System",
+        "message": "TRLU6411433 ( With UPC Return Materials)  - UPC will collect the Container",
+        "type": "unknown"
+      },
+      {
+        "container_id": "JRLU5948006",
+        "timestamp": "25/7/28 07:32",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "message": "- 상욱: Sir All Cladding Steel Frames sent in 40ft OT Container No. JRLU5948006 & 40ft Basket No. SCT-40HH-0008.",
+        "type": "unknown"
+      }
+    ],
+    "deliveries": [
+      {
+        "company": "Averda",
+        "quantity": null,
+        "unit": null,
+        "date_info": "today",
+        "timestamp": "24/8/22 07:32",
+        "sender": "System",
+        "responsible_person": "Friday D 13th",
+        "message": "- Friday D 13th: Noted Mr. Roy, will infrom Averda to hold delivery today"
+      },
+      {
+        "company": "ALPHAMED",
+        "quantity": null,
+        "unit": null,
+        "date_info": null,
+        "timestamp": "24/10/26 09:48",
+        "sender": "System",
+        "responsible_person": "kEn 🏄🏻🌊",
+        "message": "- kEn 🏄🏻🌊: ALPHAMED Delivery"
+      },
+      {
+        "company": "Novatech",
+        "quantity": null,
+        "unit": null,
+        "date_info": "today",
+        "timestamp": "24/11/11 09:09",
+        "sender": "System",
+        "responsible_person": "Friday D 13th",
+        "message": "- Friday D 13th: 1x FR Novatech update: last Saturday 3rd Party inspector did not come. They are expecting to come today. If it will be inspected today and cert is released. Delivery sched will be tomorrow or latest wednesday"
+      },
+      {
+        "company": "Alphamed",
+        "quantity": null,
+        "unit": null,
+        "date_info": "tomorrow",
+        "timestamp": "24/11/15 14:48",
+        "sender": "System",
+        "responsible_person": "Friday D 13th",
+        "message": "- Friday D 13th: Alphamed 6x additional Baskets delivery tomorrow morning"
+      },
+      {
+        "company": "GRANITE",
+        "quantity": null,
+        "unit": null,
+        "date_info": null,
+        "timestamp": "24/11/20 12:06",
+        "sender": "System",
+        "responsible_person": "Jhysn",
+        "message": "- Jhysn: GRANITE DELIVERY ARRIVED"
+      },
+      {
+        "company": null,
+        "quantity": "2",
+        "unit": "Trailers",
+        "date_info": "tomorrow",
+        "timestamp": "24/12/11 15:54",
+        "sender": "System",
+        "responsible_person": "Friday D 13th",
+        "message": "- Friday D 13th: Confirmed 2x Trailers for tomorrow sir. However, the PL can be shared only tomorrow morning as the loading of materials to Trailers are done evening. Determining the materials once loaded to Trailers."
+      },
+      {
+        "company": null,
+        "quantity": "3",
+        "unit": "skips",
+        "date_info": "today",
+        "timestamp": "25/1/14 13:17",
+        "sender": "System",
+        "responsible_person": "Friday D 13th",
+        "message": "- Friday D 13th: Remaining 3x skips sir today 3:30pm"
+      },
+      {
+        "company": "Alphamed",
+        "quantity": null,
+        "unit": null,
+        "date_info": "today",
+        "timestamp": "25/1/14 15:45",
+        "sender": "System",
+        "responsible_person": "국일 Kim",
+        "message": "- 국일 Kim: @⁨Friday D 13th⁩ please confirm if there are any 20ft empty baskets from Alphamed darrvied at MOSB today or tomorrow."
+      },
+      {
+        "company": "Alphamed",
+        "quantity": null,
+        "unit": null,
+        "date_info": "tomorrow",
+        "timestamp": "25/1/16 16:20",
+        "sender": "System",
+        "responsible_person": "Friday D 13th",
+        "message": "- Friday D 13th: Sir @⁨상욱⁩ update for Alphamed 3x additional baskets, still waiting for thier internal approval. Hopefully tomorrow it will get approve then can proceed delivery"
+      },
+      {
+        "company": "Alphamed",
+        "quantity": null,
+        "unit": null,
+        "date_info": "tomorrow",
+        "timestamp": "25/1/20 17:27",
+        "sender": "System",
+        "responsible_person": "Friday D 13th",
+        "message": "- Friday D 13th: @⁨상욱⁩ 3x additional Alphamed Baskets delivery tomorrow"
+      },
+      {
+        "company": "Alphamed",
+        "quantity": null,
+        "unit": null,
+        "date_info": "today",
+        "timestamp": "25/1/27 08:28",
+        "sender": "System",
+        "responsible_person": "Friday D 13th",
+        "message": "- Friday D 13th: Alphamed 3x additional Baskets delivery today morning and collection of BL after offloading <This message was edited>"
+      },
+      {
+        "company": "Novatech",
+        "quantity": null,
+        "unit": null,
+        "date_info": "today",
+        "timestamp": "25/1/28 08:17",
+        "sender": "System",
+        "responsible_person": "Friday D 13th",
+        "message": "- Friday D 13th: Novatech FR delivery today, now at the gate"
+      },
+      {
+        "company": "Novatech",
+        "quantity": null,
+        "unit": null,
+        "date_info": null,
+        "timestamp": "25/2/10 09:39",
+        "sender": "System",
+        "responsible_person": "Shariff",
+        "message": "- Shariff: Arvin...Novatech..delivery to Mosb. Schedule ?"
+      },
+      {
+        "company": "Alphamed",
+        "quantity": null,
+        "unit": null,
+        "date_info": "tomorrow",
+        "timestamp": "25/2/13 10:14",
+        "sender": "System",
+        "responsible_person": "Friday D 13th",
+        "message": "- Friday D 13th: Alphamed can collect only tomorrow"
+      },
+      {
+        "company": "Alphamed",
+        "quantity": null,
+        "unit": null,
+        "date_info": "today",
+        "timestamp": "25/2/20 10:14",
+        "sender": "System",
+        "responsible_person": "Friday D 13th",
+        "message": "- Friday D 13th: Today collection, waiting from Alphamed to enter"
+      },
+      {
+        "company": "Alphamed",
+        "quantity": null,
+        "unit": null,
+        "date_info": "today",
+        "timestamp": "25/2/20 14:17",
+        "sender": "System",
+        "responsible_person": "Friday D 13th",
+        "message": "- Friday D 13th: Alphamed Update: Concrete disposals would take time. He will able to complete and return by monday. Started from today returning partially"
+      },
+      {
+        "company": "alphamed",
+        "quantity": null,
+        "unit": null,
+        "date_info": "today",
+        "timestamp": "25/4/28 11:58",
+        "sender": "System",
+        "responsible_person": "DaN",
+        "message": "- DaN: 2x BA 20ft returned by alphamed today.."
+      },
+      {
+        "company": "Alphamed",
+        "quantity": null,
+        "unit": null,
+        "date_info": "today",
+        "timestamp": "25/5/14 07:51",
+        "sender": "- DaN: Item No. 3",
+        "responsible_person": "System",
+        "message": "2x Trailer arranged by Alphamed today."
+      },
+      {
+        "company": "Alphamed",
+        "quantity": null,
+        "unit": null,
+        "date_info": "today",
+        "timestamp": "25/5/14 07:53",
+        "sender": "- DaN: Item No. 4",
+        "responsible_person": "System",
+        "message": "Alphamed TPI - today inspector will arrived and conduct inspection."
+      },
+      {
+        "company": "Granite",
+        "quantity": null,
+        "unit": null,
+        "date_info": "tomorrow",
+        "timestamp": "25/5/18 11:06",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "message": "- Haitham: Granite basket not approved, delivery tomorrow <This message was edited>"
+      },
+      {
+        "company": "granite",
+        "quantity": null,
+        "unit": null,
+        "date_info": "tomorrow",
+        "timestamp": "25/5/27 12:41",
+        "sender": "System",
+        "responsible_person": "Haitham",
+        "message": "- Haitham: Tomorrow granite steel rebar confirm?! <This message was edited>"
+      },
+      {
+        "company": null,
+        "quantity": "3",
+        "unit": "Trailers",
+        "date_info": "today",
+        "timestamp": "25/6/10 09:16",
+        "sender": "System",
+        "responsible_person": "kEn 🏄🏻🌊",
+        "message": "- kEn 🏄🏻🌊: FYI, 3x Trailers today deliveries for Corona Shields"
+      },
+      {
+        "company": null,
+        "quantity": "3",
+        "unit": "Trailers",
+        "date_info": null,
+        "timestamp": "25/7/24 17:07",
+        "sender": "System",
+        "responsible_person": "DaN",
+        "message": "- DaN: 3x Trailers -AGI Hanlim Delivery"
+      },
+      {
+        "company": "Alphamed",
+        "quantity": null,
+        "unit": null,
+        "date_info": "today",
+        "timestamp": "25/8/26 08:42",
+        "sender": "System",
+        "responsible_person": "국일 Kim",
+        "message": "- 국일 Kim: @⁨DaN⁩ Please check and confirm how many vehicles have been arranged by Alphamed today for the emptied basket return & collection at MOSB."
+      },
+      {
+        "company": "Alphamed",
+        "quantity": null,
+        "unit": null,
+        "date_info": "today",
+        "timestamp": "25/9/10 08:49",
+        "sender": "System",
+        "responsible_person": "상욱",
+        "message": "- 상욱: Roldan..Alphamed today?"
+      },
+      {
+        "company": "granite",
+        "quantity": null,
+        "unit": null,
+        "date_info": "tomorrow",
+        "timestamp": "25/9/11 16:43",
+        "sender": "System",
+        "responsible_person": "DaN",
+        "message": "- DaN: granite have delivery tomorrow but the TPI will expire on 11th of Oct"
+      },
+      {
+        "company": "Alphamed",
+        "quantity": null,
+        "unit": null,
+        "date_info": "tomorrow",
+        "timestamp": "25/10/12 14:38",
+        "sender": "System",
+        "responsible_person": "국일 Kim",
+        "message": "- 국일 Kim: Pls share the pending list with Alphamed firstly and arrange a face-to-face meeting with them at our office at 10:00 AM or 2 PM  tomorrow."
+      }
+    ],
+    "top_keywords": {
+      "BL": 546,
+      "AGI": 475,
+      "arrived": 456,
+      "DAS": 439,
+      "EXIT PASS": 424,
+      "ARRIVED": 393,
+      "Delivery": 392,
+      "FLIFT": 391,
+      "Crane": 341,
+      "delivery": 331,
+      "loading": 301,
+      "MOSB": 282,
+      "offloading": 280,
+      "collection": 259,
+      "LPO": 190,
+      "crane": 178,
+      "OFFLOADING": 163,
+      "sling": 156,
+      "eta": 151,
+      "CRANE": 131
+    }
+  },
+  "raw_messages": [
+    {
+      "date": "24/8/21",
+      "time": "13:28",
+      "sender": "System",
+      "message": "- 메시지와 통화는 종단간 암호화되어 안전하게 보호됩니다. 이 대화에 참여한 사람만 이러한 메시지와 통화를 읽거나 듣거나 공유할 수 있습니다. 더 알아보기.",
+      "timestamp": "24/8/21 13:28"
+    },
+    {
+      "date": "23/3/17",
+      "time": "15:07",
+      "sender": "System",
+      "message": "- ‎Shariff님이 “Abu Dhabi Logistics”그룹을 만들었습니다",
+      "timestamp": "23/3/17 15:07"
+    },
+    {
+      "date": "23/3/17",
+      "time": "15:07",
+      "sender": "System",
+      "message": "- 그룹에 추가되었습니다.",
+      "timestamp": "23/3/17 15:07"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:13",
+      "sender": "System",
+      "message": "- Shariff: Tomorrow.",
+      "timestamp": "24/8/21 16:13"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:13",
+      "sender": "System",
+      "message": "- Haitham: Das-150 i can submit today Sir okay?1",
+      "timestamp": "24/8/21 16:13"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:13",
+      "sender": "System",
+      "message": "- Shariff: Jhason..ready CNTR.Basket..check",
+      "timestamp": "24/8/21 16:13"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:13",
+      "sender": "System",
+      "message": "- Shariff: Ok",
+      "timestamp": "24/8/21 16:13"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:13",
+      "sender": "System",
+      "message": "- Haitham: Noted",
+      "timestamp": "24/8/21 16:13"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:15",
+      "sender": "System",
+      "message": "- Shariff: Wolly time tomorrow.",
+      "timestamp": "24/8/21 16:15"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:15",
+      "sender": "System",
+      "message": "- Friday D 13th: 10am sir",
+      "timestamp": "24/8/21 16:15"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:15",
+      "sender": "System",
+      "message": "- Shariff: Ok",
+      "timestamp": "24/8/21 16:15"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:16",
+      "sender": "System",
+      "message": "- Shariff: Alpha. Hil. Nova delivery check",
+      "timestamp": "24/8/21 16:16"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:17",
+      "sender": "System",
+      "message": "- Shariff: Thuraya. BL. GCC dump..driver..",
+      "timestamp": "24/8/21 16:17"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:18",
+      "sender": "System",
+      "message": "- Haitham: Noted",
+      "timestamp": "24/8/21 16:18"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:20",
+      "sender": "System",
+      "message": "- Friday D 13th: All tomorrow morning",
+      "timestamp": "24/8/21 16:20"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:21",
+      "sender": "- Friday D 13th: Except for Hil",
+      "message": "friday",
+      "timestamp": "24/8/21 16:21"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:22",
+      "sender": "System",
+      "message": "- Shariff: Noted",
+      "timestamp": "24/8/21 16:22"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:38",
+      "sender": "System",
+      "message": "- Jhysn: <미디어 파일 제외됨>",
+      "timestamp": "24/8/21 16:38"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:39",
+      "sender": "System",
+      "message": "- Jhysn: <미디어 파일 제외됨>",
+      "timestamp": "24/8/21 16:39"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:39",
+      "sender": "System",
+      "message": "- Jhysn: <미디어 파일 제외됨>",
+      "timestamp": "24/8/21 16:39"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:40",
+      "sender": "System",
+      "message": "- Jhysn: <미디어 파일 제외됨>",
+      "timestamp": "24/8/21 16:40"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:42",
+      "sender": "System",
+      "message": "- Haitham: Done",
+      "timestamp": "24/8/21 16:42"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:42",
+      "sender": "System",
+      "message": "- Jhysn: <미디어 파일 제외됨>",
+      "timestamp": "24/8/21 16:42"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:44",
+      "sender": "System",
+      "message": "- Jhysn: <미디어 파일 제외됨>",
+      "timestamp": "24/8/21 16:44"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:52",
+      "sender": "System",
+      "message": "- Haitham: Sir Granite has 1 x 40ft ST for thier project in DAS, i rcvd a call asking if they can send through us",
+      "timestamp": "24/8/21 16:52"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:53",
+      "sender": "System",
+      "message": "- Shariff: Confirm",
+      "timestamp": "24/8/21 16:53"
+    },
+    {
+      "date": "24/8/21",
+      "time": "16:53",
+      "sender": "System",
+      "message": "- Haitham: Noted",
+      "timestamp": "24/8/21 16:53"
+    },
+    {
+      "date": "24/8/21",
+      "time": "17:07",
+      "sender": "System",
+      "message": "- Haitham: *JPt62* Casting off shortly before 6pm, ETA AGI tomorrow 6am",
+      "timestamp": "24/8/21 17:07"
+    },
+    {
+      "date": "24/8/21",
+      "time": "17:11",
+      "sender": "System",
+      "message": "- Shariff: <미디어 파일 제외됨>",
+      "timestamp": "24/8/21 17:11"
+    },
+    {
+      "date": "24/8/21",
+      "time": "17:12",
+      "sender": "System",
+      "message": "- Haitham: Done Sir, tomorrow 8am",
+      "timestamp": "24/8/21 17:12"
+    },
+    {
+      "date": "24/8/21",
+      "time": "21:52",
+      "sender": "System",
+      "message": "- Haitham: Arranged",
+      "timestamp": "24/8/21 21:52"
+    },
+    {
+      "date": "24/8/22",
+      "time": "06:02",
+      "sender": "System",
+      "message": "- Haitham: Morning, channel closed",
+      "timestamp": "24/8/22 06:02"
+    },
+    {
+      "date": "24/8/22",
+      "time": "06:11",
+      "sender": "System",
+      "message": "- Shariff: 이 메시지는 삭제되었습니다",
+      "timestamp": "24/8/22 06:11"
+    },
+    {
+      "date": "24/8/22",
+      "time": "06:11",
+      "sender": "System",
+      "message": "- Shariff: Noted",
+      "timestamp": "24/8/22 06:11"
+    },
+    {
+      "date": "24/8/22",
+      "time": "07:07",
+      "sender": "System",
+      "message": "- Jhysn: NO BL SHIFTED TO LD",
+      "timestamp": "24/8/22 07:07"
+    },
+    {
+      "date": "24/8/22",
+      "time": "07:11",
+      "sender": "System",
+      "message": "- Friday D 13th: Note:",
+      "timestamp": "24/8/22 07:11"
+    },
+    {
+      "date": "24/8/22",
+      "time": "07:16",
+      "sender": "System",
+      "message": "- Friday D 13th: Deliveries for today 22-Aug:",
+      "timestamp": "24/8/22 07:16"
+    },
+    {
+      "date": "24/8/22",
+      "time": "07:23",
+      "sender": "System",
+      "message": "- Haitham: *JPt62* at Umm ALanbar, eta AGI today pm hrs.",
+      "timestamp": "24/8/22 07:23"
+    },
+    {
+      "date": "24/8/22",
+      "time": "07:30",
+      "sender": "- 국일 Kim: @⁨Friday D 13th⁩ Averda",
+      "message": "skip bins",
+      "timestamp": "24/8/22 07:30"
+    },
+    {
+      "date": "24/8/22",
+      "time": "07:30",
+      "sender": "System",
+      "message": "- 국일 Kim: it's been confirmed that Averda's contract with Adnoc L&S on Das island has been terminated.",
+      "timestamp": "24/8/22 07:30"
+    },
+    {
+      "date": "24/8/22",
+      "time": "07:30",
+      "sender": "System",
+      "message": "- Friday D 13th: Additional",
+      "timestamp": "24/8/22 07:30"
+    },
+    {
+      "date": "24/8/22",
+      "time": "07:31",
+      "sender": "System",
+      "message": "- 국일 Kim: Please refrain from requesting empty skip bins from Averda, and hold off on bring them to MOSB.",
+      "timestamp": "24/8/22 07:31"
+    },
+    {
+      "date": "24/8/22",
+      "time": "07:32",
+      "sender": "System",
+      "message": "- 국일 Kim: The Amin team has confirmed that a company Green Mountain will handle food waste disposal.",
+      "timestamp": "24/8/22 07:32"
+    },
+    {
+      "date": "24/8/22",
+      "time": "07:32",
+      "sender": "System",
+      "message": "- Friday D 13th: Noted Mr. Roy, will infrom Averda to hold delivery today",
+      "timestamp": "24/8/22 07:32"
+    },
+    {
+      "date": "24/8/22",
+      "time": "07:32",
+      "sender": "System",
+      "message": "- 국일 Kim: Therefore, the skip bins are no longer needed.",
+      "timestamp": "24/8/22 07:32"
+    },
+    {
+      "date": "24/8/22",
+      "time": "07:33",
+      "sender": "System",
+      "message": "- Friday D 13th: Roger",
+      "timestamp": "24/8/22 07:33"
+    },
+    {
+      "date": "24/8/22",
+      "time": "07:43",
+      "sender": "System",
+      "message": "- Haitham: *JPt62* at Umm ALanbar, eta AGI today pm hrs.",
+      "timestamp": "24/8/22 07:43"
+    },
+    {
+      "date": "24/8/22",
+      "time": "07:47",
+      "sender": "System",
+      "message": "- Shariff: <미디어 파일 제외됨>",
+      "timestamp": "24/8/22 07:47"
+    },
+    {
+      "date": "24/8/22",
+      "time": "07:56",
+      "sender": "System",
+      "message": "- Haitham: Update:",
+      "timestamp": "24/8/22 07:56"
+    },
+    {
+      "date": "24/8/22",
+      "time": "08:29",
+      "sender": "System",
+      "message": "- Jhysn: ALP EXIT PASS",
+      "timestamp": "24/8/22 08:29"
+    },
+    {
+      "date": "24/8/22",
+      "time": "08:31",
+      "sender": "System",
+      "message": "- Shariff: Mosb..return..all",
+      "timestamp": "24/8/22 08:31"
+    },
+    {
+      "date": "24/8/22",
+      "time": "08:33",
+      "sender": "System",
+      "message": "- Shariff: DAS 3cntr..collection",
+      "timestamp": "24/8/22 08:33"
+    },
+    {
+      "date": "24/8/22",
+      "time": "08:54",
+      "sender": "System",
+      "message": "- Friday D 13th: Exit done",
+      "timestamp": "24/8/22 08:54"
+    },
+    {
+      "date": "24/8/22",
+      "time": "09:40",
+      "sender": "System",
+      "message": "- Jhysn: ALP COLLECTION COMPLETED",
+      "timestamp": "24/8/22 09:40"
+    },
+    {
+      "date": "24/8/22",
+      "time": "09:41",
+      "sender": "System",
+      "message": "- Jhysn: 3RD 40FT FR RECIEVED",
+      "timestamp": "24/8/22 09:41"
+    },
+    {
+      "date": "24/8/22",
+      "time": "09:42",
+      "sender": "System",
+      "message": "- Jhysn: CRANE IN POSITION PRIOR FOR PORT. CABIN COLLECTION",
+      "timestamp": "24/8/22 09:42"
+    },
+    {
+      "date": "24/8/22",
+      "time": "09:42",
+      "sender": "System",
+      "message": "- Jhysn: W. WILSON TRAILER NOT YET ARRIVED",
+      "timestamp": "24/8/22 09:42"
+    },
+    {
+      "date": "24/8/22",
+      "time": "09:46",
+      "sender": "System",
+      "message": "- 국일 Kim: @⁨Friday D 13th⁩ visit my place",
+      "timestamp": "24/8/22 09:46"
+    },
+    {
+      "date": "24/8/22",
+      "time": "09:57",
+      "sender": "System",
+      "message": "- Friday D 13th: Almost reach at gate",
+      "timestamp": "24/8/22 09:57"
+    },
+    {
+      "date": "24/8/22",
+      "time": "10:23",
+      "sender": "System",
+      "message": "- Haitham: Latest eta 11:00hrs to roro jetty",
+      "timestamp": "24/8/22 10:23"
+    },
+    {
+      "date": "24/8/22",
+      "time": "10:24",
+      "sender": "System",
+      "message": "- Jhysn: NOT YET ARRIVED",
+      "timestamp": "24/8/22 10:24"
+    },
+    {
+      "date": "24/8/22",
+      "time": "10:25",
+      "sender": "System",
+      "message": "- Jhysn: CRANE WILL SHIFT TO OTHER ACTIVITY",
+      "timestamp": "24/8/22 10:25"
+    },
+    {
+      "date": "24/8/22",
+      "time": "10:30",
+      "sender": "System",
+      "message": "- Friday D 13th: 1min",
+      "timestamp": "24/8/22 10:30"
+    },
+    {
+      "date": "24/8/22",
+      "time": "10:33",
+      "sender": "- 국일 Kim: @⁨Haitham⁩ HCS",
+      "message": "confirmation require -(lifting activity with specialized lifting devices)",
+      "timestamp": "24/8/22 10:33"
+    },
+    {
+      "date": "24/8/22",
+      "time": "10:35",
+      "sender": "System",
+      "message": "- Jhysn: 1 X TRAILER ARRIVED W.WILSON",
+      "timestamp": "24/8/22 10:35"
+    },
+    {
+      "date": "24/8/22",
+      "time": "10:41",
+      "sender": "System",
+      "message": "- Shariff: Crane arrived..pls push to Wolly trailer asap",
+      "timestamp": "24/8/22 10:41"
+    },
+    {
+      "date": "24/8/22",
+      "time": "10:41",
+      "sender": "System",
+      "message": "- Jhysn: Crane arrived...",
+      "timestamp": "24/8/22 10:41"
+    },
+    {
+      "date": "24/8/22",
+      "time": "10:41",
+      "sender": "System",
+      "message": "- Jhysn: 2nd Trailer arrived",
+      "timestamp": "24/8/22 10:41"
+    },
+    {
+      "date": "24/8/22",
+      "time": "10:43",
+      "sender": "System",
+      "message": "- Jhysn: Crane positioning",
+      "timestamp": "24/8/22 10:43"
+    },
+    {
+      "date": "24/8/22",
+      "time": "10:49",
+      "sender": "System",
+      "message": "- 국일 Kim: @⁨Friday D 13th⁩ Please request Admin team to provide a desk and chair for Sajid to use during office hours due to lack of available desks set at MOSB office.",
+      "timestamp": "24/8/22 10:49"
+    },
+    {
+      "date": "24/8/22",
+      "time": "10:53",
+      "sender": "System",
+      "message": "- Friday D 13th: Ok",
+      "timestamp": "24/8/22 10:53"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:12",
+      "sender": "System",
+      "message": "- Jhysn: PORT CABIN EXIT PASS",
+      "timestamp": "24/8/22 11:12"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:12",
+      "sender": "System",
+      "message": "- Jhysn: LOADING START",
+      "timestamp": "24/8/22 11:12"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:14",
+      "sender": "System",
+      "message": "- Jhysn: <미디어 파일 제외됨>",
+      "timestamp": "24/8/22 11:14"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:21",
+      "sender": "System",
+      "message": "- Jhysn: <미디어 파일 제외됨>",
+      "timestamp": "24/8/22 11:21"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:25",
+      "sender": "System",
+      "message": "- Jhysn: PORT CABIN EXIT PASS",
+      "timestamp": "24/8/22 11:25"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:28",
+      "sender": "System",
+      "message": "- Jhysn: <미디어 파일 제외됨>",
+      "timestamp": "24/8/22 11:28"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:31",
+      "sender": "System",
+      "message": "- Haitham: Offloading now.from thuraya dump truck",
+      "timestamp": "24/8/22 11:31"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:31",
+      "sender": "System",
+      "message": "- Haitham: Das-150 inspection 11:40 <This message was edited>",
+      "timestamp": "24/8/22 11:31"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:31",
+      "sender": "System",
+      "message": "- Haitham: Thushar waiting infront of the vessel as well waiting to offload BL",
+      "timestamp": "24/8/22 11:31"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:32",
+      "sender": "System",
+      "message": "- Shariff: F.lift inside?",
+      "timestamp": "24/8/22 11:32"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:33",
+      "sender": "System",
+      "message": "- Haitham: Yes since 15 min",
+      "timestamp": "24/8/22 11:33"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:33",
+      "sender": "System",
+      "message": "- Shariff: Ok",
+      "timestamp": "24/8/22 11:33"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:33",
+      "sender": "System",
+      "message": "- Haitham: But there are another small pickup need to be removed first",
+      "timestamp": "24/8/22 11:33"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:33",
+      "sender": "System",
+      "message": "- Haitham: Then our flift",
+      "timestamp": "24/8/22 11:33"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:34",
+      "sender": "System",
+      "message": "- Friday D 13th: All woolly trailers exit done",
+      "timestamp": "24/8/22 11:34"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:36",
+      "sender": "System",
+      "message": "- Jhysn: PORT CABIN EXIT PASS",
+      "timestamp": "24/8/22 11:36"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:37",
+      "sender": "System",
+      "message": "- Haitham: Sir, I can Arrange the 3 unit Head engine and let them do 2 trips per head.",
+      "timestamp": "24/8/22 11:37"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:37",
+      "sender": "System",
+      "message": "- Haitham: UPC",
+      "timestamp": "24/8/22 11:37"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:38",
+      "sender": "System",
+      "message": "- Haitham: <미디어 파일 제외됨>",
+      "timestamp": "24/8/22 11:38"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:40",
+      "sender": "System",
+      "message": "- Shariff: Ok",
+      "timestamp": "24/8/22 11:40"
+    },
+    {
+      "date": "24/8/22",
+      "time": "11:48",
+      "sender": "System",
+      "message": "- Jhysn: <미디어 파일 제외됨>",
+      "timestamp": "24/8/22 11:48"
+    },
+    {
+      "date": "24/8/22",
+      "time": "12:00",
+      "sender": "System",
+      "message": "- Haitham: <미디어 파일 제외됨>",
+      "timestamp": "24/8/22 12:00"
+    },
+    {
+      "date": "24/8/22",
+      "time": "12:00",
+      "sender": "System",
+      "message": "- Shariff: Ok",
+      "timestamp": "24/8/22 12:00"
+    },
+    {
+      "date": "24/8/22",
+      "time": "12:02",
+      "sender": "System",
+      "message": "- Haitham: Loading f lift done",
+      "timestamp": "24/8/22 12:02"
+    },
+    {
+      "date": "24/8/22",
+      "time": "12:02",
+      "sender": "System",
+      "message": "- Shariff: 👍🏻",
+      "timestamp": "24/8/22 12:02"
+    },
+    {
+      "date": "24/8/22",
+      "time": "12:15",
+      "sender": "System",
+      "message": "- Jhysn: BL UPDATES",
+      "timestamp": "24/8/22 12:15"
+    },
+    {
+      "date": "24/8/22",
+      "time": "12:16",
+      "sender": "System",
+      "message": "- Jhysn: <미디어 파일 제외됨>",
+      "timestamp": "24/8/22 12:16"
+    },
+    {
+      "date": "24/8/22",
+      "time": "12:16",
+      "sender": "System",
+      "message": "- Shariff: Ok",
+      "timestamp": "24/8/22 12:16"
+    },
+    {
+      "date": "24/8/22",
+      "time": "12:19",
+      "sender": "System",
+      "message": "- Jhysn: <미디어 파일 제외됨>",
+      "timestamp": "24/8/22 12:19"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+[
+    {
+        "type": "BOE",
+        "mbl_no": "ABCD1234567890",
+        "entry_no": "ENT001",
+        "containers": "ABCD1234567",
+        "gross_weight": 1000.0,
+        "hs_code": "1234567890",
+        "meta": {
+            "source": "test",
+            "timestamp": "2024-01-01T00:00:00Z",
+            "version": "1.0"
+        },
+        "blocks": [
+            {
+                "type": "text",
+                "content": "Sample BOE content for testing"
+            }
+        ]
+    },
+    {
+        "type": "DO",
+        "do_number": "DO1234567890",
+        "do_validity_date": "2024-12-31",
+        "container_no": "ABCD1234567",
+        "meta": {
+            "source": "test",
+            "timestamp": "2024-01-01T00:00:00Z",
+            "version": "1.0"
+        },
+        "blocks": [
+            {
+                "type": "text",
+                "content": "Sample DO content for testing"
+            }
+        ]
+    },
+    {
+        "type": "DN",
+        "origin": "Dubai",
+        "destination": "Abu Dhabi",
+        "delivery_date": "2024-01-15",
+        "meta": {
+            "source": "test",
+            "timestamp": "2024-01-01T00:00:00Z",
+            "version": "1.0"
+        },
+        "blocks": [
+            {
+                "type": "text",
+                "content": "Sample DN content for testing"
+            }
+        ]
+    },
+    {
+        "type": "CarrierInvoice",
+        "invoice_number": "INV-2024-001",
+        "total_amount": 5000.0,
+        "currency": "USD",
+        "meta": {
+            "source": "test",
+            "timestamp": "2024-01-01T00:00:00Z",
+            "version": "1.0"
+        },
+        "blocks": [
+            {
+                "type": "text",
+                "content": "Sample Carrier Invoice content for testing"
+            }
+        ]
+    },
+    {
+        "type": "WarehouseInvoice",
+        "warehouse_name": "DSV Indoor",
+        "rental_period": "2024-01-01 to 2024-01-31",
+        "sqm": 100.5,
+        "meta": {
+            "source": "test",
+            "timestamp": "2024-01-01T00:00:00Z",
+            "version": "1.0"
+        },
+        "blocks": [
+            {
+                "type": "text",
+                "content": "Sample Warehouse Invoice content for testing"
+            }
+        ]
+    }
+]

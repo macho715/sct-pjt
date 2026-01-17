@@ -1,0 +1,51 @@
+{
+  "hvdc_nodes_count": 8,
+  "hvdc_nodes_list": [
+    "ZAYED_PORT",
+    "KHALIFA_PORT",
+    "JEBEL_ALI_PORT",
+    "MOSB",
+    "MIR",
+    "SHU",
+    "DAS",
+    "AGI"
+  ],
+  "mosb_incoming": 4,
+  "mosb_outgoing": 14,
+  "edge_types_count": 14,
+  "edge_types_list": [
+    "belongs_to",
+    "co_located_with",
+    "connected_to",
+    "dispatches",
+    "feeds_into",
+    "flows_through",
+    "governed_by",
+    "hosts",
+    "indirectly_serves",
+    "operates",
+    "operates_from",
+    "performed",
+    "same_as",
+    "uses"
+  ],
+  "ontology_classes": [
+    "Asset",
+    "Location",
+    "Party",
+    "Process",
+    "Project",
+    "System"
+  ],
+  "same_as_links": 3,
+  "avg_degree": 7.08,
+  "total_nodes": 50,
+  "total_edges": 177,
+  "inferred_edges_count": 70,
+  "inferred_relation_types": [
+    "co_located_with",
+    "flows_through",
+    "indirectly_serves"
+  ],
+  "critical_operations": 9
+}

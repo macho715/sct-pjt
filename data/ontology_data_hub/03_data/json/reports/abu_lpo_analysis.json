@@ -1,0 +1,4564 @@
+{
+  "executive_summary": {
+    "total_lpo_entries": 550,
+    "unique_lpo_numbers": 442,
+    "date_range": "2024-08-21 to 2025-08-08",
+    "primary_locations": {
+      "MOSB": 449,
+      "DAS": 72,
+      "AGI": 29
+    },
+    "top_vendors": {
+      "Skipper": 43,
+      "Dynamic": 31,
+      "Terranova": 29,
+      "Union": 27,
+      "Global Hardware": 24
+    }
+  },
+  "detailed_statistics": {
+    "vendor_distribution": {
+      "Union": 27,
+      "Power Plus": 11,
+      "Power Plastic": 19,
+      "Hotpack": 21,
+      "Bucomac": 2,
+      "Response Plus": 1,
+      "New Smart": 5,
+      "Dynamic <This message was edited>": 2,
+      "Latest Vision": 2,
+      "Lokhandwala": 9,
+      "Dofort": 14,
+      "Dynamic": 31,
+      "Trillion": 12,
+      "Skipper": 43,
+      "Green Water": 2,
+      "Global Hardware": 24,
+      "DuScaff": 11,
+      "Power Solutions": 21,
+      "Digital Workspace": 2,
+      "Dutest": 4,
+      "Arfan Furniture": 2,
+      "EIS": 10,
+      "Dome DZ": 1,
+      "Al Sharaf": 2,
+      "Terranova <This message was edited>": 2,
+      "Dome": 4,
+      "DYNAMIC": 1,
+      "Duscaff": 8,
+      "Ace": 1,
+      "Apex": 2,
+      "Royal Emirates": 4,
+      "Specialist Equipment": 1,
+      "ACE": 6,
+      "Connexons": 1,
+      "Brands": 17,
+      "Terranova": 29,
+      "Total Connexons": 7,
+      "Gulf Radiant": 3,
+      "Jubaili Bros": 2,
+      "Power Plastic <This message was edited>": 1,
+      "Al Jazeera Bolts": 1,
+      "PolyFab": 1,
+      "Jumbo Plastic": 1,
+      "Stepzone": 1,
+      "Zam Zam Pharmacy": 2,
+      "COVER": 1,
+      "Power Plus Cable": 4,
+      "Polyfab": 17,
+      "Hilti": 2,
+      "Gasos Tech Hard": 2,
+      "Shinning Star": 2,
+      "TechServe": 1,
+      "Arabian Falcon": 19,
+      "Tatra": 1,
+      "Hours Ads": 1,
+      "Al Jazeera": 11,
+      "El Sewedy": 3,
+      "High Five": 1,
+      "High Five <This message was edited>": 1,
+      "Shining Star": 4,
+      "ScaffCo": 2,
+      "Step Zone": 16,
+      "Gasos": 6,
+      "Energy": 1,
+      "Zam Pharmacy": 5,
+      "Roxtec": 1,
+      "Gmark": 2,
+      "Total GCC": 3,
+      "Zia&Sagor": 2,
+      "Skipper <This message was edited>": 2,
+      "Peeraj": 2,
+      "Liftek": 2,
+      "Scaffco": 3,
+      "PSI": 8,
+      "Al Hawai": 5,
+      "Bell Tech": 2,
+      "Mister Light": 2,
+      "Arabi Emirates": 4,
+      "Green Bridge": 1,
+      "Duscaff <This message was edited>": 1,
+      "Arwani": 4,
+      "Z&S Carpet": 1,
+      "EIS (Collection HDPE Machine from Mirfa)": 1,
+      "Silver Line": 2,
+      "Hira": 2,
+      "Electric Way": 1,
+      "Reborn": 2,
+      "RPM": 1,
+      "Zia & Sagor": 1,
+      "Cam": 1,
+      "PSI <This message was edited>": 1,
+      "Silverline <This message was edited>": 1,
+      "ACE Scaffolding": 1,
+      "Teejan": 1,
+      "Apave": 1,
+      "Gasos-Tech Hard": 1,
+      "Fischer": 1,
+      "Safety Zone": 1,
+      "Saran": 2,
+      "Gasos-Tech Hard <This message was edited>": 1,
+      "Scaffo": 1,
+      "Acc'y": 1,
+      "Global Hardware <This message was edited>": 2,
+      "Union <This message was edited>": 1,
+      "Power Solution": 3,
+      "Temperatures": 2
+    },
+    "location_distribution": {
+      "DAS": 72,
+      "MOSB": 449,
+      "AGI": 29
+    },
+    "category_distribution": {
+      "Stationary": 27,
+      "Electrical": 103,
+      "Construction": 71,
+      "Kitchen": 14,
+      "Other": 210,
+      "General": 103,
+      "Maintenance": 9,
+      "Safety": 7,
+      "Furniture": 6
+    },
+    "monthly_distribution": {
+      "2024-08": 17,
+      "2024-09": 29,
+      "2024-10": 26,
+      "2024-11": 27,
+      "2024-12": 37,
+      "2025-01": 32,
+      "2025-02": 43,
+      "2025-03": 29,
+      "2025-04": 41,
+      "2025-05": 54,
+      "2025-06": 50,
+      "2025-07": 62,
+      "2025-08": 48,
+      "2025-10": 55
+    }
+  },
+  "lpo_list": [
+    {
+      "lpo_number": "LPO-1628",
+      "description": "Stationary Items",
+      "vendor": "Union",
+      "date": "24/8/26",
+      "location": "DAS",
+      "raw_line": "LPO-1628 - Stationary Items / Union"
+    },
+    {
+      "lpo_number": "LPO-278",
+      "description": "Elec Wires & Cables",
+      "vendor": "Power Plus",
+      "date": "24/8/26",
+      "location": "DAS",
+      "raw_line": "LPO-278 - Elec Wires & Cables / Power Plus"
+    },
+    {
+      "lpo_number": "LPO-299",
+      "description": "UPVC Matls",
+      "vendor": "Power Plastic",
+      "date": "24/8/26",
+      "location": "DAS",
+      "raw_line": "LPO-299 - UPVC Matls / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-1646",
+      "description": "Stationary Items",
+      "vendor": "Union",
+      "date": "24/8/26",
+      "location": "DAS",
+      "raw_line": "LPO-1646 - Stationary Items / Union"
+    },
+    {
+      "lpo_number": "LPO-1625",
+      "description": "Stationary Items",
+      "vendor": "Union",
+      "date": "24/8/26",
+      "location": "DAS",
+      "raw_line": "LPO-1625 - Stationary Items / Union"
+    },
+    {
+      "lpo_number": "LPO-279",
+      "description": "Elec Wires & Cables",
+      "vendor": "Power Plus",
+      "date": "24/8/26",
+      "location": "DAS",
+      "raw_line": "LPO-279 - Elec Wires & Cables / Power Plus"
+    },
+    {
+      "lpo_number": "LPO-1653",
+      "description": "Disposable Cup",
+      "vendor": "Hotpack",
+      "date": "24/8/26",
+      "location": "DAS",
+      "raw_line": "LPO-1653 - Disposable Cup / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-1634",
+      "description": "Stationary Items",
+      "vendor": "Union",
+      "date": "24/8/26",
+      "location": "MOSB",
+      "raw_line": "LPO-1634 - Stationary Items / Union"
+    },
+    {
+      "lpo_number": "LPO-1645",
+      "description": "Dishwashing Liquid",
+      "vendor": "Hotpack",
+      "date": "24/8/26",
+      "location": "MOSB",
+      "raw_line": "LPO-1645 - Dishwashing Liquid / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-270",
+      "description": "KERB STONE",
+      "vendor": "Bucomac",
+      "date": "24/8/27",
+      "location": "MOSB",
+      "raw_line": "LPO-270 - KERB STONE / Bucomac"
+    },
+    {
+      "lpo_number": "LPO-1637",
+      "description": "MEDICINE SUPPLY",
+      "vendor": "Response Plus",
+      "date": "24/8/27",
+      "location": "MOSB",
+      "raw_line": "LPO-1637 - MEDICINE SUPPLY / Response Plus"
+    },
+    {
+      "lpo_number": "LPO-1643",
+      "description": "PRINTER & TONER",
+      "vendor": "New Smart",
+      "date": "24/8/27",
+      "location": "MOSB",
+      "raw_line": "LPO-1643 - PRINTER & TONER / New Smart"
+    },
+    {
+      "lpo_number": "LPO-299",
+      "description": "UPVC MATLS",
+      "vendor": "Power Plastic",
+      "date": "24/8/27",
+      "location": "MOSB",
+      "raw_line": "LPO-299 - UPVC MATLS / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-269",
+      "description": "ELEC ITEMS",
+      "vendor": "Dynamic <This message was edited>",
+      "date": "24/8/27",
+      "location": "MOSB",
+      "raw_line": "LPO-269 - ELEC ITEMS / Dynamic <This message was edited>"
+    },
+    {
+      "lpo_number": "LPO-1640",
+      "description": "Kitchen Items",
+      "vendor": "Latest Vision",
+      "date": "24/8/30",
+      "location": "MOSB",
+      "raw_line": "LPO-1640 - Kitchen Items / Latest Vision"
+    },
+    {
+      "lpo_number": "LPO-1620",
+      "description": "Camp Items",
+      "vendor": "Lokhandwala",
+      "date": "24/8/30",
+      "location": "MOSB",
+      "raw_line": "LPO-1620 - Camp Items / Lokhandwala"
+    },
+    {
+      "lpo_number": "LPO-270",
+      "description": "Kerb Stone",
+      "vendor": "Bucomac",
+      "date": "24/8/30",
+      "location": "MOSB",
+      "raw_line": "LPO-270 - Kerb Stone / Bucomac"
+    },
+    {
+      "lpo_number": "LPO-1668",
+      "description": "Steel Cabinet & Bed Frame",
+      "vendor": "Dofort",
+      "date": "24/9/2",
+      "location": "MOSB",
+      "raw_line": "LPO-1668 - Steel Cabinet & Bed Frame / Dofort"
+    },
+    {
+      "lpo_number": "LPO-269",
+      "description": "Elec Items",
+      "vendor": "Dynamic",
+      "date": "24/9/4",
+      "location": "MOSB",
+      "raw_line": "LPO-269 - Elec Items / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-332",
+      "description": "Maintenance Matls for Sea Pump RO",
+      "vendor": "Trillion",
+      "date": "24/9/8",
+      "location": "MOSB",
+      "raw_line": "LPO-332 - Maintenance Matls for Sea Pump RO / Trillion"
+    },
+    {
+      "lpo_number": "LPO-1666",
+      "description": "Filters & Maintenance Matls",
+      "vendor": "Skipper",
+      "date": "24/9/9",
+      "location": "MOSB",
+      "raw_line": "LPO-1666 - Filters & Maintenance Matls / Skipper"
+    },
+    {
+      "lpo_number": "LPO-1687",
+      "description": "Jumbo Bags",
+      "vendor": "Union",
+      "date": "24/9/9",
+      "location": "MOSB",
+      "raw_line": "LPO-1687 - Jumbo Bags / Union"
+    },
+    {
+      "lpo_number": "LPO-1690",
+      "description": "Dish Washer",
+      "vendor": "Union",
+      "date": "24/9/9",
+      "location": "MOSB",
+      "raw_line": "LPO-1690 - Dish Washer / Union"
+    },
+    {
+      "lpo_number": "LPO-1677",
+      "description": "Camp Appliances",
+      "vendor": "Latest Vision",
+      "date": "24/9/10",
+      "location": "MOSB",
+      "raw_line": "LPO-1677 - Camp Appliances / Latest Vision"
+    },
+    {
+      "lpo_number": "LPO-315",
+      "description": "RO Package Plant Matls",
+      "vendor": "Green Water",
+      "date": "24/9/13",
+      "location": "MOSB",
+      "raw_line": "LPO-315 - RO Package Plant Matls / Green Water"
+    },
+    {
+      "lpo_number": "LPO-345",
+      "description": "Webbing Sling",
+      "vendor": "Global Hardware",
+      "date": "24/9/13",
+      "location": "MOSB",
+      "raw_line": "LPO-345 - Webbing Sling / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-288",
+      "description": "Scaffolding Matls",
+      "vendor": "DuScaff",
+      "date": "24/9/16",
+      "location": "MOSB",
+      "raw_line": "LPO-288 - Scaffolding Matls / DuScaff"
+    },
+    {
+      "lpo_number": "LPO-1716",
+      "description": "Paper Cup",
+      "vendor": "Hotpack",
+      "date": "24/9/17",
+      "location": "MOSB",
+      "raw_line": "LPO-1716 - Paper Cup / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-1698",
+      "description": "Consumable Items",
+      "vendor": "Union",
+      "date": "24/9/17",
+      "location": "MOSB",
+      "raw_line": "LPO-1698 - Consumable Items / Union"
+    },
+    {
+      "lpo_number": "LPO-351",
+      "description": "Cable Tray Accessories",
+      "vendor": "Power Solutions",
+      "date": "24/9/17",
+      "location": "MOSB",
+      "raw_line": "LPO-351 - Cable Tray Accessories / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-1679",
+      "description": "IT Items",
+      "vendor": "Digital Workspace",
+      "date": "24/9/17",
+      "location": "MOSB",
+      "raw_line": "LPO-1679 - IT Items / Digital Workspace"
+    },
+    {
+      "lpo_number": "LPO-1710",
+      "description": "Consumable Items",
+      "vendor": "Union",
+      "date": "24/9/17",
+      "location": "MOSB",
+      "raw_line": "LPO-1710 - Consumable Items / Union"
+    },
+    {
+      "lpo_number": "LPO-1717",
+      "description": "Pantry Items",
+      "vendor": "Skipper",
+      "date": "24/9/18",
+      "location": "MOSB",
+      "raw_line": "LPO-1717 - Pantry Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-1720",
+      "description": "General Items",
+      "vendor": "Skipper",
+      "date": "24/9/18",
+      "location": "MOSB",
+      "raw_line": "LPO-1720 - General Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-359",
+      "description": "Wire Rope Sling",
+      "vendor": "Dutest",
+      "date": "24/9/18",
+      "location": "MOSB",
+      "raw_line": "LPO-359 - Wire Rope Sling / Dutest"
+    },
+    {
+      "lpo_number": "LPO-1720",
+      "description": "General Items",
+      "vendor": "Skipper",
+      "date": "24/9/18",
+      "location": "MOSB",
+      "raw_line": "LPO-1720 - General Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-367",
+      "description": "UPVC Matls",
+      "vendor": "Power Plastic",
+      "date": "24/9/18",
+      "location": "MOSB",
+      "raw_line": "LPO-367 - UPVC Matls / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-370",
+      "description": "Copper Wire",
+      "vendor": "Trillion",
+      "date": "24/9/19",
+      "location": "MOSB",
+      "raw_line": "LPO-370 - Copper Wire / Trillion"
+    },
+    {
+      "lpo_number": "LPO-359",
+      "description": "Wire Rope Sling",
+      "vendor": "Dutest",
+      "date": "24/9/19",
+      "location": "MOSB",
+      "raw_line": "LPO-359 - Wire Rope Sling / Dutest"
+    },
+    {
+      "lpo_number": "LPO-1719",
+      "description": "General Maintenance Matls",
+      "vendor": "Trillion",
+      "date": "24/9/19",
+      "location": "MOSB",
+      "raw_line": "LPO-1719 - General Maintenance Matls / Trillion"
+    },
+    {
+      "lpo_number": "LPO-1722",
+      "description": "Disposable Cup",
+      "vendor": "Skipper",
+      "date": "24/9/23",
+      "location": "MOSB",
+      "raw_line": "LPO-1722 - Disposable Cup / Skipper"
+    },
+    {
+      "lpo_number": "LPO-380",
+      "description": "Wood Shredded",
+      "vendor": "Arfan Furniture",
+      "date": "24/9/24",
+      "location": "MOSB",
+      "raw_line": "LPO-380 - Wood Shredded / Arfan Furniture"
+    },
+    {
+      "lpo_number": "LPO-314",
+      "description": "Elec Items",
+      "vendor": "Dynamic",
+      "date": "24/9/24",
+      "location": "MOSB",
+      "raw_line": "LPO-314 - Elec Items / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-380",
+      "description": "Wood Shredded",
+      "vendor": "Arfan Furniture",
+      "date": "24/9/24",
+      "location": "MOSB",
+      "raw_line": "LPO-380 - Wood Shredded / Arfan Furniture"
+    },
+    {
+      "lpo_number": "LPO-313",
+      "description": "Elec Items",
+      "vendor": "Dynamic",
+      "date": "24/9/24",
+      "location": "MOSB",
+      "raw_line": "LPO-313 - Elec Items / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-358",
+      "description": "Grease Trap & Chemicals",
+      "vendor": "Green Water",
+      "date": "24/9/26",
+      "location": "MOSB",
+      "raw_line": "LPO-358 - Grease Trap & Chemicals / Green Water"
+    },
+    {
+      "lpo_number": "LPO-396",
+      "description": "Protective Sleeve",
+      "vendor": "Dutest",
+      "date": "24/10/2",
+      "location": "MOSB",
+      "raw_line": "LPO-396 - Protective Sleeve / Dutest"
+    },
+    {
+      "lpo_number": "LPO-1759",
+      "description": "General Items",
+      "vendor": "Union",
+      "date": "24/10/4",
+      "location": "MOSB",
+      "raw_line": "LPO-1759 - General Items / Union"
+    },
+    {
+      "lpo_number": "LPO-1764",
+      "description": "General Items",
+      "vendor": "Union",
+      "date": "24/10/4",
+      "location": "MOSB",
+      "raw_line": "LPO-1764 - General Items / Union"
+    },
+    {
+      "lpo_number": "LPO-1774",
+      "description": "Office Supplies",
+      "vendor": "Union",
+      "date": "24/10/4",
+      "location": "MOSB",
+      "raw_line": "LPO-1774 - Office Supplies / Union"
+    },
+    {
+      "lpo_number": "LPO-1740",
+      "description": "Plastic Shelving Storage",
+      "vendor": "Trillion",
+      "date": "24/10/6",
+      "location": "MOSB",
+      "raw_line": "LPO-1740 - Plastic Shelving Storage / Trillion"
+    },
+    {
+      "lpo_number": "LPO-1763",
+      "description": "Wood Timber",
+      "vendor": "Skipper",
+      "date": "24/10/7",
+      "location": "MOSB",
+      "raw_line": "LPO-1763 - Wood Timber / Skipper"
+    },
+    {
+      "lpo_number": "LPO-382",
+      "description": "Booster Pump & Fittings",
+      "vendor": "EIS",
+      "date": "24/10/8",
+      "location": "MOSB",
+      "raw_line": "LPO-382 - Booster Pump & Fittings / EIS"
+    },
+    {
+      "lpo_number": "LPO-1805",
+      "description": "Table Tissue",
+      "vendor": "Hotpack",
+      "date": "24/10/14",
+      "location": "MOSB",
+      "raw_line": "LPO-1805 - Table Tissue / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-377",
+      "description": "Cable Tray Accessories",
+      "vendor": "Power Solutions",
+      "date": "24/10/14",
+      "location": "MOSB",
+      "raw_line": "LPO-377 - Cable Tray Accessories / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-393",
+      "description": "Cable Tray Accessories",
+      "vendor": "Power Solutions",
+      "date": "24/10/14",
+      "location": "MOSB",
+      "raw_line": "LPO-393 - Cable Tray Accessories / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-408",
+      "description": "Steel Conduits",
+      "vendor": "Dome DZ",
+      "date": "24/10/14",
+      "location": "MOSB",
+      "raw_line": "LPO-408 - Steel Conduits / Dome DZ"
+    },
+    {
+      "lpo_number": "LPO-1793",
+      "description": "Office Stationary Items",
+      "vendor": "Al Sharaf",
+      "date": "24/10/15",
+      "location": "MOSB",
+      "raw_line": "LPO-1793 - Office Stationary Items / Al Sharaf"
+    },
+    {
+      "lpo_number": "LPO-1798",
+      "description": "Camp Furnitures",
+      "vendor": "Dofort",
+      "date": "24/10/15",
+      "location": "MOSB",
+      "raw_line": "LPO-1798 - Camp Furnitures / Dofort"
+    },
+    {
+      "lpo_number": "LPO-1768",
+      "description": "Office Stationary Items",
+      "vendor": "Lokhandwala",
+      "date": "24/10/15",
+      "location": "MOSB",
+      "raw_line": "LPO-1768 - Office Stationary Items / Lokhandwala"
+    },
+    {
+      "lpo_number": "LPO-1798",
+      "description": "Furniture",
+      "vendor": "Dofort",
+      "date": "24/10/17",
+      "location": "MOSB",
+      "raw_line": "LPO-1798 - Furniture / Dofort"
+    },
+    {
+      "lpo_number": "LPO-1802",
+      "description": "Roof Maintenance Matls",
+      "vendor": "Terranova <This message was edited>",
+      "date": "24/10/18",
+      "location": "MOSB",
+      "raw_line": "LPO-1802 - Roof Maintenance Matls / Terranova <This message was edited>"
+    },
+    {
+      "lpo_number": "LPO-393",
+      "description": "Cable Tray",
+      "vendor": "Power Solutions",
+      "date": "24/10/21",
+      "location": "MOSB",
+      "raw_line": "LPO-393 - Cable Tray / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-1795",
+      "description": "Kitchen Items",
+      "vendor": "Dofort",
+      "date": "24/10/22",
+      "location": "MOSB",
+      "raw_line": "LPO-1795 - Kitchen Items / Dofort"
+    },
+    {
+      "lpo_number": "LPO-408",
+      "description": "Cable Tray Accessories",
+      "vendor": "Dome",
+      "date": "24/10/22",
+      "location": "MOSB",
+      "raw_line": "LPO-408 - Cable Tray Accessories / Dome"
+    },
+    {
+      "lpo_number": "LPO-423",
+      "description": "ELEC ITEMS",
+      "vendor": "DYNAMIC",
+      "date": "24/10/23",
+      "location": "MOSB",
+      "raw_line": "LPO-423 - ELEC ITEMS / DYNAMIC"
+    },
+    {
+      "lpo_number": "LPO-417",
+      "description": "Scaffolding Matls",
+      "vendor": "Duscaff",
+      "date": "24/10/29",
+      "location": "MOSB",
+      "raw_line": "LPO-417 - Scaffolding Matls / Duscaff"
+    },
+    {
+      "lpo_number": "LPO-435",
+      "description": "Camp Maintenance Matls",
+      "vendor": "Dynamic",
+      "date": "24/10/29",
+      "location": "MOSB",
+      "raw_line": "LPO-435 - Camp Maintenance Matls / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-432",
+      "description": "Mobile Scaffolding",
+      "vendor": "Ace",
+      "date": "24/10/29",
+      "location": "MOSB",
+      "raw_line": "LPO-432 - Mobile Scaffolding / Ace"
+    },
+    {
+      "lpo_number": "LPO-441",
+      "description": "Plumbing Matls",
+      "vendor": "Apex",
+      "date": "24/10/29",
+      "location": "MOSB",
+      "raw_line": "LPO-441 - Plumbing Matls / Apex"
+    },
+    {
+      "lpo_number": "LPO-1833",
+      "description": "General Items",
+      "vendor": "Trillion",
+      "date": "24/10/29",
+      "location": "MOSB",
+      "raw_line": "LPO-1833 - General Items / Trillion"
+    },
+    {
+      "lpo_number": "LPO-443",
+      "description": "Solid & Hollow Blocks",
+      "vendor": "Royal Emirates",
+      "date": "24/10/30",
+      "location": "MOSB",
+      "raw_line": "LPO-443 - Solid & Hollow Blocks / Royal Emirates"
+    },
+    {
+      "lpo_number": "LPO-1859",
+      "description": "Polythene Sheet",
+      "vendor": "Union",
+      "date": "24/11/4",
+      "location": "MOSB",
+      "raw_line": "LPO-1859 - Polythene Sheet / Union"
+    },
+    {
+      "lpo_number": "LPO-1872",
+      "description": "Consumable Items",
+      "vendor": "Hotpack",
+      "date": "24/11/4",
+      "location": "MOSB",
+      "raw_line": "LPO-1872 - Consumable Items / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-405",
+      "description": "Scaffolding Matls",
+      "vendor": "DuScaff",
+      "date": "24/11/6",
+      "location": "MOSB",
+      "raw_line": "LPO-405 - Scaffolding Matls / DuScaff"
+    },
+    {
+      "lpo_number": "LPO-417",
+      "description": "Scaffolding Matls",
+      "vendor": "DuScaff",
+      "date": "24/11/12",
+      "location": "MOSB",
+      "raw_line": "LPO-417 - Scaffolding Matls / DuScaff"
+    },
+    {
+      "lpo_number": "LPO-417",
+      "description": "Scaff Matls",
+      "vendor": "DuScaff",
+      "date": "24/11/13",
+      "location": "MOSB",
+      "raw_line": "LPO-417 - Scaff Matls / DuScaff"
+    },
+    {
+      "lpo_number": "LPO-1896",
+      "description": "Flags",
+      "vendor": "Specialist Equipment",
+      "date": "24/11/14",
+      "location": "MOSB",
+      "raw_line": "LPO-1896 - Flags / Specialist Equipment"
+    },
+    {
+      "lpo_number": "LPO-481",
+      "description": "Aluminium Mobile Scaffolding",
+      "vendor": "ACE",
+      "date": "24/11/15",
+      "location": "MOSB",
+      "raw_line": "LPO-481 - Aluminium Mobile Scaffolding / ACE"
+    },
+    {
+      "lpo_number": "LPO-484",
+      "description": "UPVC Matls",
+      "vendor": "Power Plastic",
+      "date": "24/11/15",
+      "location": "MOSB",
+      "raw_line": "LPO-484 - UPVC Matls / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-1916",
+      "description": "Consumable Items",
+      "vendor": "Hotpack",
+      "date": "24/11/18",
+      "location": "MOSB",
+      "raw_line": "LPO-1916 - Consumable Items / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-435",
+      "description": "Electrical Items",
+      "vendor": "Dynamic",
+      "date": "24/11/20",
+      "location": "MOSB",
+      "raw_line": "LPO-435 - Electrical Items / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-516",
+      "description": "Electrical Items",
+      "vendor": "Dynamic",
+      "date": "24/11/20",
+      "location": "MOSB",
+      "raw_line": "LPO-516 - Electrical Items / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1852",
+      "description": "Winter Jacket",
+      "vendor": "Al Sharaf",
+      "date": "24/11/20",
+      "location": "MOSB",
+      "raw_line": "LPO-1852 - Winter Jacket / Al Sharaf"
+    },
+    {
+      "lpo_number": "LPO-480",
+      "description": "Cable Tray Accessories",
+      "vendor": "Power Solutions",
+      "date": "24/11/21",
+      "location": "MOSB",
+      "raw_line": "LPO-480 - Cable Tray Accessories / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-1869",
+      "description": "Tire for Tower Light",
+      "vendor": "Skipper",
+      "date": "24/11/25",
+      "location": "MOSB",
+      "raw_line": "LPO-1869 - Tire for Tower Light / Skipper"
+    },
+    {
+      "lpo_number": "LPO-1913",
+      "description": "General Items",
+      "vendor": "Skipper",
+      "date": "24/11/25",
+      "location": "MOSB",
+      "raw_line": "LPO-1913 - General Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-1899",
+      "description": "Consumable Items",
+      "vendor": "Skipper",
+      "date": "24/11/25",
+      "location": "MOSB",
+      "raw_line": "LPO-1899 - Consumable Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-1887",
+      "description": "Office Furniture",
+      "vendor": "Dofort",
+      "date": "24/11/25",
+      "location": "MOSB",
+      "raw_line": "LPO-1887 - Office Furniture / Dofort"
+    },
+    {
+      "lpo_number": "LPO-478",
+      "description": "Cable Tray Accy",
+      "vendor": "Power Solutions",
+      "date": "24/11/26",
+      "location": "MOSB",
+      "raw_line": "LPO-478 - Cable Tray Accy / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-519",
+      "description": "Lighting Matls",
+      "vendor": "Connexons",
+      "date": "24/11/26",
+      "location": "MOSB",
+      "raw_line": "LPO-519 - Lighting Matls / Connexons"
+    },
+    {
+      "lpo_number": "LPO-1936",
+      "description": "Printer Toner",
+      "vendor": "New Smart",
+      "date": "24/11/27",
+      "location": "MOSB",
+      "raw_line": "LPO-1936 - Printer Toner / New Smart"
+    },
+    {
+      "lpo_number": "LPO-532",
+      "description": "Electrical Maintenance Matls",
+      "vendor": "Brands",
+      "date": "24/11/29",
+      "location": "MOSB",
+      "raw_line": "LPO-532 - Electrical Maintenance Matls / Brands"
+    },
+    {
+      "lpo_number": "LPO-478",
+      "description": "Cable Tray Accy",
+      "vendor": "Power Solutions",
+      "date": "24/11/29",
+      "location": "MOSB",
+      "raw_line": "LPO-478 - Cable Tray Accy / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-1943",
+      "description": "Gen Items",
+      "vendor": "Trillion",
+      "date": "24/11/29",
+      "location": "MOSB",
+      "raw_line": "LPO-1943 - Gen Items / Trillion"
+    },
+    {
+      "lpo_number": "LPO-1874",
+      "description": "Camp Furniture",
+      "vendor": "Terranova",
+      "date": "24/11/29",
+      "location": "MOSB",
+      "raw_line": "LPO-1874 - Camp Furniture / Terranova"
+    },
+    {
+      "lpo_number": "LPO-532",
+      "description": "Lighting Matls",
+      "vendor": "Total Connexons",
+      "date": "24/11/29",
+      "location": "MOSB",
+      "raw_line": "LPO-532 - Lighting Matls / Total Connexons"
+    },
+    {
+      "lpo_number": "LPO-548",
+      "description": "Weld Metal Powder",
+      "vendor": "Gulf Radiant",
+      "date": "24/11/29",
+      "location": "MOSB",
+      "raw_line": "LPO-548 - Weld Metal Powder / Gulf Radiant"
+    },
+    {
+      "lpo_number": "LPO-534",
+      "description": "Lighting Matls",
+      "vendor": "Total Connexons",
+      "date": "24/11/29",
+      "location": "MOSB",
+      "raw_line": "LPO-534 - Lighting Matls / Total Connexons"
+    },
+    {
+      "lpo_number": "LPO-371",
+      "description": "Electrical Items",
+      "vendor": "Brands",
+      "date": "24/12/1",
+      "location": "MOSB",
+      "raw_line": "LPO-371 - Electrical Items / Brands"
+    },
+    {
+      "lpo_number": "LPO-1866",
+      "description": "Vehicle Maint Parts",
+      "vendor": "Jubaili Bros",
+      "date": "24/12/1",
+      "location": "MOSB",
+      "raw_line": "LPO-1866 - Vehicle Maint Parts / Jubaili Bros"
+    },
+    {
+      "lpo_number": "LPO-465",
+      "description": "UPVC Fittings",
+      "vendor": "Power Plastic",
+      "date": "24/12/5",
+      "location": "MOSB",
+      "raw_line": "LPO-465 - UPVC Fittings / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-468",
+      "description": "UPVC Fittings",
+      "vendor": "Power Plastic <This message was edited>",
+      "date": "24/12/5",
+      "location": "MOSB",
+      "raw_line": "LPO-468 - UPVC Fittings / Power Plastic <This message was edited>"
+    },
+    {
+      "lpo_number": "LPO-1950",
+      "description": "Camp Furniture",
+      "vendor": "Dofort",
+      "date": "24/12/6",
+      "location": "MOSB",
+      "raw_line": "LPO-1950 - Camp Furniture / Dofort"
+    },
+    {
+      "lpo_number": "LPO-1908",
+      "description": "General Consumable Items",
+      "vendor": "Skipper",
+      "date": "24/12/6",
+      "location": "MOSB",
+      "raw_line": "LPO-1908 - General Consumable Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-501",
+      "description": "Electrical Items",
+      "vendor": "Dome",
+      "date": "24/12/8",
+      "location": "MOSB",
+      "raw_line": "LPO-501 - Electrical Items / Dome"
+    },
+    {
+      "lpo_number": "LPO-339",
+      "description": "Pallet Truck",
+      "vendor": "Global Hardware",
+      "date": "24/12/8",
+      "location": "MOSB",
+      "raw_line": "LPO-339 - Pallet Truck / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-1964",
+      "description": "Consumable Items",
+      "vendor": "Hotpack",
+      "date": "24/12/9",
+      "location": "MOSB",
+      "raw_line": "LPO-1964 - Consumable Items / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-563",
+      "description": "Anchor Bolts",
+      "vendor": "Al Jazeera Bolts",
+      "date": "24/12/9",
+      "location": "MOSB",
+      "raw_line": "LPO-563 - Anchor Bolts / Al Jazeera Bolts"
+    },
+    {
+      "lpo_number": "LPO-1957",
+      "description": "General Items",
+      "vendor": "Lokhandwala",
+      "date": "24/12/11",
+      "location": "MOSB",
+      "raw_line": "LPO-1957 - General Items / Lokhandwala"
+    },
+    {
+      "lpo_number": "LPO-561",
+      "description": "uPVC Matls",
+      "vendor": "PolyFab",
+      "date": "24/12/15",
+      "location": "MOSB",
+      "raw_line": "LPO-561 - uPVC Matls / PolyFab"
+    },
+    {
+      "lpo_number": "LPO-1973",
+      "description": "Camp General Items",
+      "vendor": "Dofort",
+      "date": "24/12/16",
+      "location": "MOSB",
+      "raw_line": "LPO-1973 - Camp General Items / Dofort"
+    },
+    {
+      "lpo_number": "LPO-1984",
+      "description": "Paper Cup",
+      "vendor": "Hotpack",
+      "date": "24/12/16",
+      "location": "MOSB",
+      "raw_line": "LPO-1984 - Paper Cup / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-555",
+      "description": "GRP Water Tank",
+      "vendor": "Lokhandwala",
+      "date": "24/12/17",
+      "location": "MOSB",
+      "raw_line": "LPO-555 - GRP Water Tank / Lokhandwala"
+    },
+    {
+      "lpo_number": "LPO-555",
+      "description": "GRP Water Tank",
+      "vendor": "Lokhandwala",
+      "date": "24/12/18",
+      "location": "MOSB",
+      "raw_line": "LPO-555 - GRP Water Tank / Lokhandwala"
+    },
+    {
+      "lpo_number": "LPO-570",
+      "description": "Paint Matls",
+      "vendor": "Lokhandwala",
+      "date": "24/12/18",
+      "location": "MOSB",
+      "raw_line": "LPO-570 - Paint Matls / Lokhandwala"
+    },
+    {
+      "lpo_number": "LPO-1989",
+      "description": "Consumable Items",
+      "vendor": "Hotpack",
+      "date": "24/12/18",
+      "location": "MOSB",
+      "raw_line": "LPO-1989 - Consumable Items / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-575",
+      "description": "Fence Matls",
+      "vendor": "EIS",
+      "date": "24/12/19",
+      "location": "MOSB",
+      "raw_line": "LPO-575 - Fence Matls / EIS"
+    },
+    {
+      "lpo_number": "LPO-590",
+      "description": "Neoprene Sheet",
+      "vendor": "Trillion",
+      "date": "24/12/20",
+      "location": "MOSB",
+      "raw_line": "LPO-590 - Neoprene Sheet / Trillion"
+    },
+    {
+      "lpo_number": "LPO-521",
+      "description": "Jumbo Bags",
+      "vendor": "Jumbo Plastic",
+      "date": "24/12/20",
+      "location": "MOSB",
+      "raw_line": "LPO-521 - Jumbo Bags / Jumbo Plastic"
+    },
+    {
+      "lpo_number": "LPO-586",
+      "description": "Electrical Items & Tools",
+      "vendor": "Dynamic",
+      "date": "24/12/20",
+      "location": "MOSB",
+      "raw_line": "LPO-586 - Electrical Items & Tools / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-555",
+      "description": "GRP Water Tanks",
+      "vendor": "Lokhandwala",
+      "date": "24/12/22",
+      "location": "MOSB",
+      "raw_line": "LPO-555 - GRP Water Tanks / Lokhandwala"
+    },
+    {
+      "lpo_number": "LPO-603",
+      "description": "Cable",
+      "vendor": "Stepzone",
+      "date": "24/12/23",
+      "location": "MOSB",
+      "raw_line": "LPO-603 - Cable / Stepzone"
+    },
+    {
+      "lpo_number": "LPO-2009",
+      "description": "Medicine for Clinic",
+      "vendor": "Zam Zam Pharmacy",
+      "date": "24/12/24",
+      "location": "MOSB",
+      "raw_line": "LPO-2009 - Medicine for Clinic / Zam Zam Pharmacy"
+    },
+    {
+      "lpo_number": "LPO-1965",
+      "description": "Office Consumable",
+      "vendor": "Skipper",
+      "date": "24/12/24",
+      "location": "MOSB",
+      "raw_line": "LPO-1965 - Office Consumable / Skipper"
+    },
+    {
+      "lpo_number": "LPO-2005",
+      "description": "Medicine for Clinic",
+      "vendor": "Zam Zam Pharmacy",
+      "date": "24/12/24",
+      "location": "MOSB",
+      "raw_line": "LPO-2005 - Medicine for Clinic / Zam Zam Pharmacy"
+    },
+    {
+      "lpo_number": "LPO-528",
+      "description": "Expansion Joint Cover",
+      "vendor": "COVER",
+      "date": "24/12/25",
+      "location": "MOSB",
+      "raw_line": "LPO-528 - Expansion Joint Cover / COVER"
+    },
+    {
+      "lpo_number": "LPO-1980",
+      "description": "General Items",
+      "vendor": "Dofort",
+      "date": "24/12/26",
+      "location": "MOSB",
+      "raw_line": "LPO-1980 - General Items / Dofort"
+    },
+    {
+      "lpo_number": "LPO-2017",
+      "description": "Desktop",
+      "vendor": "Dofort",
+      "date": "24/12/26",
+      "location": "MOSB",
+      "raw_line": "LPO-2017 - Desktop / Dofort"
+    },
+    {
+      "lpo_number": "LPO-532",
+      "description": "Lighting Matls",
+      "vendor": "Total Connexons",
+      "date": "24/12/27",
+      "location": "MOSB",
+      "raw_line": "LPO-532 - Lighting Matls / Total Connexons"
+    },
+    {
+      "lpo_number": "LPO-534",
+      "description": "Lighting Matls",
+      "vendor": "Total Connexons",
+      "date": "24/12/27",
+      "location": "MOSB",
+      "raw_line": "LPO-534 - Lighting Matls / Total Connexons"
+    },
+    {
+      "lpo_number": "LPO-2002",
+      "description": "PPE Coverall",
+      "vendor": "Trillion",
+      "date": "24/12/27",
+      "location": "MOSB",
+      "raw_line": "LPO-2002 - PPE Coverall / Trillion"
+    },
+    {
+      "lpo_number": "LPO-451",
+      "description": "Electrical Cables",
+      "vendor": "Power Plus Cable",
+      "date": "24/12/29",
+      "location": "MOSB",
+      "raw_line": "LPO-451 - Electrical Cables / Power Plus Cable"
+    },
+    {
+      "lpo_number": "LPO-455",
+      "description": "Electrical Cables",
+      "vendor": "Power Plus Cable",
+      "date": "24/12/29",
+      "location": "MOSB",
+      "raw_line": "LPO-455 - Electrical Cables / Power Plus Cable"
+    },
+    {
+      "lpo_number": "LPO-452",
+      "description": "Electrical Cables",
+      "vendor": "Power Plus Cable",
+      "date": "24/12/29",
+      "location": "MOSB",
+      "raw_line": "LPO-452 - Electrical Cables / Power Plus Cable"
+    },
+    {
+      "lpo_number": "LPO-456",
+      "description": "Electrical Cables",
+      "vendor": "Power Plus Cable",
+      "date": "24/12/29",
+      "location": "MOSB",
+      "raw_line": "LPO-456 - Electrical Cables / Power Plus Cable"
+    },
+    {
+      "lpo_number": "LPO-579",
+      "description": "Cable Tray Accessories",
+      "vendor": "Power Solutions",
+      "date": "25/1/3",
+      "location": "MOSB",
+      "raw_line": "LPO-579 - Cable Tray Accessories / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-1981",
+      "description": "Camp Furnitures",
+      "vendor": "Union",
+      "date": "25/1/3",
+      "location": "MOSB",
+      "raw_line": "LPO-1981 - Camp Furnitures / Union"
+    },
+    {
+      "lpo_number": "LPO-606",
+      "description": "uPVC Matls",
+      "vendor": "Polyfab",
+      "date": "25/1/5",
+      "location": "MOSB",
+      "raw_line": "LPO-606 - uPVC Matls / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-515",
+      "description": "uPVC Matls",
+      "vendor": "Power Plastic",
+      "date": "25/1/7",
+      "location": "MOSB",
+      "raw_line": "LPO-515 - uPVC Matls / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-515",
+      "description": "uPVC Matls",
+      "vendor": "Power Plastic",
+      "date": "25/1/7",
+      "location": "MOSB",
+      "raw_line": "LPO-515 - uPVC Matls / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-484",
+      "description": "uPVC Matls",
+      "vendor": "Power Plastic",
+      "date": "25/1/7",
+      "location": "MOSB",
+      "raw_line": "LPO-484 - uPVC Matls / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-647",
+      "description": "Scaffolding Matls",
+      "vendor": "DuScaff",
+      "date": "25/1/14",
+      "location": "MOSB",
+      "raw_line": "LPO-647 - Scaffolding Matls / DuScaff"
+    },
+    {
+      "lpo_number": "LPO-1920",
+      "description": "Storage Rack",
+      "vendor": "Skipper",
+      "date": "25/1/14",
+      "location": "MOSB",
+      "raw_line": "LPO-1920 - Storage Rack / Skipper"
+    },
+    {
+      "lpo_number": "LPO-623",
+      "description": "UPVC Matls",
+      "vendor": "Polyfab",
+      "date": "25/1/15",
+      "location": "MOSB",
+      "raw_line": "LPO-623 - UPVC Matls / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-626",
+      "description": "UPVC Matls",
+      "vendor": "Polyfab",
+      "date": "25/1/15",
+      "location": "MOSB",
+      "raw_line": "LPO-626 - UPVC Matls / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-645",
+      "description": "Threaded Stud",
+      "vendor": "Hilti",
+      "date": "25/1/15",
+      "location": "MOSB",
+      "raw_line": "LPO-645 - Threaded Stud / Hilti"
+    },
+    {
+      "lpo_number": "LPO-659",
+      "description": "Electrical Items",
+      "vendor": "Total Connexons",
+      "date": "25/1/17",
+      "location": "MOSB",
+      "raw_line": "LPO-659 - Electrical Items / Total Connexons"
+    },
+    {
+      "lpo_number": "LPO-660",
+      "description": "Camp Maintenance Matls",
+      "vendor": "Global Hardware",
+      "date": "25/1/19",
+      "location": "MOSB",
+      "raw_line": "LPO-660 - Camp Maintenance Matls / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-662",
+      "description": "UPVC Matls",
+      "vendor": "Global Hardware",
+      "date": "25/1/19",
+      "location": "MOSB",
+      "raw_line": "LPO-662 - UPVC Matls / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-385",
+      "description": "SS Piping Matls",
+      "vendor": "Gasos Tech Hard",
+      "date": "25/1/23",
+      "location": "MOSB",
+      "raw_line": "LPO-385 - SS Piping Matls / Gasos Tech Hard"
+    },
+    {
+      "lpo_number": "LPO-647",
+      "description": "Scaffolding Matls",
+      "vendor": "DuScaff",
+      "date": "25/1/23",
+      "location": "MOSB",
+      "raw_line": "LPO-647 - Scaffolding Matls / DuScaff"
+    },
+    {
+      "lpo_number": "LPO-386",
+      "description": "SS Piping Matls",
+      "vendor": "Gasos Tech Hard",
+      "date": "25/1/23",
+      "location": "MOSB",
+      "raw_line": "LPO-386 - SS Piping Matls / Gasos Tech Hard"
+    },
+    {
+      "lpo_number": "LPO-2110",
+      "description": "HSE Items",
+      "vendor": "EIS",
+      "date": "25/1/24",
+      "location": "MOSB",
+      "raw_line": "LPO-2110 - HSE Items / EIS"
+    },
+    {
+      "lpo_number": "LPO-693",
+      "description": "Plywood Sheets",
+      "vendor": "Global Hardware",
+      "date": "25/1/24",
+      "location": "MOSB",
+      "raw_line": "LPO-693 - Plywood Sheets / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-2050",
+      "description": "Kitchen Items",
+      "vendor": "Dynamic",
+      "date": "25/1/24",
+      "location": "MOSB",
+      "raw_line": "LPO-2050 - Kitchen Items / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1881",
+      "description": "Kitchen & Laundry Items",
+      "vendor": "Skipper",
+      "date": "25/1/27",
+      "location": "MOSB",
+      "raw_line": "LPO-1881 - Kitchen & Laundry Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-606",
+      "description": "Electrical Matls",
+      "vendor": "Brands",
+      "date": "25/1/27",
+      "location": "MOSB",
+      "raw_line": "LPO-606 - Electrical Matls / Brands"
+    },
+    {
+      "lpo_number": "LPO-2100",
+      "description": "Barber Shop Items",
+      "vendor": "Skipper",
+      "date": "25/1/27",
+      "location": "MOSB",
+      "raw_line": "LPO-2100 - Barber Shop Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-644",
+      "description": "Cable Tray Accessories",
+      "vendor": "Power Solutions",
+      "date": "25/1/28",
+      "location": "MOSB",
+      "raw_line": "LPO-644 - Cable Tray Accessories / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-655",
+      "description": "Cable Tray Accessories",
+      "vendor": "Power Solutions",
+      "date": "25/1/28",
+      "location": "MOSB",
+      "raw_line": "LPO-655 - Cable Tray Accessories / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-1866",
+      "description": "Generator Spare Parts",
+      "vendor": "Jubaili Bros",
+      "date": "25/1/28",
+      "location": "MOSB",
+      "raw_line": "LPO-1866 - Generator Spare Parts / Jubaili Bros"
+    },
+    {
+      "lpo_number": "LPO-666",
+      "description": "Electrical Cable",
+      "vendor": "Brands",
+      "date": "25/1/28",
+      "location": "MOSB",
+      "raw_line": "LPO-666 - Electrical Cable / Brands"
+    },
+    {
+      "lpo_number": "LPO-2102",
+      "description": "Consumable Items",
+      "vendor": "Dofort",
+      "date": "25/1/30",
+      "location": "MOSB",
+      "raw_line": "LPO-2102 - Consumable Items / Dofort"
+    },
+    {
+      "lpo_number": "LPO-2102",
+      "description": "Consumable Items",
+      "vendor": "Dofort",
+      "date": "25/1/30",
+      "location": "MOSB",
+      "raw_line": "LPO-2102 - Consumable Items / Dofort"
+    },
+    {
+      "lpo_number": "LPO-2129",
+      "description": "General Items",
+      "vendor": "Skipper",
+      "date": "25/1/31",
+      "location": "MOSB",
+      "raw_line": "LPO-2129 - General Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-2136",
+      "description": "Consumable Items",
+      "vendor": "Skipper",
+      "date": "25/1/31",
+      "location": "MOSB",
+      "raw_line": "LPO-2136 - Consumable Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-2129",
+      "description": "General Items",
+      "vendor": "Skipper",
+      "date": "25/1/31",
+      "location": "MOSB",
+      "raw_line": "LPO-2129 - General Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-718",
+      "description": "Alum Scaffolding Set",
+      "vendor": "ACE",
+      "date": "25/2/3",
+      "location": "MOSB",
+      "raw_line": "LPO-718 - Alum Scaffolding Set / ACE"
+    },
+    {
+      "lpo_number": "LPO-715",
+      "description": "Lashing Belt",
+      "vendor": "Shinning Star",
+      "date": "25/2/3",
+      "location": "MOSB",
+      "raw_line": "LPO-715 - Lashing Belt / Shinning Star"
+    },
+    {
+      "lpo_number": "LPO-698",
+      "description": "Zink Spray",
+      "vendor": "TechServe",
+      "date": "25/2/4",
+      "location": "MOSB",
+      "raw_line": "LPO-698 - Zink Spray / TechServe"
+    },
+    {
+      "lpo_number": "LPO-705",
+      "description": "Steel Conduit Acc'y",
+      "vendor": "Arabian Falcon",
+      "date": "25/2/5",
+      "location": "MOSB",
+      "raw_line": "LPO-705 - Steel Conduit Acc'y / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-2058",
+      "description": "HSE Items",
+      "vendor": "Tatra",
+      "date": "25/2/5",
+      "location": "MOSB",
+      "raw_line": "LPO-2058 - HSE Items / Tatra"
+    },
+    {
+      "lpo_number": "LPO-2072",
+      "description": "Consumable Items",
+      "vendor": "Hotpack",
+      "date": "25/2/5",
+      "location": "MOSB",
+      "raw_line": "LPO-2072 - Consumable Items / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-2072",
+      "description": "Consumable Items",
+      "vendor": "Hotpack",
+      "date": "25/2/5",
+      "location": "MOSB",
+      "raw_line": "LPO-2072 - Consumable Items / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-728",
+      "description": "Webbing Sling",
+      "vendor": "Global Hardware",
+      "date": "25/2/5",
+      "location": "MOSB",
+      "raw_line": "LPO-728 - Webbing Sling / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-703",
+      "description": "Camp Maint Matls",
+      "vendor": "Global Hardware",
+      "date": "25/2/9",
+      "location": "MOSB",
+      "raw_line": "LPO-703 - Camp Maint Matls / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-660",
+      "description": "Camp Maint Matls",
+      "vendor": "Global Hardware",
+      "date": "25/2/9",
+      "location": "MOSB",
+      "raw_line": "LPO-660 - Camp Maint Matls / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-740",
+      "description": "HSE Items",
+      "vendor": "Trillion",
+      "date": "25/2/9",
+      "location": "MOSB",
+      "raw_line": "LPO-740 - HSE Items / Trillion"
+    },
+    {
+      "lpo_number": "LPO-740",
+      "description": "Camp Maint Matls",
+      "vendor": "Trillion",
+      "date": "25/2/10",
+      "location": "MOSB",
+      "raw_line": "LPO-740 - Camp Maint Matls / Trillion"
+    },
+    {
+      "lpo_number": "LPO-763",
+      "description": "Earthing Cable",
+      "vendor": "Dynamic",
+      "date": "25/2/10",
+      "location": "MOSB",
+      "raw_line": "LPO-763 - Earthing Cable / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-762",
+      "description": "Earthing Cable",
+      "vendor": "Dynamic",
+      "date": "25/2/10",
+      "location": "MOSB",
+      "raw_line": "LPO-762 - Earthing Cable / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-2045",
+      "description": "Pantry Items",
+      "vendor": "Skipper",
+      "date": "25/2/11",
+      "location": "MOSB",
+      "raw_line": "LPO-2045 - Pantry Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-765",
+      "description": "Battery & Tools  for TR",
+      "vendor": "Trillion",
+      "date": "25/2/12",
+      "location": "MOSB",
+      "raw_line": "LPO-765 - Battery & Tools  for TR / Trillion"
+    },
+    {
+      "lpo_number": "LPO-2092",
+      "description": "Sign Board & Pole",
+      "vendor": "Hours Ads",
+      "date": "25/2/12",
+      "location": "MOSB",
+      "raw_line": "LPO-2092 - Sign Board & Pole / Hours Ads"
+    },
+    {
+      "lpo_number": "LPO-729",
+      "description": "Plumbing Matls",
+      "vendor": "Lokhandwala",
+      "date": "25/2/13",
+      "location": "MOSB",
+      "raw_line": "LPO-729 - Plumbing Matls / Lokhandwala"
+    },
+    {
+      "lpo_number": "LPO-747",
+      "description": "Steel Bolt",
+      "vendor": "Al Jazeera",
+      "date": "25/2/13",
+      "location": "MOSB",
+      "raw_line": "LPO-747 - Steel Bolt / Al Jazeera"
+    },
+    {
+      "lpo_number": "LPO-747",
+      "description": "Steel Bolt",
+      "vendor": "Al Jazeera",
+      "date": "25/2/13",
+      "location": "MOSB",
+      "raw_line": "LPO-747 - Steel Bolt / Al Jazeera"
+    },
+    {
+      "lpo_number": "LPO-2175",
+      "description": "Consumable Items",
+      "vendor": "Hotpack",
+      "date": "25/2/14",
+      "location": "MOSB",
+      "raw_line": "LPO-2175 - Consumable Items / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-786",
+      "description": "Set Anchor",
+      "vendor": "Al Jazeera",
+      "date": "25/2/20",
+      "location": "MOSB",
+      "raw_line": "LPO-786 - Set Anchor / Al Jazeera"
+    },
+    {
+      "lpo_number": "LPO-723",
+      "description": "Cable Tray Accessories",
+      "vendor": "Power Solutions",
+      "date": "25/2/20",
+      "location": "MOSB",
+      "raw_line": "LPO-723 - Cable Tray Accessories / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-741",
+      "description": "Threaded Bar",
+      "vendor": "Power Solutions",
+      "date": "25/2/20",
+      "location": "MOSB",
+      "raw_line": "LPO-741 - Threaded Bar / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-794",
+      "description": "Set Anchor",
+      "vendor": "Al Jazeera",
+      "date": "25/2/20",
+      "location": "MOSB",
+      "raw_line": "LPO-794 - Set Anchor / Al Jazeera"
+    },
+    {
+      "lpo_number": "LPO-724",
+      "description": "Cable Tray Accessories",
+      "vendor": "Power Solutions",
+      "date": "25/2/20",
+      "location": "MOSB",
+      "raw_line": "LPO-724 - Cable Tray Accessories / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-723",
+      "description": "Cable Tray Accessories",
+      "vendor": "Power Solutions",
+      "date": "25/2/21",
+      "location": "MOSB",
+      "raw_line": "LPO-723 - Cable Tray Accessories / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-741",
+      "description": "Threaded Bar",
+      "vendor": "Power Solutions",
+      "date": "25/2/21",
+      "location": "MOSB",
+      "raw_line": "LPO-741 - Threaded Bar / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-724",
+      "description": "Cable Tray Accessories",
+      "vendor": "Power Solutions",
+      "date": "25/2/21",
+      "location": "MOSB",
+      "raw_line": "LPO-724 - Cable Tray Accessories / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-771",
+      "description": "Wire Rope Sling",
+      "vendor": "Dutest",
+      "date": "25/2/24",
+      "location": "MOSB",
+      "raw_line": "LPO-771 - Wire Rope Sling / Dutest"
+    },
+    {
+      "lpo_number": "LPO-438",
+      "description": "UPVC Coupler",
+      "vendor": "Power Plastic",
+      "date": "25/2/24",
+      "location": "MOSB",
+      "raw_line": "LPO-438 - UPVC Coupler / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-798",
+      "description": "LV Cable",
+      "vendor": "El Sewedy",
+      "date": "25/2/24",
+      "location": "MOSB",
+      "raw_line": "LPO-798 - LV Cable / El Sewedy"
+    },
+    {
+      "lpo_number": "LPO-611",
+      "description": "A-Frame Trailer 1ea",
+      "vendor": "High Five",
+      "date": "25/2/24",
+      "location": "MOSB",
+      "raw_line": "LPO-611 - A-Frame Trailer 1ea / High Five"
+    },
+    {
+      "lpo_number": "LPO-766",
+      "description": "Alum Mobile Scaffolding",
+      "vendor": "ACE",
+      "date": "25/2/25",
+      "location": "MOSB",
+      "raw_line": "LPO-766 - Alum Mobile Scaffolding / ACE"
+    },
+    {
+      "lpo_number": "LPO-2198",
+      "description": "Printer Toner",
+      "vendor": "New Smart",
+      "date": "25/2/25",
+      "location": "MOSB",
+      "raw_line": "LPO-2198 - Printer Toner / New Smart"
+    },
+    {
+      "lpo_number": "LPO-684",
+      "description": "HSE Items",
+      "vendor": "Royal Emirates",
+      "date": "25/2/25",
+      "location": "MOSB",
+      "raw_line": "LPO-684 - HSE Items / Royal Emirates"
+    },
+    {
+      "lpo_number": "LPO-737",
+      "description": "Solar Light",
+      "vendor": "EIS",
+      "date": "25/2/25",
+      "location": "MOSB",
+      "raw_line": "LPO-737 - Solar Light / EIS"
+    },
+    {
+      "lpo_number": "LPO-611",
+      "description": "A-Frame Trailer 1ea",
+      "vendor": "High Five <This message was edited>",
+      "date": "25/2/25",
+      "location": "MOSB",
+      "raw_line": "LPO-611 - A-Frame Trailer 1ea / High Five <This message was edited>"
+    },
+    {
+      "lpo_number": "LPO-788",
+      "description": "Scaffolding Matls",
+      "vendor": "DuScaff",
+      "date": "25/2/26",
+      "location": "MOSB",
+      "raw_line": "LPO-788 - Scaffolding Matls / DuScaff"
+    },
+    {
+      "lpo_number": "LPO-815",
+      "description": "Paint Matls",
+      "vendor": "Shining Star",
+      "date": "25/2/26",
+      "location": "MOSB",
+      "raw_line": "LPO-815 - Paint Matls / Shining Star"
+    },
+    {
+      "lpo_number": "LPO-808",
+      "description": "Webbing Sling",
+      "vendor": "Shining Star",
+      "date": "25/2/26",
+      "location": "MOSB",
+      "raw_line": "LPO-808 - Webbing Sling / Shining Star"
+    },
+    {
+      "lpo_number": "LPO-683",
+      "description": "Scaffolding Matls",
+      "vendor": "ScaffCo",
+      "date": "25/2/27",
+      "location": "MOSB",
+      "raw_line": "LPO-683 - Scaffolding Matls / ScaffCo"
+    },
+    {
+      "lpo_number": "LPO-825",
+      "description": "Camp Maint Matls",
+      "vendor": "Step Zone",
+      "date": "25/2/27",
+      "location": "MOSB",
+      "raw_line": "LPO-825 - Camp Maint Matls / Step Zone"
+    },
+    {
+      "lpo_number": "LPO-691",
+      "description": "Flange & Bolts",
+      "vendor": "Gasos",
+      "date": "25/3/4",
+      "location": "MOSB",
+      "raw_line": "LPO-691 - Flange & Bolts / Gasos"
+    },
+    {
+      "lpo_number": "LPO-692",
+      "description": "Flange & Bolts",
+      "vendor": "Gasos",
+      "date": "25/3/4",
+      "location": "MOSB",
+      "raw_line": "LPO-692 - Flange & Bolts / Gasos"
+    },
+    {
+      "lpo_number": "LPO-782",
+      "description": "Cable Tray Accessories",
+      "vendor": "Power Solutions",
+      "date": "25/3/11",
+      "location": "MOSB",
+      "raw_line": "LPO-782 - Cable Tray Accessories / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-783",
+      "description": "Cable Tray Accessories",
+      "vendor": "Power Solutions",
+      "date": "25/3/11",
+      "location": "MOSB",
+      "raw_line": "LPO-783 - Cable Tray Accessories / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-841",
+      "description": "1x Pallet Terminal Box",
+      "vendor": "Energy",
+      "date": "25/3/14",
+      "location": "MOSB",
+      "raw_line": "LPO-841 - 1x Pallet Terminal Box / Energy"
+    },
+    {
+      "lpo_number": "LPO-884",
+      "description": "1x Pallet Elec Cables",
+      "vendor": "Brands",
+      "date": "25/3/14",
+      "location": "MOSB",
+      "raw_line": "LPO-884 - 1x Pallet Elec Cables / Brands"
+    },
+    {
+      "lpo_number": "LPO-888",
+      "description": "W. Sling 12t only",
+      "vendor": "Global Hardware",
+      "date": "25/3/16",
+      "location": "MOSB",
+      "raw_line": "LPO-888 - W. Sling 12t only / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-813",
+      "description": "Junction Box Adoptor",
+      "vendor": "Dynamic",
+      "date": "25/3/16",
+      "location": "MOSB",
+      "raw_line": "LPO-813 - Junction Box Adoptor / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-814",
+      "description": "Junction Box Adoptor",
+      "vendor": "Dynamic <This message was edited>",
+      "date": "25/3/16",
+      "location": "MOSB",
+      "raw_line": "LPO-814 - Junction Box Adoptor / Dynamic <This message was edited>"
+    },
+    {
+      "lpo_number": "LPO-863",
+      "description": "Scaffolding Matls",
+      "vendor": "DuScaff",
+      "date": "25/3/17",
+      "location": "MOSB",
+      "raw_line": "LPO-863 - Scaffolding Matls / DuScaff"
+    },
+    {
+      "lpo_number": "LPO-745",
+      "description": "Earthing Matls",
+      "vendor": "Total Connexons",
+      "date": "25/3/17",
+      "location": "MOSB",
+      "raw_line": "LPO-745 - Earthing Matls / Total Connexons"
+    },
+    {
+      "lpo_number": "LPO-683",
+      "description": "Scaffolding Matls",
+      "vendor": "ScaffCo",
+      "date": "25/3/17",
+      "location": "MOSB",
+      "raw_line": "LPO-683 - Scaffolding Matls / ScaffCo"
+    },
+    {
+      "lpo_number": "LPO-2249",
+      "description": "Medicine Items",
+      "vendor": "Zam Pharmacy",
+      "date": "25/3/18",
+      "location": "MOSB",
+      "raw_line": "LPO-2249 - Medicine Items / Zam Pharmacy"
+    },
+    {
+      "lpo_number": "LPO-2231",
+      "description": "Printer Toner",
+      "vendor": "New Smart",
+      "date": "25/3/19",
+      "location": "MOSB",
+      "raw_line": "LPO-2231 - Printer Toner / New Smart"
+    },
+    {
+      "lpo_number": "LPO-2254",
+      "description": "HSE Items",
+      "vendor": "Skipper",
+      "date": "25/3/20",
+      "location": "MOSB",
+      "raw_line": "LPO-2254 - HSE Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-853",
+      "description": "Pumps & Maint Matls",
+      "vendor": "Step Zone",
+      "date": "25/3/20",
+      "location": "MOSB",
+      "raw_line": "LPO-853 - Pumps & Maint Matls / Step Zone"
+    },
+    {
+      "lpo_number": "LPO-920",
+      "description": "Lighting Conduit",
+      "vendor": "Arabian Falcon",
+      "date": "25/3/24",
+      "location": "MOSB",
+      "raw_line": "LPO-920 - Lighting Conduit / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-781",
+      "description": "PVC Pipes",
+      "vendor": "Power Plastic",
+      "date": "25/3/24",
+      "location": "MOSB",
+      "raw_line": "LPO-781 - PVC Pipes / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-920",
+      "description": "Lighting Conduit",
+      "vendor": "Arabian Falcon",
+      "date": "25/3/25",
+      "location": "MOSB",
+      "raw_line": "LPO-920 - Lighting Conduit / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-781",
+      "description": "PVC Pipes",
+      "vendor": "Power Plastic",
+      "date": "25/3/25",
+      "location": "MOSB",
+      "raw_line": "LPO-781 - PVC Pipes / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-2286",
+      "description": "Tissue Roll",
+      "vendor": "Hotpack",
+      "date": "25/3/26",
+      "location": "MOSB",
+      "raw_line": "LPO-2286 - Tissue Roll / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-2241",
+      "description": "General Items",
+      "vendor": "Skipper",
+      "date": "25/3/26",
+      "location": "MOSB",
+      "raw_line": "LPO-2241 - General Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-2260",
+      "description": "Storage Racks",
+      "vendor": "Skipper",
+      "date": "25/3/26",
+      "location": "MOSB",
+      "raw_line": "LPO-2260 - Storage Racks / Skipper"
+    },
+    {
+      "lpo_number": "LPO-386",
+      "description": "Valve",
+      "vendor": "Gasos",
+      "date": "25/3/27",
+      "location": "MOSB",
+      "raw_line": "LPO-386 - Valve / Gasos"
+    },
+    {
+      "lpo_number": "LPO-942",
+      "description": "MCT",
+      "vendor": "Roxtec",
+      "date": "25/3/27",
+      "location": "MOSB",
+      "raw_line": "LPO-942 - MCT / Roxtec"
+    },
+    {
+      "lpo_number": "LPO-385",
+      "description": "Valve",
+      "vendor": "Gasos",
+      "date": "25/3/27",
+      "location": "MOSB",
+      "raw_line": "LPO-385 - Valve / Gasos"
+    },
+    {
+      "lpo_number": "LPO-819",
+      "description": "DB Panels",
+      "vendor": "Brands",
+      "date": "25/3/27",
+      "location": "MOSB",
+      "raw_line": "LPO-819 - DB Panels / Brands"
+    },
+    {
+      "lpo_number": "LPO-879",
+      "description": "Scaffolding Matls",
+      "vendor": "DuScaff",
+      "date": "25/3/28",
+      "location": "MOSB",
+      "raw_line": "LPO-879 - Scaffolding Matls / DuScaff"
+    },
+    {
+      "lpo_number": "LPO-781",
+      "description": "UPVC Fittings",
+      "vendor": "Power Plastic",
+      "date": "25/3/28",
+      "location": "MOSB",
+      "raw_line": "LPO-781 - UPVC Fittings / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-823",
+      "description": "Cladding Matls",
+      "vendor": "Gmark",
+      "date": "25/4/4",
+      "location": "MOSB",
+      "raw_line": "LPO-823 - Cladding Matls / Gmark"
+    },
+    {
+      "lpo_number": "LPO-980",
+      "description": "Welding Machine",
+      "vendor": "EIS",
+      "date": "25/4/4",
+      "location": "MOSB",
+      "raw_line": "LPO-980 - Welding Machine / EIS"
+    },
+    {
+      "lpo_number": "LPO-824",
+      "description": "Cladding Matls",
+      "vendor": "Gmark",
+      "date": "25/4/4",
+      "location": "MOSB",
+      "raw_line": "LPO-824 - Cladding Matls / Gmark"
+    },
+    {
+      "lpo_number": "LPO-959",
+      "description": "UPVC Elbow",
+      "vendor": "Power Plastic",
+      "date": "25/4/7",
+      "location": "MOSB",
+      "raw_line": "LPO-959 - UPVC Elbow / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-745",
+      "description": "Earthing Matls",
+      "vendor": "Total GCC",
+      "date": "25/4/7",
+      "location": "MOSB",
+      "raw_line": "LPO-745 - Earthing Matls / Total GCC"
+    },
+    {
+      "lpo_number": "LPO-776",
+      "description": "DC Clip",
+      "vendor": "Total GCC",
+      "date": "25/4/7",
+      "location": "MOSB",
+      "raw_line": "LPO-776 - DC Clip / Total GCC"
+    },
+    {
+      "lpo_number": "LPO-951",
+      "description": "4ton Stand AC",
+      "vendor": "Global Hardware",
+      "date": "25/4/7",
+      "location": "MOSB",
+      "raw_line": "LPO-951 - 4ton Stand AC / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-868",
+      "description": "LV Cables",
+      "vendor": "El Sewedy",
+      "date": "25/4/7",
+      "location": "MOSB",
+      "raw_line": "LPO-868 - LV Cables / El Sewedy"
+    },
+    {
+      "lpo_number": "LPO-777",
+      "description": "DC Clip",
+      "vendor": "Total GCC",
+      "date": "25/4/7",
+      "location": "MOSB",
+      "raw_line": "LPO-777 - DC Clip / Total GCC"
+    },
+    {
+      "lpo_number": "LPO-935",
+      "description": "Solid Blocks",
+      "vendor": "Royal Emirates",
+      "date": "25/4/9",
+      "location": "DAS",
+      "raw_line": "LPO-935 - Solid Blocks / Royal Emirates"
+    },
+    {
+      "lpo_number": "LPO-866",
+      "description": "Vinyl Flooring",
+      "vendor": "Zia&Sagor",
+      "date": "25/4/9",
+      "location": "DAS",
+      "raw_line": "LPO-866 - Vinyl Flooring / Zia&Sagor"
+    },
+    {
+      "lpo_number": "LPO-1022",
+      "description": "W.Sling",
+      "vendor": "Global Hardware",
+      "date": "25/4/14",
+      "location": "DAS",
+      "raw_line": "LPO-1022 - W.Sling / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-863",
+      "description": "Scaff Matls",
+      "vendor": "DuScaff",
+      "date": "25/4/14",
+      "location": "DAS",
+      "raw_line": "LPO-863 - Scaff Matls / DuScaff"
+    },
+    {
+      "lpo_number": "LPO-879",
+      "description": "Scaff Matls",
+      "vendor": "DuScaff",
+      "date": "25/4/14",
+      "location": "DAS",
+      "raw_line": "LPO-879 - Scaff Matls / DuScaff"
+    },
+    {
+      "lpo_number": "LPO-781",
+      "description": "UPVC Matls",
+      "vendor": "Power Plastic",
+      "date": "25/4/14",
+      "location": "DAS",
+      "raw_line": "LPO-781 - UPVC Matls / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-959",
+      "description": "UPVC Matls",
+      "vendor": "Power Plastic",
+      "date": "25/4/14",
+      "location": "DAS",
+      "raw_line": "LPO-959 - UPVC Matls / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-990",
+      "description": "UPVC Matls",
+      "vendor": "Power Plastic",
+      "date": "25/4/14",
+      "location": "DAS",
+      "raw_line": "LPO-990 - UPVC Matls / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-975",
+      "description": "Pumps & Fittings",
+      "vendor": "Step Zone",
+      "date": "25/4/14",
+      "location": "DAS",
+      "raw_line": "LPO-975 - Pumps & Fittings / Step Zone"
+    },
+    {
+      "lpo_number": "LPO-2346",
+      "description": "Consumable Items",
+      "vendor": "Hotpack",
+      "date": "25/4/16",
+      "location": "DAS",
+      "raw_line": "LPO-2346 - Consumable Items / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-2258",
+      "description": "Office Furniture",
+      "vendor": "Dofort",
+      "date": "25/4/18",
+      "location": "DAS",
+      "raw_line": "LPO-2258 - Office Furniture / Dofort"
+    },
+    {
+      "lpo_number": "LPO-1009",
+      "description": "Cable Tray Acc'y",
+      "vendor": "Power Solutions",
+      "date": "25/4/21",
+      "location": "DAS",
+      "raw_line": "LPO-1009 - Cable Tray Acc'y / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-2319",
+      "description": "Gen Maint Items",
+      "vendor": "Skipper",
+      "date": "25/4/21",
+      "location": "DAS",
+      "raw_line": "LPO-2319 - Gen Maint Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-2322",
+      "description": "Gen Maint Items",
+      "vendor": "Skipper",
+      "date": "25/4/21",
+      "location": "DAS",
+      "raw_line": "LPO-2322 - Gen Maint Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-987",
+      "description": "Cable Tray Acc'y",
+      "vendor": "Power Solutions",
+      "date": "25/4/21",
+      "location": "DAS",
+      "raw_line": "LPO-987 - Cable Tray Acc'y / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-2345",
+      "description": "Pantry Items",
+      "vendor": "Skipper <This message was edited>",
+      "date": "25/4/21",
+      "location": "DAS",
+      "raw_line": "LPO-2345 - Pantry Items / Skipper <This message was edited>"
+    },
+    {
+      "lpo_number": "LPO-909",
+      "description": "Steel Bolt",
+      "vendor": "Dome",
+      "date": "25/4/23",
+      "location": "DAS",
+      "raw_line": "LPO-909 - Steel Bolt / Dome"
+    },
+    {
+      "lpo_number": "LPO-2258",
+      "description": "Office Partition",
+      "vendor": "Dofort",
+      "date": "25/4/23",
+      "location": "DAS",
+      "raw_line": "LPO-2258 - Office Partition / Dofort"
+    },
+    {
+      "lpo_number": "LPO-1036",
+      "description": "Gen Maint Matls",
+      "vendor": "Royal Emirates",
+      "date": "25/4/23",
+      "location": "DAS",
+      "raw_line": "LPO-1036 - Gen Maint Matls / Royal Emirates"
+    },
+    {
+      "lpo_number": "LPO-1055",
+      "description": "GI Conduit & JB",
+      "vendor": "Arabian Falcon",
+      "date": "25/4/24",
+      "location": "DAS",
+      "raw_line": "LPO-1055 - GI Conduit & JB / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-2303",
+      "description": "Dust Mask",
+      "vendor": "Terranova",
+      "date": "25/4/24",
+      "location": "DAS",
+      "raw_line": "LPO-2303 - Dust Mask / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2333",
+      "description": "HSE Items",
+      "vendor": "Terranova",
+      "date": "25/4/24",
+      "location": "DAS",
+      "raw_line": "LPO-2333 - HSE Items / Terranova"
+    },
+    {
+      "lpo_number": "LPO-580",
+      "description": "Tank Level Gauge",
+      "vendor": "Peeraj",
+      "date": "25/4/24",
+      "location": "DAS",
+      "raw_line": "LPO-580 - Tank Level Gauge / Peeraj"
+    },
+    {
+      "lpo_number": "LPO-2370",
+      "description": "Paper Cup",
+      "vendor": "Hotpack",
+      "date": "25/4/24",
+      "location": "DAS",
+      "raw_line": "LPO-2370 - Paper Cup / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-909",
+      "description": "Steel Bolts",
+      "vendor": "Dome",
+      "date": "25/4/24",
+      "location": "DAS",
+      "raw_line": "LPO-909 - Steel Bolts / Dome"
+    },
+    {
+      "lpo_number": "LPO-1000",
+      "description": "Lifting Equip",
+      "vendor": "Liftek",
+      "date": "25/4/24",
+      "location": "DAS",
+      "raw_line": "LPO-1000 - Lifting Equip / Liftek"
+    },
+    {
+      "lpo_number": "LPO-580",
+      "description": "Tank Level Gauge",
+      "vendor": "Peeraj",
+      "date": "25/4/24",
+      "location": "DAS",
+      "raw_line": "LPO-580 - Tank Level Gauge / Peeraj"
+    },
+    {
+      "lpo_number": "LPO-931",
+      "description": "Scaff Matls",
+      "vendor": "Scaffco",
+      "date": "25/4/24",
+      "location": "DAS",
+      "raw_line": "LPO-931 - Scaff Matls / Scaffco"
+    },
+    {
+      "lpo_number": "LPO-2344",
+      "description": "Office Items",
+      "vendor": "Union",
+      "date": "25/4/25",
+      "location": "DAS",
+      "raw_line": "LPO-2344 - Office Items / Union"
+    },
+    {
+      "lpo_number": "LPO-1064",
+      "description": "Elec Items",
+      "vendor": "Brands",
+      "date": "25/4/25",
+      "location": "DAS",
+      "raw_line": "LPO-1064 - Elec Items / Brands"
+    },
+    {
+      "lpo_number": "LPO-1025",
+      "description": "Alum Mobile Scaff",
+      "vendor": "ACE",
+      "date": "25/4/28",
+      "location": "DAS",
+      "raw_line": "LPO-1025 - Alum Mobile Scaff / ACE"
+    },
+    {
+      "lpo_number": "LPO-1069",
+      "description": "Exhaust & Mist Fan",
+      "vendor": "Step Zone",
+      "date": "25/4/29",
+      "location": "DAS",
+      "raw_line": "LPO-1069 - Exhaust & Mist Fan / Step Zone"
+    },
+    {
+      "lpo_number": "LPO-962",
+      "description": "Cable Tray Acc'y",
+      "vendor": "PSI",
+      "date": "25/5/1",
+      "location": "MOSB",
+      "raw_line": "LPO-962 - Cable Tray Acc'y / PSI"
+    },
+    {
+      "lpo_number": "LPO-1009",
+      "description": "Cable Trunking",
+      "vendor": "PSI",
+      "date": "25/5/1",
+      "location": "MOSB",
+      "raw_line": "LPO-1009 - Cable Trunking / PSI"
+    },
+    {
+      "lpo_number": "LPO-987",
+      "description": "Cable Tray Acc'y",
+      "vendor": "PSI",
+      "date": "25/5/1",
+      "location": "MOSB",
+      "raw_line": "LPO-987 - Cable Tray Acc'y / PSI"
+    },
+    {
+      "lpo_number": "LPO-2320",
+      "description": "Office Furniture",
+      "vendor": "Al Hawai",
+      "date": "25/5/1",
+      "location": "MOSB",
+      "raw_line": "LPO-2320 - Office Furniture / Al Hawai"
+    },
+    {
+      "lpo_number": "LPO-2320",
+      "description": "Office Furniture",
+      "vendor": "Al Hawai",
+      "date": "25/5/1",
+      "location": "MOSB",
+      "raw_line": "LPO-2320 - Office Furniture / Al Hawai"
+    },
+    {
+      "lpo_number": "LPO-1007",
+      "description": "Diesel Gen Set",
+      "vendor": "Bell Tech",
+      "date": "25/5/4",
+      "location": "DAS",
+      "raw_line": "LPO-1007 - Diesel Gen Set / Bell Tech"
+    },
+    {
+      "lpo_number": "LPO-978",
+      "description": "DB Panels",
+      "vendor": "Dynamic",
+      "date": "25/5/5",
+      "location": "MOSB",
+      "raw_line": "LPO-978 - DB Panels / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-969",
+      "description": "DB Panels",
+      "vendor": "Brands",
+      "date": "25/5/5",
+      "location": "MOSB",
+      "raw_line": "LPO-969 - DB Panels / Brands"
+    },
+    {
+      "lpo_number": "LPO-979",
+      "description": "DB Panels",
+      "vendor": "Brands",
+      "date": "25/5/5",
+      "location": "MOSB",
+      "raw_line": "LPO-979 - DB Panels / Brands"
+    },
+    {
+      "lpo_number": "LPO-914",
+      "description": "FO Cable",
+      "vendor": "Mister Light",
+      "date": "25/5/6",
+      "location": "MOSB",
+      "raw_line": "LPO-914 - FO Cable / Mister Light"
+    },
+    {
+      "lpo_number": "LPO-2381",
+      "description": "Clinic Items",
+      "vendor": "Zam Pharmacy",
+      "date": "25/5/6",
+      "location": "MOSB",
+      "raw_line": "LPO-2381 - Clinic Items / Zam Pharmacy"
+    },
+    {
+      "lpo_number": "LPO-1009",
+      "description": "Cable Trunking",
+      "vendor": "PSI",
+      "date": "25/5/6",
+      "location": "MOSB",
+      "raw_line": "LPO-1009 - Cable Trunking / PSI"
+    },
+    {
+      "lpo_number": "LPO-1082",
+      "description": "Plumbing Matls",
+      "vendor": "Global Hardware",
+      "date": "25/5/6",
+      "location": "MOSB",
+      "raw_line": "LPO-1082 - Plumbing Matls / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-915",
+      "description": "FO Cable",
+      "vendor": "Mister Light",
+      "date": "25/5/6",
+      "location": "MOSB",
+      "raw_line": "LPO-915 - FO Cable / Mister Light"
+    },
+    {
+      "lpo_number": "LPO-1083",
+      "description": "Plumbing Matls",
+      "vendor": "Global Hardware",
+      "date": "25/5/6",
+      "location": "MOSB",
+      "raw_line": "LPO-1083 - Plumbing Matls / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-1008",
+      "description": "UPVC Matls",
+      "vendor": "Polyfab",
+      "date": "25/5/9",
+      "location": "MOSB",
+      "raw_line": "LPO-1008 - UPVC Matls / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-2305",
+      "description": "HSE Items",
+      "vendor": "Arabi Emirates",
+      "date": "25/5/9",
+      "location": "MOSB",
+      "raw_line": "LPO-2305 - HSE Items / Arabi Emirates"
+    },
+    {
+      "lpo_number": "LPO-979",
+      "description": "LV Cable",
+      "vendor": "Brands",
+      "date": "25/5/9",
+      "location": "MOSB",
+      "raw_line": "LPO-979 - LV Cable / Brands"
+    },
+    {
+      "lpo_number": "LPO-1129",
+      "description": "General Items",
+      "vendor": "EIS",
+      "date": "25/5/9",
+      "location": "MOSB",
+      "raw_line": "LPO-1129 - General Items / EIS"
+    },
+    {
+      "lpo_number": "LPO-955",
+      "description": "UPVC Matls",
+      "vendor": "Polyfab",
+      "date": "25/5/9",
+      "location": "MOSB",
+      "raw_line": "LPO-955 - UPVC Matls / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-2382",
+      "description": "Water Heater",
+      "vendor": "Terranova",
+      "date": "25/5/13",
+      "location": "DAS",
+      "raw_line": "LPO-2382 - Water Heater / Terranova"
+    },
+    {
+      "lpo_number": "LPO-1116",
+      "description": "Membranes",
+      "vendor": "EIS",
+      "date": "25/5/13",
+      "location": "DAS",
+      "raw_line": "LPO-1116 - Membranes / EIS"
+    },
+    {
+      "lpo_number": "LPO-2374",
+      "description": "Safety Harness",
+      "vendor": "EIS",
+      "date": "25/5/13",
+      "location": "DAS",
+      "raw_line": "LPO-2374 - Safety Harness / EIS"
+    },
+    {
+      "lpo_number": "LPO-2382",
+      "description": "Water Heater",
+      "vendor": "Terranova",
+      "date": "25/5/13",
+      "location": "DAS",
+      "raw_line": "LPO-2382 - Water Heater / Terranova"
+    },
+    {
+      "lpo_number": "LPO-943",
+      "description": "Grommet",
+      "vendor": "Arabian Falcon",
+      "date": "25/5/14",
+      "location": "MOSB",
+      "raw_line": "LPO-943 - Grommet / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-969",
+      "description": "DB Panels",
+      "vendor": "Brands",
+      "date": "25/5/14",
+      "location": "MOSB",
+      "raw_line": "LPO-969 - DB Panels / Brands"
+    },
+    {
+      "lpo_number": "LPO-2382",
+      "description": "Water Heater",
+      "vendor": "Terranova",
+      "date": "25/5/14",
+      "location": "MOSB",
+      "raw_line": "LPO-2382 - Water Heater / Terranova"
+    },
+    {
+      "lpo_number": "LPO-1115",
+      "description": "Scaff Tools",
+      "vendor": "Apex",
+      "date": "25/5/14",
+      "location": "MOSB",
+      "raw_line": "LPO-1115 - Scaff Tools / Apex"
+    },
+    {
+      "lpo_number": "LPO-1133",
+      "description": "Scaff Matls",
+      "vendor": "Duscaff",
+      "date": "25/5/14",
+      "location": "MOSB",
+      "raw_line": "LPO-1133 - Scaff Matls / Duscaff"
+    },
+    {
+      "lpo_number": "LPO-2382",
+      "description": "Water Heater",
+      "vendor": "Terranova",
+      "date": "25/5/14",
+      "location": "MOSB",
+      "raw_line": "LPO-2382 - Water Heater / Terranova"
+    },
+    {
+      "lpo_number": "LPO-1008",
+      "description": "UPVC Matls",
+      "vendor": "Polyfab",
+      "date": "25/5/15",
+      "location": "DAS",
+      "raw_line": "LPO-1008 - UPVC Matls / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-2382",
+      "description": "Water Heater",
+      "vendor": "Terranova",
+      "date": "25/5/15",
+      "location": "DAS",
+      "raw_line": "LPO-2382 - Water Heater / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2305",
+      "description": "HSE Items",
+      "vendor": "Arabi Emirates",
+      "date": "25/5/15",
+      "location": "DAS",
+      "raw_line": "LPO-2305 - HSE Items / Arabi Emirates"
+    },
+    {
+      "lpo_number": "LPO-955",
+      "description": "UPVC Matls",
+      "vendor": "Polyfab",
+      "date": "25/5/15",
+      "location": "DAS",
+      "raw_line": "LPO-955 - UPVC Matls / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-983",
+      "description": "UPVC Matls",
+      "vendor": "Polyfab",
+      "date": "25/5/15",
+      "location": "DAS",
+      "raw_line": "LPO-983 - UPVC Matls / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-2382",
+      "description": "Water Heater",
+      "vendor": "Terranova",
+      "date": "25/5/15",
+      "location": "DAS",
+      "raw_line": "LPO-2382 - Water Heater / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2418",
+      "description": "HSE Items",
+      "vendor": "Arabi Emirates",
+      "date": "25/5/15",
+      "location": "DAS",
+      "raw_line": "LPO-2418 - HSE Items / Arabi Emirates"
+    },
+    {
+      "lpo_number": "LPO-1008",
+      "description": "UPVC Fittings",
+      "vendor": "Polyfab",
+      "date": "25/5/19",
+      "location": "MOSB",
+      "raw_line": "LPO-1008 - UPVC Fittings / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-2412",
+      "description": "General Items",
+      "vendor": "Skipper",
+      "date": "25/5/19",
+      "location": "MOSB",
+      "raw_line": "LPO-2412 - General Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-2361",
+      "description": "Maint Matls",
+      "vendor": "Skipper",
+      "date": "25/5/19",
+      "location": "MOSB",
+      "raw_line": "LPO-2361 - Maint Matls / Skipper"
+    },
+    {
+      "lpo_number": "LPO-920",
+      "description": "Lighting Conduit",
+      "vendor": "Arabian Falcon",
+      "date": "25/5/19",
+      "location": "MOSB",
+      "raw_line": "LPO-920 - Lighting Conduit / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-1055",
+      "description": "Elec Gen Items",
+      "vendor": "Arabian Falcon",
+      "date": "25/5/19",
+      "location": "MOSB",
+      "raw_line": "LPO-1055 - Elec Gen Items / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-1057",
+      "description": "Spacer",
+      "vendor": "Power Plastic",
+      "date": "25/5/19",
+      "location": "MOSB",
+      "raw_line": "LPO-1057 - Spacer / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-1124",
+      "description": "PVC Solvent",
+      "vendor": "Power Plastic",
+      "date": "25/5/19",
+      "location": "MOSB",
+      "raw_line": "LPO-1124 - PVC Solvent / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-955",
+      "description": "Bell Mouth",
+      "vendor": "Polyfab",
+      "date": "25/5/19",
+      "location": "MOSB",
+      "raw_line": "LPO-955 - Bell Mouth / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-2358",
+      "description": "Gen Items",
+      "vendor": "Skipper",
+      "date": "25/5/19",
+      "location": "MOSB",
+      "raw_line": "LPO-2358 - Gen Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-955",
+      "description": "UPVC Matls",
+      "vendor": "Polyfab",
+      "date": "25/5/20",
+      "location": "DAS",
+      "raw_line": "LPO-955 - UPVC Matls / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-2443",
+      "description": "Air Comps'r",
+      "vendor": "Green Bridge",
+      "date": "25/5/23",
+      "location": "MOSB",
+      "raw_line": "LPO-2443 - Air Comps'r / Green Bridge"
+    },
+    {
+      "lpo_number": "LPO-1185",
+      "description": "Scaff Matls",
+      "vendor": "Duscaff",
+      "date": "25/5/23",
+      "location": "MOSB",
+      "raw_line": "LPO-1185 - Scaff Matls / Duscaff"
+    },
+    {
+      "lpo_number": "LPO-2449",
+      "description": "HSE Items",
+      "vendor": "Arabi Emirates",
+      "date": "25/5/23",
+      "location": "MOSB",
+      "raw_line": "LPO-2449 - HSE Items / Arabi Emirates"
+    },
+    {
+      "lpo_number": "LPO-1154",
+      "description": "JB & Glands",
+      "vendor": "Step Zone",
+      "date": "25/5/23",
+      "location": "MOSB",
+      "raw_line": "LPO-1154 - JB & Glands / Step Zone"
+    },
+    {
+      "lpo_number": "LPO-1181",
+      "description": "JB & Glands",
+      "vendor": "Step Zone",
+      "date": "25/5/23",
+      "location": "MOSB",
+      "raw_line": "LPO-1181 - JB & Glands / Step Zone"
+    },
+    {
+      "lpo_number": "LPO-1150",
+      "description": "Elec Items",
+      "vendor": "Dynamic",
+      "date": "25/5/23",
+      "location": "MOSB",
+      "raw_line": "LPO-1150 - Elec Items / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1186",
+      "description": "Elec Items",
+      "vendor": "Dynamic",
+      "date": "25/5/23",
+      "location": "MOSB",
+      "raw_line": "LPO-1186 - Elec Items / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1226",
+      "description": "Adaptor",
+      "vendor": "Dynamic",
+      "date": "25/6/10",
+      "location": "MOSB",
+      "raw_line": "LPO-1226 - Adaptor / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1185",
+      "description": "Ledger Scaff Matls",
+      "vendor": "Duscaff <This message was edited>",
+      "date": "25/6/10",
+      "location": "MOSB",
+      "raw_line": "LPO-1185 - Ledger Scaff Matls / Duscaff <This message was edited>"
+    },
+    {
+      "lpo_number": "LPO-946",
+      "description": "Earthing Cable",
+      "vendor": "Power Plus",
+      "date": "25/6/11",
+      "location": "MOSB",
+      "raw_line": "LPO-946 - Earthing Cable / Power Plus"
+    },
+    {
+      "lpo_number": "LPO-1103",
+      "description": "Earthing Cable",
+      "vendor": "Power Plus",
+      "date": "25/6/11",
+      "location": "MOSB",
+      "raw_line": "LPO-1103 - Earthing Cable / Power Plus"
+    },
+    {
+      "lpo_number": "LPO-947",
+      "description": "Earthing Cable",
+      "vendor": "Power Plus",
+      "date": "25/6/11",
+      "location": "MOSB",
+      "raw_line": "LPO-947 - Earthing Cable / Power Plus"
+    },
+    {
+      "lpo_number": "LPO-1104",
+      "description": "Earthing Cable",
+      "vendor": "Power Plus",
+      "date": "25/6/11",
+      "location": "MOSB",
+      "raw_line": "LPO-1104 - Earthing Cable / Power Plus"
+    },
+    {
+      "lpo_number": "LPO-1197",
+      "description": "Elec Air Compressor",
+      "vendor": "Arwani",
+      "date": "25/6/12",
+      "location": "MOSB",
+      "raw_line": "LPO-1197 - Elec Air Compressor / Arwani"
+    },
+    {
+      "lpo_number": "LPO-1178",
+      "description": "Vinyl Sheet",
+      "vendor": "Z&S Carpet",
+      "date": "25/6/12",
+      "location": "MOSB",
+      "raw_line": "LPO-1178 - Vinyl Sheet / Z&S Carpet"
+    },
+    {
+      "lpo_number": "LPO-1185",
+      "description": "Scaff Matls",
+      "vendor": "Duscaff",
+      "date": "25/6/12",
+      "location": "MOSB",
+      "raw_line": "LPO-1185 - Scaff Matls / Duscaff"
+    },
+    {
+      "lpo_number": "LPO-1200",
+      "description": "Annular Cutter",
+      "vendor": "Step Zone",
+      "date": "25/6/12",
+      "location": "MOSB",
+      "raw_line": "LPO-1200 - Annular Cutter / Step Zone"
+    },
+    {
+      "lpo_number": "LPO-1185",
+      "description": "Scaff Matls",
+      "vendor": "Duscaff",
+      "date": "25/6/16",
+      "location": "MOSB",
+      "raw_line": "LPO-1185 - Scaff Matls /Duscaff"
+    },
+    {
+      "lpo_number": "LPO-1159",
+      "description": "Fasteners",
+      "vendor": "Al Jazeera",
+      "date": "25/6/16",
+      "location": "MOSB",
+      "raw_line": "LPO-1159 - Fasteners / Al Jazeera"
+    },
+    {
+      "lpo_number": "LPO-1183",
+      "description": "Fasteners",
+      "vendor": "Al Jazeera",
+      "date": "25/6/16",
+      "location": "MOSB",
+      "raw_line": "LPO-1183 - Fasteners / Al Jazeera"
+    },
+    {
+      "lpo_number": "LPO-1197",
+      "description": "Elec Air Compressor",
+      "vendor": "Arwani",
+      "date": "25/6/16",
+      "location": "MOSB",
+      "raw_line": "LPO-1197 - Elec Air Compressor / Arwani"
+    },
+    {
+      "lpo_number": "LPO-1197",
+      "description": "Elec Air Compressor",
+      "vendor": "Arwani",
+      "date": "25/6/17",
+      "location": "MOSB",
+      "raw_line": "LPO-1197 - Elec Air Compressor / Arwani"
+    },
+    {
+      "lpo_number": "LPO-1095",
+      "description": "UPVC Pipe",
+      "vendor": "Power Plastic",
+      "date": "25/6/17",
+      "location": "MOSB",
+      "raw_line": "LPO-1095 - UPVC Pipe / Power Plastic"
+    },
+    {
+      "lpo_number": "LPO-1138",
+      "description": "Cable Tray Acc'y",
+      "vendor": "Power Solutions",
+      "date": "25/6/17",
+      "location": "MOSB",
+      "raw_line": "LPO-1138 - Cable Tray Acc'y / Power Solutions"
+    },
+    {
+      "lpo_number": "LPO-1256",
+      "description": "Mist Fan",
+      "vendor": "Step Zone",
+      "date": "25/6/18",
+      "location": "MOSB",
+      "raw_line": "LPO-1256 - Mist Fan / Step Zone"
+    },
+    {
+      "lpo_number": "LPO-1185",
+      "description": "Scaff Matls",
+      "vendor": "Duscaff",
+      "date": "25/6/18",
+      "location": "MOSB",
+      "raw_line": "LPO-1185 - Scaff Matls / Duscaff"
+    },
+    {
+      "lpo_number": "LPO-2493",
+      "description": "Pipe Fittings",
+      "vendor": "EIS (Collection HDPE Machine from Mirfa)",
+      "date": "25/6/18",
+      "location": "MOSB",
+      "raw_line": "LPO-2493 - Pipe Fittings / EIS (Collection HDPE Machine from Mirfa)"
+    },
+    {
+      "lpo_number": "LPO-1209",
+      "description": "DB Panel",
+      "vendor": "Brands",
+      "date": "25/6/20",
+      "location": "MOSB",
+      "raw_line": "LPO-1209 - DB Panel / Brands"
+    },
+    {
+      "lpo_number": "LPO-2409",
+      "description": "General Items",
+      "vendor": "Skipper",
+      "date": "25/6/20",
+      "location": "MOSB",
+      "raw_line": "LPO-2409 - General Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-2498",
+      "description": "General Items",
+      "vendor": "Union",
+      "date": "25/6/20",
+      "location": "MOSB",
+      "raw_line": "LPO-2498 - General Items / Union"
+    },
+    {
+      "lpo_number": "LPO-1060",
+      "description": "Elec Cables",
+      "vendor": "Power Plus",
+      "date": "25/6/22",
+      "location": "MOSB",
+      "raw_line": "LPO-1060 - Elec Cables / Power Plus"
+    },
+    {
+      "lpo_number": "LPO-1264",
+      "description": "Elec General Items",
+      "vendor": "Step Zone",
+      "date": "25/6/22",
+      "location": "MOSB",
+      "raw_line": "LPO-1264 - Elec General Items / Step Zone"
+    },
+    {
+      "lpo_number": "LPO-1276",
+      "description": "Crimp",
+      "vendor": "Total Connexons",
+      "date": "25/6/23",
+      "location": "MOSB",
+      "raw_line": "LPO-1276 - Crimp / Total Connexons"
+    },
+    {
+      "lpo_number": "LPO-1185",
+      "description": "Scaff Matls",
+      "vendor": "Duscaff",
+      "date": "25/6/23",
+      "location": "MOSB",
+      "raw_line": "LPO-1185 - Scaff Matls / Duscaff"
+    },
+    {
+      "lpo_number": "LPO-1210",
+      "description": "Diesel Gen 135KVA",
+      "vendor": "Silver Line",
+      "date": "25/6/24",
+      "location": "MOSB",
+      "raw_line": "LPO-1210 - Diesel Gen 135KVA / Silver Line"
+    },
+    {
+      "lpo_number": "LPO-1277",
+      "description": "W. Sling & Shackles",
+      "vendor": "Shining Star",
+      "date": "25/6/24",
+      "location": "MOSB",
+      "raw_line": "LPO-1277 - W. Sling & Shackles / Shining Star"
+    },
+    {
+      "lpo_number": "LPO-1278",
+      "description": "Elec Gen Items",
+      "vendor": "Shining Star",
+      "date": "25/6/24",
+      "location": "MOSB",
+      "raw_line": "LPO-1278 - Elec Gen Items / Shining Star"
+    },
+    {
+      "lpo_number": "LPO-1279",
+      "description": "Elec Gen Items",
+      "vendor": "Arabian Falcon",
+      "date": "25/6/24",
+      "location": "MOSB",
+      "raw_line": "LPO-1279 - Elec Gen Items / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-2515",
+      "description": "Consumable Items",
+      "vendor": "Hotpack",
+      "date": "25/6/24",
+      "location": "MOSB",
+      "raw_line": "LPO-2515 - Consumable Items / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-926",
+      "description": "Smoke Vent",
+      "vendor": "Hira",
+      "date": "25/6/25",
+      "location": "MOSB",
+      "raw_line": "LPO-926 - Smoke Vent / Hira"
+    },
+    {
+      "lpo_number": "LPO-1264",
+      "description": "Elec Gen Items",
+      "vendor": "Step Zone",
+      "date": "25/6/25",
+      "location": "MOSB",
+      "raw_line": "LPO-1264 - Elec Gen Items / Step Zone"
+    },
+    {
+      "lpo_number": "LPO-925",
+      "description": "Smoke Vent",
+      "vendor": "Hira",
+      "date": "25/6/25",
+      "location": "MOSB",
+      "raw_line": "LPO-925 - Smoke Vent / Hira"
+    },
+    {
+      "lpo_number": "LPO-497",
+      "description": "Bare Copper Cable",
+      "vendor": "Electric Way",
+      "date": "25/6/25",
+      "location": "MOSB",
+      "raw_line": "LPO-497 - Bare Copper Cable / Electric Way"
+    },
+    {
+      "lpo_number": "LPO-1234",
+      "description": "Welding Matls",
+      "vendor": "Step Zone",
+      "date": "25/6/25",
+      "location": "MOSB",
+      "raw_line": "LPO-1234 - Welding Matls /Step Zone"
+    },
+    {
+      "lpo_number": "LPO-1185",
+      "description": "Scaff Matls",
+      "vendor": "Duscaff",
+      "date": "25/6/25",
+      "location": "MOSB",
+      "raw_line": "LPO-1185 - Scaff Matls / Duscaff"
+    },
+    {
+      "lpo_number": "LPO-2505",
+      "description": "Gen Items",
+      "vendor": "Terranova",
+      "date": "25/6/25",
+      "location": "MOSB",
+      "raw_line": "LPO-2505 - Gen Items / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2402",
+      "description": "Gen Items",
+      "vendor": "Terranova",
+      "date": "25/6/26",
+      "location": "MOSB",
+      "raw_line": "LPO-2402 - Gen Items / Terranova"
+    },
+    {
+      "lpo_number": "LPO-1182",
+      "description": "DB Panel",
+      "vendor": "Dynamic",
+      "date": "25/6/26",
+      "location": "MOSB",
+      "raw_line": "LPO-1182 - DB Panel / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-2505",
+      "description": "Gen Items",
+      "vendor": "Terranova",
+      "date": "25/6/26",
+      "location": "MOSB",
+      "raw_line": "LPO-2505 - Gen Items / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2423",
+      "description": "Ice Cube Machine",
+      "vendor": "Skipper",
+      "date": "25/6/26",
+      "location": "MOSB",
+      "raw_line": "LPO-2423 - Ice Cube Machine / Skipper"
+    },
+    {
+      "lpo_number": "LPO-1061",
+      "description": "Elec Cable",
+      "vendor": "Power Plus",
+      "date": "25/6/29",
+      "location": "MOSB",
+      "raw_line": "LPO-1061 - Elec Cable / Power Plus"
+    },
+    {
+      "lpo_number": "LPO-968",
+      "description": "Elec Gen Items",
+      "vendor": "Dynamic",
+      "date": "25/6/29",
+      "location": "MOSB",
+      "raw_line": "LPO-968 - Elec Gen Items / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1205",
+      "description": "DB Panel",
+      "vendor": "Dynamic",
+      "date": "25/6/30",
+      "location": "MOSB",
+      "raw_line": "LPO-1205 - DB Panel / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-2525",
+      "description": "Office Items",
+      "vendor": "Union",
+      "date": "25/6/30",
+      "location": "MOSB",
+      "raw_line": "LPO-2525 - Office Items / Union"
+    },
+    {
+      "lpo_number": "LPO-2423",
+      "description": "Ice Machine",
+      "vendor": "Skipper",
+      "date": "25/6/30",
+      "location": "MOSB",
+      "raw_line": "LPO-2423 - Ice Machine / Skipper"
+    },
+    {
+      "lpo_number": "LPO-2499",
+      "description": "Gen Items",
+      "vendor": "Union",
+      "date": "25/6/30",
+      "location": "MOSB",
+      "raw_line": "LPO-2499 - Gen Items / Union"
+    },
+    {
+      "lpo_number": "LPO-2525",
+      "description": "Office Items",
+      "vendor": "Union",
+      "date": "25/6/30",
+      "location": "MOSB",
+      "raw_line": "LPO-2525 - Office Items / Union"
+    },
+    {
+      "lpo_number": "LPO-1209",
+      "description": "DB Panels",
+      "vendor": "Brands",
+      "date": "25/7/1",
+      "location": "MOSB",
+      "raw_line": "LPO-1209 - DB Panels / Brands"
+    },
+    {
+      "lpo_number": "LPO-1196",
+      "description": "Floor Scrubber",
+      "vendor": "Arwani",
+      "date": "25/7/1",
+      "location": "MOSB",
+      "raw_line": "LPO-1196 - Floor Scrubber / Arwani"
+    },
+    {
+      "lpo_number": "LPO-1157",
+      "description": "Elec Gen Items",
+      "vendor": "Brands",
+      "date": "25/7/1",
+      "location": "MOSB",
+      "raw_line": "LPO-1157 - Elec Gen Items / Brands"
+    },
+    {
+      "lpo_number": "LPO-2536",
+      "description": "Clinic Items",
+      "vendor": "Zam Pharmacy",
+      "date": "25/7/2",
+      "location": "MOSB",
+      "raw_line": "LPO-2536 - Clinic Items / Zam Pharmacy"
+    },
+    {
+      "lpo_number": "LPO-2484",
+      "description": "Gen Items",
+      "vendor": "Terranova",
+      "date": "25/7/3",
+      "location": "MOSB",
+      "raw_line": "LPO-2484 - Gen Items / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2540",
+      "description": "Gen Items",
+      "vendor": "Reborn",
+      "date": "25/7/3",
+      "location": "MOSB",
+      "raw_line": "LPO-2540 - Gen Items / Reborn"
+    },
+    {
+      "lpo_number": "LPO-1264",
+      "description": "Elec Gen Items",
+      "vendor": "Step Zone",
+      "date": "25/7/3",
+      "location": "MOSB",
+      "raw_line": "LPO-1264 - Elec Gen Items / Step Zone"
+    },
+    {
+      "lpo_number": "LPO-2517",
+      "description": "IT Matls",
+      "vendor": "New Smart",
+      "date": "25/7/3",
+      "location": "MOSB",
+      "raw_line": "LPO-2517 - IT Matls / New Smart"
+    },
+    {
+      "lpo_number": "LPO-2540",
+      "description": "Gen Items",
+      "vendor": "Reborn",
+      "date": "25/7/3",
+      "location": "MOSB",
+      "raw_line": "LPO-2540 - Gen Items / Reborn"
+    },
+    {
+      "lpo_number": "LPO-1269",
+      "description": "Paint Matls",
+      "vendor": "Lokhandwala",
+      "date": "25/7/4",
+      "location": "MOSB",
+      "raw_line": "LPO-1269 - Paint Matls / Lokhandwala"
+    },
+    {
+      "lpo_number": "LPO-1316",
+      "description": "Ball Valve",
+      "vendor": "Global Hardware",
+      "date": "25/7/6",
+      "location": "MOSB",
+      "raw_line": "LPO-1316 - Ball Valve / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-1303",
+      "description": "Kit Glue",
+      "vendor": "Global Hardware",
+      "date": "25/7/6",
+      "location": "MOSB",
+      "raw_line": "LPO-1303 - Kit Glue / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-2543",
+      "description": "Clinic Items",
+      "vendor": "RPM",
+      "date": "25/7/7",
+      "location": "MOSB",
+      "raw_line": "LPO-2543 - Clinic Items / RPM"
+    },
+    {
+      "lpo_number": "LPO-1279",
+      "description": "Elec Gen Items",
+      "vendor": "Arabian Falcon",
+      "date": "25/7/7",
+      "location": "MOSB",
+      "raw_line": "LPO-1279 - Elec Gen Items / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-2359",
+      "description": "Maintenance Matls",
+      "vendor": "Skipper <This message was edited>",
+      "date": "25/7/7",
+      "location": "MOSB",
+      "raw_line": "LPO-2359 - Maintenance Matls / Skipper <This message was edited>"
+    },
+    {
+      "lpo_number": "LPO-2512",
+      "description": "Equipment Spare Parts",
+      "vendor": "Terranova",
+      "date": "25/7/8",
+      "location": "MOSB",
+      "raw_line": "LPO-2512 - Equipment Spare Parts / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2568",
+      "description": "Gen Items",
+      "vendor": "Terranova",
+      "date": "25/7/8",
+      "location": "MOSB",
+      "raw_line": "LPO-2568 - Gen Items / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2571",
+      "description": "Pantry Items",
+      "vendor": "Terranova",
+      "date": "25/7/8",
+      "location": "MOSB",
+      "raw_line": "LPO-2571 - Pantry Items / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2468",
+      "description": "Gen Items",
+      "vendor": "Skipper",
+      "date": "25/7/8",
+      "location": "MOSB",
+      "raw_line": "LPO-2468 - Gen Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-2567",
+      "description": "Head Cover for Helmet",
+      "vendor": "Trillion",
+      "date": "25/7/8",
+      "location": "MOSB",
+      "raw_line": "LPO-2567 - Head Cover for Helmet / Trillion"
+    },
+    {
+      "lpo_number": "LPO-1179",
+      "description": "Cable Tray Acc'y",
+      "vendor": "PSI",
+      "date": "25/7/9",
+      "location": "MOSB",
+      "raw_line": "LPO-1179 - Cable Tray Acc'y / PSI"
+    },
+    {
+      "lpo_number": "LPO-1231",
+      "description": "Cable Tray Acc'y",
+      "vendor": "PSI",
+      "date": "25/7/9",
+      "location": "MOSB",
+      "raw_line": "LPO-1231 - Cable Tray Acc'y / PSI"
+    },
+    {
+      "lpo_number": "LPO-1245",
+      "description": "Cable Tray Acc'y",
+      "vendor": "PSI",
+      "date": "25/7/9",
+      "location": "MOSB",
+      "raw_line": "LPO-1245 - Cable Tray Acc'y / PSI"
+    },
+    {
+      "lpo_number": "LPO-1249",
+      "description": "HDG Conduit",
+      "vendor": "Arabian Falcon",
+      "date": "25/7/11",
+      "location": "MOSB",
+      "raw_line": "LPO-1249 - HDG Conduit / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-1243",
+      "description": "UPVC Pipe",
+      "vendor": "Polyfab",
+      "date": "25/7/11",
+      "location": "MOSB",
+      "raw_line": "LPO-1243 - UPVC Pipe / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-1304",
+      "description": "Wire Rope",
+      "vendor": "Dynamic",
+      "date": "25/7/11",
+      "location": "MOSB",
+      "raw_line": "LPO-1304 - Wire Rope / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1347",
+      "description": "Vinyl Sheets",
+      "vendor": "Zia & Sagor",
+      "date": "25/7/13",
+      "location": "MOSB",
+      "raw_line": "LPO-1347 - Vinyl Sheets / Zia & Sagor"
+    },
+    {
+      "lpo_number": "LPO-2599",
+      "description": "Padlock",
+      "vendor": "Global Hardware",
+      "date": "25/7/13",
+      "location": "MOSB",
+      "raw_line": "LPO-2599 - Padlock / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-2604",
+      "description": "Torque Wrench & Socket",
+      "vendor": "Terranova",
+      "date": "25/7/13",
+      "location": "MOSB",
+      "raw_line": "LPO-2604 - Torque Wrench & Socket / Terranova"
+    },
+    {
+      "lpo_number": "LPO-1187",
+      "description": "3x Diesel Gen Set",
+      "vendor": "Silver Line",
+      "date": "25/7/15",
+      "location": "MOSB",
+      "raw_line": "LPO-1187 - 3x Diesel Gen Set / Silver Line"
+    },
+    {
+      "lpo_number": "LPO-1243",
+      "description": "PVC Conduit",
+      "vendor": "Polyfab",
+      "date": "25/7/15",
+      "location": "MOSB",
+      "raw_line": "LPO-1243 - PVC Conduit / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-1369",
+      "description": "Elec Gen Items",
+      "vendor": "Global Hardware",
+      "date": "25/7/15",
+      "location": "MOSB",
+      "raw_line": "LPO-1369 - Elec Gen Items / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-1317",
+      "description": "Elec Fittings",
+      "vendor": "Step Zone",
+      "date": "25/7/16",
+      "location": "MOSB",
+      "raw_line": "LPO-1317 - Elec Fittings / Step Zone"
+    },
+    {
+      "lpo_number": "LPO-2530",
+      "description": "Gen Items",
+      "vendor": "Terranova",
+      "date": "25/7/16",
+      "location": "MOSB",
+      "raw_line": "LPO-2530 - Gen Items / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2588",
+      "description": "Gen Items",
+      "vendor": "Terranova",
+      "date": "25/7/16",
+      "location": "MOSB",
+      "raw_line": "LPO-2588 - Gen Items / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2614",
+      "description": "Consumables",
+      "vendor": "Hotpack",
+      "date": "25/7/16",
+      "location": "MOSB",
+      "raw_line": "LPO-2614 - Consumables / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-1361",
+      "description": "Elec Gen Items",
+      "vendor": "Dynamic",
+      "date": "25/7/16",
+      "location": "MOSB",
+      "raw_line": "LPO-1361 - Elec Gen Items / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1315",
+      "description": "Mobile w",
+      "vendor": "Cam",
+      "date": "25/7/16",
+      "location": "MOSB",
+      "raw_line": "LPO-1315 - Mobile w/ Cam / EIS"
+    },
+    {
+      "lpo_number": "LPO-1351",
+      "description": "Fasteners",
+      "vendor": "Al Jazeera",
+      "date": "25/7/16",
+      "location": "MOSB",
+      "raw_line": "LPO-1351 - Fasteners / Al Jazeera"
+    },
+    {
+      "lpo_number": "LPO-2530",
+      "description": "Gen Items",
+      "vendor": "Terranova",
+      "date": "25/7/16",
+      "location": "MOSB",
+      "raw_line": "LPO-2530 - Gen Items / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2561",
+      "description": "Gen Items",
+      "vendor": "Terranova",
+      "date": "25/7/16",
+      "location": "MOSB",
+      "raw_line": "LPO-2561 - Gen Items / Terranova"
+    },
+    {
+      "lpo_number": "LPO-1245",
+      "description": "Cable Tray Acc'y",
+      "vendor": "PSI <This message was edited>",
+      "date": "25/7/16",
+      "location": "MOSB",
+      "raw_line": "LPO-1245 - Cable Tray Acc'y / PSI <This message was edited>"
+    },
+    {
+      "lpo_number": "LPO-1230",
+      "description": "Grounding System",
+      "vendor": "Gulf Radiant",
+      "date": "25/7/17",
+      "location": "MOSB",
+      "raw_line": "LPO-1230 - Grounding System / Gulf Radiant"
+    },
+    {
+      "lpo_number": "LPO-1229",
+      "description": "Grounding System",
+      "vendor": "Gulf Radiant",
+      "date": "25/7/17",
+      "location": "MOSB",
+      "raw_line": "LPO-1229 - Grounding System / Gulf Radiant"
+    },
+    {
+      "lpo_number": "LPO-1187",
+      "description": "Cables for Diesel Gen Set",
+      "vendor": "Silverline <This message was edited>",
+      "date": "25/7/17",
+      "location": "MOSB",
+      "raw_line": "LPO-1187 - Cables for Diesel Gen Set / Silverline <This message was edited>"
+    },
+    {
+      "lpo_number": "LPO-1243",
+      "description": "UPVC Matls",
+      "vendor": "Polyfab",
+      "date": "25/7/18",
+      "location": "MOSB",
+      "raw_line": "LPO-1243 - UPVC Matls / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-1352",
+      "description": "Gen Items",
+      "vendor": "Step Zone",
+      "date": "25/7/18",
+      "location": "MOSB",
+      "raw_line": "LPO-1352 - Gen Items / Step Zone"
+    },
+    {
+      "lpo_number": "LPO-2582",
+      "description": "Monitor",
+      "vendor": "Digital Workspace",
+      "date": "25/7/18",
+      "location": "MOSB",
+      "raw_line": "LPO-2582 - Monitor / Digital Workspace"
+    },
+    {
+      "lpo_number": "LPO-2511",
+      "description": "Gen Items",
+      "vendor": "Skipper",
+      "date": "25/7/18",
+      "location": "MOSB",
+      "raw_line": "LPO-2511 - Gen Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-1240",
+      "description": "UPVC Matls",
+      "vendor": "Polyfab",
+      "date": "25/7/18",
+      "location": "MOSB",
+      "raw_line": "LPO-1240 - UPVC Matls / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-1333",
+      "description": "MICA Wire",
+      "vendor": "El Sewedy",
+      "date": "25/7/18",
+      "location": "MOSB",
+      "raw_line": "LPO-1333 - MICA Wire / El Sewedy"
+    },
+    {
+      "lpo_number": "LPO-2513",
+      "description": "Gen Items",
+      "vendor": "Skipper",
+      "date": "25/7/18",
+      "location": "MOSB",
+      "raw_line": "LPO-2513 - Gen Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-2589",
+      "description": "Pantry Items",
+      "vendor": "Skipper",
+      "date": "25/7/18",
+      "location": "MOSB",
+      "raw_line": "LPO-2589 - Pantry Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-1356",
+      "description": "SDB Panel",
+      "vendor": "Brands",
+      "date": "25/7/30",
+      "location": "MOSB",
+      "raw_line": "LPO-1356 - SDB Panel / Brands"
+    },
+    {
+      "lpo_number": "LPO-1225",
+      "description": "Elec Cables",
+      "vendor": "Power Plus",
+      "date": "25/7/30",
+      "location": "MOSB",
+      "raw_line": "LPO-1225 - Elec Cables / Power Plus"
+    },
+    {
+      "lpo_number": "LPO-2629",
+      "description": "Air Compressor",
+      "vendor": "Union",
+      "date": "25/7/30",
+      "location": "MOSB",
+      "raw_line": "LPO-2629 - Air Compressor / Union"
+    },
+    {
+      "lpo_number": "LPO-2647",
+      "description": "Gen Item",
+      "vendor": "Global Hardware",
+      "date": "25/7/30",
+      "location": "MOSB",
+      "raw_line": "LPO-2647 - Gen Item / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-1266",
+      "description": "Elec Cables",
+      "vendor": "Power Plus",
+      "date": "25/7/30",
+      "location": "MOSB",
+      "raw_line": "LPO-1266 - Elec Cables / Power Plus"
+    },
+    {
+      "lpo_number": "LPO-2647",
+      "description": "Oil Drum",
+      "vendor": "Global Hardware",
+      "date": "25/7/31",
+      "location": "MOSB",
+      "raw_line": "LPO-2647 - Oil Drum / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-2505",
+      "description": "Gen Items",
+      "vendor": "Terranova",
+      "date": "25/7/31",
+      "location": "MOSB",
+      "raw_line": "LPO-2505 - Gen Items / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2561",
+      "description": "Gen Items",
+      "vendor": "Terranova",
+      "date": "25/7/31",
+      "location": "MOSB",
+      "raw_line": "LPO-2561 - Gen Items / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2678",
+      "description": "Clinic Items",
+      "vendor": "Zam Pharmacy",
+      "date": "25/7/31",
+      "location": "MOSB",
+      "raw_line": "LPO-2678 - Clinic Items / Zam Pharmacy"
+    },
+    {
+      "lpo_number": "LPO-1368",
+      "description": "HDG Conduit",
+      "vendor": "Arabian Falcon",
+      "date": "25/8/1",
+      "location": "MOSB",
+      "raw_line": "LPO-1368 - HDG Conduit / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-2689",
+      "description": "Gas Monitor",
+      "vendor": "EIS",
+      "date": "25/8/1",
+      "location": "MOSB",
+      "raw_line": "LPO-2689 - Gas Monitor /EIS"
+    },
+    {
+      "lpo_number": "LPO-1358",
+      "description": "Alum Mobile Scaff",
+      "vendor": "ACE",
+      "date": "25/8/6",
+      "location": "MOSB",
+      "raw_line": "LPO-1358 - Alum Mobile Scaff / ACE"
+    },
+    {
+      "lpo_number": "LPO-1377",
+      "description": "Conduit Acc'y",
+      "vendor": "Arabian Falcon",
+      "date": "25/8/6",
+      "location": "MOSB",
+      "raw_line": "LPO-1377 - Conduit Acc'y / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-2690",
+      "description": "30nos AC Standalone",
+      "vendor": "EIS",
+      "date": "25/8/6",
+      "location": "MOSB",
+      "raw_line": "LPO-2690 - 30nos AC Standalone / EIS"
+    },
+    {
+      "lpo_number": "LPO-2603",
+      "description": "Gen Items",
+      "vendor": "Skipper",
+      "date": "25/8/6",
+      "location": "MOSB",
+      "raw_line": "LPO-2603 - Gen Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-2642",
+      "description": "Pantry Item",
+      "vendor": "Skipper",
+      "date": "25/8/6",
+      "location": "MOSB",
+      "raw_line": "LPO-2642 - Pantry Item / Skipper"
+    },
+    {
+      "lpo_number": "LPO-1405",
+      "description": "Set Anchor",
+      "vendor": "Al Jazeera",
+      "date": "25/8/8",
+      "location": "MOSB",
+      "raw_line": "LPO-1405 - Set Anchor / Al Jazeera"
+    },
+    {
+      "lpo_number": "LPO-2712",
+      "description": "Consumable Items",
+      "vendor": "Hotpack",
+      "date": "25/8/8",
+      "location": "MOSB",
+      "raw_line": "LPO-2712 - Consumable Items / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-1449",
+      "description": "Flexible Cables",
+      "vendor": "Brands",
+      "date": "25/8/8",
+      "location": "MOSB",
+      "raw_line": "LPO-1449 - Flexible Cables / Brands"
+    },
+    {
+      "lpo_number": "LPO-1404",
+      "description": "Set Anchor",
+      "vendor": "Al Jazeera",
+      "date": "25/8/8",
+      "location": "MOSB",
+      "raw_line": "LPO-1404 - Set Anchor / Al Jazeera"
+    },
+    {
+      "lpo_number": "LPO-2712",
+      "description": "Consumable Items",
+      "vendor": "Hotpack",
+      "date": "25/8/8",
+      "location": "MOSB",
+      "raw_line": "LPO-2712 - Consumable Items / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-1357",
+      "description": "Alum Scaff",
+      "vendor": "ACE",
+      "date": "25/8/11",
+      "location": "MOSB",
+      "raw_line": "LPO-1357 - Alum Scaff / ACE"
+    },
+    {
+      "lpo_number": "LPO-2586",
+      "description": "Gen Matls",
+      "vendor": "Union",
+      "date": "25/8/11",
+      "location": "MOSB",
+      "raw_line": "LPO-2586 - Gen Matls / Union"
+    },
+    {
+      "lpo_number": "LPO-1405",
+      "description": "Set Anchor",
+      "vendor": "Al Jazeera",
+      "date": "25/8/11",
+      "location": "MOSB",
+      "raw_line": "LPO-1405 - Set Anchor / Al Jazeera"
+    },
+    {
+      "lpo_number": "LPO-1404",
+      "description": "Set Anchor",
+      "vendor": "Al Jazeera",
+      "date": "25/8/11",
+      "location": "MOSB",
+      "raw_line": "LPO-1404 - Set Anchor / Al Jazeera"
+    },
+    {
+      "lpo_number": "LPO-1259",
+      "description": "Conduit Acc'y",
+      "vendor": "Arabian Falcon",
+      "date": "25/8/12",
+      "location": "MOSB",
+      "raw_line": "LPO-1259 - Conduit Acc'y / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-2646",
+      "description": "General Items",
+      "vendor": "Skipper",
+      "date": "25/8/12",
+      "location": "MOSB",
+      "raw_line": "LPO-2646 - General Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-1240",
+      "description": "UPVC Matls",
+      "vendor": "Polyfab",
+      "date": "25/8/12",
+      "location": "MOSB",
+      "raw_line": "LPO-1240 - UPVC Matls / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-2707",
+      "description": "General Items",
+      "vendor": "Skipper",
+      "date": "25/8/12",
+      "location": "MOSB",
+      "raw_line": "LPO-2707 - General Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-2622",
+      "description": "Gen Items",
+      "vendor": "Union",
+      "date": "25/8/15",
+      "location": "MOSB",
+      "raw_line": "LPO-2622 - Gen Items / Union"
+    },
+    {
+      "lpo_number": "LPO-2584",
+      "description": "Gen Items",
+      "vendor": "Union",
+      "date": "25/8/15",
+      "location": "MOSB",
+      "raw_line": "LPO-2584 - Gen Items / Union"
+    },
+    {
+      "lpo_number": "LPO-1251",
+      "description": "Conduit Acc'y",
+      "vendor": "Arabian Falcon",
+      "date": "25/8/15",
+      "location": "MOSB",
+      "raw_line": "LPO-1251 - Conduit Acc'y / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-2714",
+      "description": "Office Items",
+      "vendor": "Union",
+      "date": "25/8/15",
+      "location": "MOSB",
+      "raw_line": "LPO-2714 - Office Items / Union"
+    },
+    {
+      "lpo_number": "LPO-2579",
+      "description": "Gen Items",
+      "vendor": "Union",
+      "date": "25/8/15",
+      "location": "MOSB",
+      "raw_line": "LPO-2579 - Gen Items / Union"
+    },
+    {
+      "lpo_number": "LPO-1250",
+      "description": "Conduit Acc'y",
+      "vendor": "Arabian Falcon",
+      "date": "25/8/15",
+      "location": "MOSB",
+      "raw_line": "LPO-1250 - Conduit Acc'y / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-2707",
+      "description": "Gen Items",
+      "vendor": "Skipper",
+      "date": "25/8/15",
+      "location": "MOSB",
+      "raw_line": "LPO-2707 - Gen Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-1245",
+      "description": "Cable Tray Acc'y",
+      "vendor": "PSI",
+      "date": "25/8/15",
+      "location": "MOSB",
+      "raw_line": "LPO-1245 - Cable Tray Acc'y / PSI"
+    },
+    {
+      "lpo_number": "LPO-2700",
+      "description": "Gen Items",
+      "vendor": "Terranova <This message was edited>",
+      "date": "25/8/17",
+      "location": "MOSB",
+      "raw_line": "LPO-2700 - Gen Items / Terranova <This message was edited>"
+    },
+    {
+      "lpo_number": "LPO-1147",
+      "description": "Piping Matls",
+      "vendor": "Gasos",
+      "date": "25/8/19",
+      "location": "MOSB",
+      "raw_line": "LPO-1147 - Piping Matls / Gasos"
+    },
+    {
+      "lpo_number": "LPO-2741",
+      "description": "IT Matls",
+      "vendor": "Dofort",
+      "date": "25/8/19",
+      "location": "MOSB",
+      "raw_line": "LPO-2741 - IT Matls / Dofort"
+    },
+    {
+      "lpo_number": "LPO-1149",
+      "description": "Piping Matls",
+      "vendor": "Gasos",
+      "date": "25/8/19",
+      "location": "MOSB",
+      "raw_line": "LPO-1149 - Piping Matls / Gasos"
+    },
+    {
+      "lpo_number": "LPO-1448",
+      "description": "4ton Stand AC",
+      "vendor": "Step Zone",
+      "date": "25/8/20",
+      "location": "MOSB",
+      "raw_line": "LPO-1448 - 4ton Stand AC / Step Zone"
+    },
+    {
+      "lpo_number": "LPO-1454",
+      "description": "Alum Mobile Scaff",
+      "vendor": "ACE Scaffolding",
+      "date": "25/8/20",
+      "location": "MOSB",
+      "raw_line": "LPO-1454 - Alum Mobile Scaff / ACE Scaffolding"
+    },
+    {
+      "lpo_number": "LPO-2654",
+      "description": "Filters for Generator",
+      "vendor": "Union",
+      "date": "25/8/21",
+      "location": "MOSB",
+      "raw_line": "LPO-2654 - Filters for Generator / Union"
+    },
+    {
+      "lpo_number": "LPO-1461",
+      "description": "Wire Rope Clamps",
+      "vendor": "Dynamic",
+      "date": "25/8/21",
+      "location": "MOSB",
+      "raw_line": "LPO-1461 - Wire Rope Clamps / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1462",
+      "description": "Wire Rope Clamps",
+      "vendor": "Dynamic",
+      "date": "25/8/21",
+      "location": "MOSB",
+      "raw_line": "LPO-1462 - Wire Rope Clamps / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-2738",
+      "description": "Office Furnitures",
+      "vendor": "Al Hawai",
+      "date": "25/8/22",
+      "location": "MOSB",
+      "raw_line": "LPO-2738 - Office Furnitures / Al Hawai"
+    },
+    {
+      "lpo_number": "LPO-2771",
+      "description": "Consumable Items",
+      "vendor": "Hotpack",
+      "date": "25/8/22",
+      "location": "MOSB",
+      "raw_line": "LPO-2771 - Consumable Items / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-1295",
+      "description": "Elec Gen Items",
+      "vendor": "Brands",
+      "date": "25/8/25",
+      "location": "MOSB",
+      "raw_line": "LPO-1295 - Elec Gen Items / Brands"
+    },
+    {
+      "lpo_number": "LPO-2770",
+      "description": "Pantry Items",
+      "vendor": "Skipper",
+      "date": "25/8/25",
+      "location": "MOSB",
+      "raw_line": "LPO-2770 - Pantry Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-2794",
+      "description": "Clinic Supplies",
+      "vendor": "Zam Pharmacy",
+      "date": "25/8/27",
+      "location": "MOSB",
+      "raw_line": "LPO-2794 - Clinic Supplies / Zam Pharmacy"
+    },
+    {
+      "lpo_number": "LPO-2749",
+      "description": "Gen Items",
+      "vendor": "Global Hardware",
+      "date": "25/8/27",
+      "location": "MOSB",
+      "raw_line": "LPO-2749 - Gen Items / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-2787",
+      "description": "Consumables Matls",
+      "vendor": "Hotpack",
+      "date": "25/8/27",
+      "location": "MOSB",
+      "raw_line": "LPO-2787 - Consumables Matls / Hotpack"
+    },
+    {
+      "lpo_number": "LPO-1479",
+      "description": "Rock Wool",
+      "vendor": "Teejan",
+      "date": "25/8/28",
+      "location": "MOSB",
+      "raw_line": "LPO-1479 - Rock Wool / Teejan"
+    },
+    {
+      "lpo_number": "LPO-1251",
+      "description": "HDG Conduit Acc'y",
+      "vendor": "Arabian Falcon",
+      "date": "25/8/29",
+      "location": "MOSB",
+      "raw_line": "LPO-1251 - HDG Conduit Acc'y / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-1240",
+      "description": "UPVC Matls",
+      "vendor": "Polyfab",
+      "date": "25/8/29",
+      "location": "MOSB",
+      "raw_line": "LPO-1240 - UPVC Matls / Polyfab"
+    },
+    {
+      "lpo_number": "LPO-2749",
+      "description": "Equipment Maint Spare Parts",
+      "vendor": "Global Hardware",
+      "date": "25/8/29",
+      "location": "MOSB",
+      "raw_line": "LPO-2749 - Equipment Maint Spare Parts / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-1445",
+      "description": "4tons Split AC 5sets",
+      "vendor": "Dynamic",
+      "date": "25/10/1",
+      "location": "MOSB",
+      "raw_line": "LPO-1445 - 4tons Split AC 5sets / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1312",
+      "description": "GRP Ladder",
+      "vendor": "Shinning Star",
+      "date": "25/10/1",
+      "location": "MOSB",
+      "raw_line": "LPO-1312 - GRP Ladder / Shinning Star"
+    },
+    {
+      "lpo_number": "LPO-2870",
+      "description": "General Items",
+      "vendor": "Terranova",
+      "date": "25/10/1",
+      "location": "MOSB",
+      "raw_line": "LPO-2870 - General Items / Terranova"
+    },
+    {
+      "lpo_number": "LPO-860",
+      "description": "Lifting Tool",
+      "vendor": "Apave",
+      "date": "25/10/2",
+      "location": "AGI",
+      "raw_line": "LPO-860 - Lifting Tool / Apave"
+    },
+    {
+      "lpo_number": "LPO-1445",
+      "description": "4tons Split AC 5sets",
+      "vendor": "Dynamic",
+      "date": "25/10/2",
+      "location": "AGI",
+      "raw_line": "LPO-1445 - 4tons Split AC 5sets / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1550",
+      "description": "Scaff Matls",
+      "vendor": "Scaffco",
+      "date": "25/10/2",
+      "location": "AGI",
+      "raw_line": "LPO-1550 - Scaff Matls / Scaffco"
+    },
+    {
+      "lpo_number": "LPO-1619",
+      "description": "Fire Stop Coating Matls",
+      "vendor": "Hilti",
+      "date": "25/10/3",
+      "location": "AGI",
+      "raw_line": "LPO-1619 - Fire Stop Coating Matls / Hilti"
+    },
+    {
+      "lpo_number": "LPO-1147",
+      "description": "Piping Matls",
+      "vendor": "Gasos-Tech Hard",
+      "date": "25/10/3",
+      "location": "AGI",
+      "raw_line": "LPO-1147 - Piping Matls / Gasos-Tech Hard"
+    },
+    {
+      "lpo_number": "LPO-1616",
+      "description": "Hollow Ceiling Anchor",
+      "vendor": "Fischer",
+      "date": "25/10/3",
+      "location": "AGI",
+      "raw_line": "LPO-1616 - Hollow Ceiling Anchor / Fischer"
+    },
+    {
+      "lpo_number": "LPO-1488",
+      "description": "Test Weights",
+      "vendor": "Safety Zone",
+      "date": "25/10/3",
+      "location": "AGI",
+      "raw_line": "LPO-1488 - Test Weights / Safety Zone"
+    },
+    {
+      "lpo_number": "LPO-1599",
+      "description": "Scaff Matls",
+      "vendor": "Saran",
+      "date": "25/10/3",
+      "location": "AGI",
+      "raw_line": "LPO-1599 - Scaff Matls / Saran"
+    },
+    {
+      "lpo_number": "LPO-1149",
+      "description": "Piping Matls",
+      "vendor": "Gasos-Tech Hard <This message was edited>",
+      "date": "25/10/3",
+      "location": "DAS",
+      "raw_line": "LPO-1149 - Piping Matls / Gasos-Tech Hard <This message was edited>"
+    },
+    {
+      "lpo_number": "LPO-1599",
+      "description": "Scaff Matls",
+      "vendor": "Saran",
+      "date": "25/10/5",
+      "location": "AGI",
+      "raw_line": "LPO-1599 - Scaff Matls / Saran"
+    },
+    {
+      "lpo_number": "LPO-1567",
+      "description": "Scaff Matls",
+      "vendor": "Scaffo",
+      "date": "25/10/6",
+      "location": "AGI",
+      "raw_line": "LPO-1567 - Scaff Matls / Scaffo"
+    },
+    {
+      "lpo_number": "LPO-1399",
+      "description": "Cables",
+      "vendor": "Power Plus",
+      "date": "25/10/6",
+      "location": "AGI",
+      "raw_line": "LPO-1399 - Cables / Power Plus"
+    },
+    {
+      "lpo_number": "LPO-2897",
+      "description": "Consumable Items",
+      "vendor": "Skipper",
+      "date": "25/10/6",
+      "location": "AGI",
+      "raw_line": "LPO-2897 - Consumable Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-1578",
+      "description": "Lifting Gears",
+      "vendor": "Liftek",
+      "date": "25/10/6",
+      "location": "DAS",
+      "raw_line": "LPO-1578 - Lifting Gears/ Liftek"
+    },
+    {
+      "lpo_number": "LPO-2846",
+      "description": "General Items",
+      "vendor": "Skipper",
+      "date": "25/10/6",
+      "location": "DAS",
+      "raw_line": "LPO-2846 - General Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-2868",
+      "description": "Kitchen Items",
+      "vendor": "Skipper",
+      "date": "25/10/6",
+      "location": "DAS",
+      "raw_line": "LPO-2868 - Kitchen Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-1542",
+      "description": "End Plug",
+      "vendor": "Arabian Falcon",
+      "date": "25/10/7",
+      "location": "AGI",
+      "raw_line": "LPO-1542 - End Plug / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-2898",
+      "description": "General Items",
+      "vendor": "Skipper",
+      "date": "25/10/7",
+      "location": "AGI",
+      "raw_line": "LPO-2898 - General Items / Skipper"
+    },
+    {
+      "lpo_number": "LPO-1541",
+      "description": "End Plug",
+      "vendor": "Arabian Falcon",
+      "date": "25/10/7",
+      "location": "DAS",
+      "raw_line": "LPO-1541 - End Plug / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-1566",
+      "description": "Pressure Gauge",
+      "vendor": "Dynamic",
+      "date": "25/10/7",
+      "location": "DAS",
+      "raw_line": "LPO-1566 - Pressure Gauge / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1595",
+      "description": "DB Panels w",
+      "vendor": "Acc'y",
+      "date": "25/10/7",
+      "location": "DAS",
+      "raw_line": "LPO-1595 - DB Panels w/ Acc'y / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1614",
+      "description": "Flexible Conduit Acc'y",
+      "vendor": "Dynamic",
+      "date": "25/10/7",
+      "location": "DAS",
+      "raw_line": "LPO-1614 - Flexible Conduit Acc'y / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-2926",
+      "description": "General Items",
+      "vendor": "Global Hardware <This message was edited>",
+      "date": "25/10/7",
+      "location": "DAS",
+      "raw_line": "LPO-2926 - General Items / Global Hardware <This message was edited>"
+    },
+    {
+      "lpo_number": "LPO-1567",
+      "description": "Scaff Matls",
+      "vendor": "Scaffco",
+      "date": "25/10/8",
+      "location": "AGI",
+      "raw_line": "LPO-1567 - Scaff Matls / Scaffco"
+    },
+    {
+      "lpo_number": "LPO-1568",
+      "description": "Carpet",
+      "vendor": "Zia&Sagor",
+      "date": "25/10/8",
+      "location": "DAS",
+      "raw_line": "LPO-1568 - Carpet / Zia&Sagor"
+    },
+    {
+      "lpo_number": "LPO-1554",
+      "description": "Synchronizing Panel",
+      "vendor": "Bell Tech",
+      "date": "25/10/8",
+      "location": "DAS",
+      "raw_line": "LPO-1554 - Synchronizing Panel / Bell Tech"
+    },
+    {
+      "lpo_number": "LPO-2926",
+      "description": "General Items",
+      "vendor": "Global Hardware <This message was edited>",
+      "date": "25/10/8",
+      "location": "DAS",
+      "raw_line": "LPO-2926 - General Items / Global Hardware <This message was edited>"
+    },
+    {
+      "lpo_number": "LPO-2545",
+      "description": "General Matls",
+      "vendor": "Union",
+      "date": "25/10/9",
+      "location": "AGI",
+      "raw_line": "LPO-2545 - General Matls / Union"
+    },
+    {
+      "lpo_number": "LPO-2854",
+      "description": "General Matls",
+      "vendor": "Union",
+      "date": "25/10/9",
+      "location": "AGI",
+      "raw_line": "LPO-2854 - General Matls / Union"
+    },
+    {
+      "lpo_number": "LPO-2823",
+      "description": "General Matls",
+      "vendor": "Union <This message was edited>",
+      "date": "25/10/9",
+      "location": "MOSB",
+      "raw_line": "LPO-2823 - General Matls / Union <This message was edited>"
+    },
+    {
+      "lpo_number": "LPO-2900",
+      "description": "General Matls",
+      "vendor": "Terranova",
+      "date": "25/10/10",
+      "location": "AGI",
+      "raw_line": "LPO-2900 - General Matls / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2924",
+      "description": "General Matls",
+      "vendor": "Terranova",
+      "date": "25/10/10",
+      "location": "AGI",
+      "raw_line": "LPO-2924 - General Matls / Terranova"
+    },
+    {
+      "lpo_number": "LPO-2921",
+      "description": "General Matls",
+      "vendor": "Terranova",
+      "date": "25/10/10",
+      "location": "DAS",
+      "raw_line": "LPO-2921 - General Matls / Terranova"
+    },
+    {
+      "lpo_number": "LPO-1510",
+      "description": "One Hole Clip",
+      "vendor": "Dynamic",
+      "date": "25/10/12",
+      "location": "AGI",
+      "raw_line": "LPO-1510 - One Hole Clip / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1597",
+      "description": "Cable Tray Acc'y",
+      "vendor": "Power Solution",
+      "date": "25/10/12",
+      "location": "AGI",
+      "raw_line": "LPO-1597 - Cable Tray Acc'y / Power Solution"
+    },
+    {
+      "lpo_number": "LPO-2928",
+      "description": "Copper Foil Tape",
+      "vendor": "Dynamic",
+      "date": "25/10/12",
+      "location": "DAS",
+      "raw_line": "LPO-2928 - Copper Foil Tape / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1472",
+      "description": "Cable Tray Acc'y",
+      "vendor": "Power Solution",
+      "date": "25/10/12",
+      "location": "DAS",
+      "raw_line": "LPO-1472 - Cable Tray Acc'y / Power Solution"
+    },
+    {
+      "lpo_number": "LPO-2927",
+      "description": "Office Furnitures",
+      "vendor": "Al Hawai",
+      "date": "25/10/15",
+      "location": "AGI",
+      "raw_line": "LPO-2927 - Office Furnitures / Al Hawai"
+    },
+    {
+      "lpo_number": "LPO-1471",
+      "description": "Cable Lugs Acc'y",
+      "vendor": "Dynamic",
+      "date": "25/10/15",
+      "location": "AGI",
+      "raw_line": "LPO-1471 - Cable Lugs Acc'y / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-1615",
+      "description": "Flexible Conduit Acc'y",
+      "vendor": "Dynamic",
+      "date": "25/10/15",
+      "location": "AGI",
+      "raw_line": "LPO-1615 - Flexible Conduit Acc'y / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-2937",
+      "description": "Office Furnitures",
+      "vendor": "Al Hawai",
+      "date": "25/10/15",
+      "location": "DAS",
+      "raw_line": "LPO-2937 - Office Furnitures / Al Hawai"
+    },
+    {
+      "lpo_number": "LPO-1469",
+      "description": "Cable Lugs Acc'y",
+      "vendor": "Dynamic",
+      "date": "25/10/15",
+      "location": "DAS",
+      "raw_line": "LPO-1469 - Cable Lugs Acc'y / Dynamic"
+    },
+    {
+      "lpo_number": "LPO-2942",
+      "description": "General Matls",
+      "vendor": "Terranova",
+      "date": "25/10/15",
+      "location": "MOSB",
+      "raw_line": "LPO-2942 - General Matls / Terranova"
+    },
+    {
+      "lpo_number": "LPO-1623",
+      "description": "Cable Tray Support",
+      "vendor": "Arabian Falcon",
+      "date": "25/10/16",
+      "location": "AGI",
+      "raw_line": "LPO-1623 - Cable Tray Support / Arabian Falcon"
+    },
+    {
+      "lpo_number": "LPO-1642",
+      "description": "Walkie Talky",
+      "vendor": "Step Zone",
+      "date": "25/10/16",
+      "location": "AGI",
+      "raw_line": "LPO-1642 - Walkie Talky / Step Zone"
+    },
+    {
+      "lpo_number": "LPO-2839",
+      "description": "General Item",
+      "vendor": "Global Hardware",
+      "date": "25/10/16",
+      "location": "AGI",
+      "raw_line": "LPO-2839 - General Item / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-1472",
+      "description": "Cable Tray Acc'y",
+      "vendor": "Power Solution",
+      "date": "25/10/16",
+      "location": "DAS",
+      "raw_line": "LPO-1472 - Cable Tray Acc'y / Power Solution"
+    },
+    {
+      "lpo_number": "LPO-2942",
+      "description": "General Matls",
+      "vendor": "Terranova",
+      "date": "25/10/16",
+      "location": "MOSB",
+      "raw_line": "LPO-2942 - General Matls / Terranova"
+    },
+    {
+      "lpo_number": "LPO-1505",
+      "description": "Air Curtain",
+      "vendor": "Temperatures",
+      "date": "25/10/17",
+      "location": "AGI",
+      "raw_line": "LPO-1505 - Air Curtain / Temperatures"
+    },
+    {
+      "lpo_number": "LPO-2839",
+      "description": "General Item",
+      "vendor": "Global Hardware",
+      "date": "25/10/17",
+      "location": "AGI",
+      "raw_line": "LPO-2839 - General Item / Global Hardware"
+    },
+    {
+      "lpo_number": "LPO-1504",
+      "description": "Air Curtain",
+      "vendor": "Temperatures",
+      "date": "25/10/17",
+      "location": "DAS",
+      "raw_line": "LPO-1504 - Air Curtain / Temperatures"
+    },
+    {
+      "lpo_number": "LPO-2981",
+      "description": "General Item",
+      "vendor": "Global Hardware",
+      "date": "25/10/17",
+      "location": "DAS",
+      "raw_line": "LPO-2981 - General Item / Global Hardware"
+    }
+  ],
+  "analysis_timestamp": "2025-10-20T01:14:49.525322"
+}

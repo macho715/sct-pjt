@@ -1,0 +1,20 @@
+[
+  {
+    "vendor": "SAS Power",
+    "month": "2025-05",
+    "event_count": 20,
+    "total_quantity": 20.0
+  },
+  {
+    "vendor": "SAS Power",
+    "month": "2025-06",
+    "event_count": 4,
+    "total_quantity": 4.0
+  },
+  {
+    "vendor": "SAS Power",
+    "month": "2025-08",
+    "event_count": 3,
+    "total_quantity": 3.0
+  }
+]

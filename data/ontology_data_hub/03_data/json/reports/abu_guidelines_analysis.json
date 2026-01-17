@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "file_name": "Guideline_Abu_Dhabi_Logistics (3).md",
+    "analysis_date": "2025-10-20T00:31:36.019510",
+    "file_size": 2853
+  },
+  "executive_summary": {
+    "version": "v2.1",
+    "key_improvements": [
+      "지연 리스크 관리 고도화 - 10·20·30 Rule 에스컬레이션"
+    ],
+    "safety_requirements": [
+      "HCS 균열 반송·증빙 의무화",
+      "슬링/라싱 TPI·컬러코드 준수 강화"
+    ],
+    "port_policies": [
+      "Al Jaber Only A-Frame",
+      "예외 Dispensation 사전 승인"
+    ],
+    "vessel_stowage": [
+      "2-LCT Stowage",
+      "대체 LCT(Yeam/Taibah) 탄력 운용"
+    ]
+  },
+  "group_profile": {
+    "purpose_scope": "ALS/Port Ops, Lifting Team, UPC/DSV/Alphamed, PM",
+    "key_participants": [
+      "2024-08-21 ~ 2025-08-08"
+    ],
+    "activity_period": "High",
+    "traffic_level": "",
+    "top_participants": []
+  },
+  "patterns": {
+    "language_ratio": {
+      "korean": 21,
+      "english": 79
+    },
+    "peak_hours": [
+      "09:00",
+      "08:00",
+      "10:00"
+    ],
+    "response_delay": {
+      "average": 16.7,
+      "median": 2.0
+    },
+    "top_keywords": []
+  },
+  "pain_points": [
+    "FLIFT/Crane **상시 지연·연락두절**",
+    "**HCS 균열/품질 이슈**",
+    "**RORO 제한/Dispensation 요구**",
+    "**Fog/Traffic/Anchorage 혼잡**",
+    "**Gatepass/EID/CICPA** 문제"
+  ],
+  "tailored_rules": [
+    {
+      "category": "항만 정책",
+      "rule": "**Port policy update (Al Jaber)**: 일반 RORO/FB 적재 **불가**, **A‑Frame만 허용**. 예외 필요 시 **Harbor Master Dispensation**를 이메일로 사전 승인 받을 것."
+    },
+    {
+      "category": "지연 관리",
+      "rule": "**Forklift 지연 대응**: 10분 무응답 시 `[RISK]` 알림, **20분 경과 시** 1차 에스컬, **30분 경과 시** 2차 에스컬 및 **작업순서 재배치 안내**."
+    },
+    {
+      "category": "안전 관리",
+      "rule": "**HCS(홀로코어) 안전기준**: **측면·사면 균열 발견 시 즉시 반송**, 사진 증빙 필수. Offloading은 **Webbing Sling Choker 방식**(12m 사용), **Spreader Bar 부재 시 대체 승인 후 진행**."
+    },
+    {
+      "category": "장비 관리",
+      "rule": "**라싱·슬링 규격**: **웹빙 슬링 컬러코드/용량 준수(예: Purple=2t)**, **TPI/TUV 최신 인증 보유**. 선박 라싱 벨트 부족 시 **사전 수량 확보 또는 계획 변경**."
+    },
+    {
+      "category": "적재 계획",
+      "rule": "**Stowage Plan**: DAS행 화물은 **2척(LCT) 기준 적재 계획** 기본, **A‑Frame·HE Box** 중심. 잔여 공간 **혼적**으로 최적화."
+    },
+    {
+      "category": "문서 관리",
+      "rule": "**증빙/보고**: **거절·반송** 발생 시 사진 다각도 확보 및 리포트 첨부. **D‑1 16:00 문서 확정** 유지."
+    },
+    {
+      "category": "보안 관리",
+      "rule": "**PII/보안**: OTP 등 민감정보 **마스킹** 준수."
+    },
+    {
+      "category": "현장 관리",
+      "rule": "**화이트보드 현황**: 현장 화이트보드 업데이트 시 **사진 즉시 공유**(담당: Sajid)."
+    },
+    {
+      "category": "자원 관리",
+      "rule": "**선박/자원 변경**: **Yeam/Taibah 등 대체 LCT** 투입 시 **Departure/Arrival 공지 + 우선순위 리스트** 동시 갱신."
+    }
+  ],
+  "kpis": [
+    {
+      "description": "**FLIFT/Crane 응답 ≤ 20분** 90%↑, **현장 도착 ≤ 30분** 90%↑",
+      "target_percentage": 90
+    },
+    {
+      "description": "**HCS 반송/거절 시 사진증빙 첨부율 100%**",
+      "target_percentage": 100
+    },
+    {
+      "description": "**웹슬링·라싱 TPI/TUV 적합률 100%**",
+      "target_percentage": 100
+    },
+    {
+      "description": "**D‑1 16:00 문서 확정 준수율 ≥ 98%**",
+      "target_percentage": 98
+    },
+    {
+      "description": "**Departure/Arrival/우선순위 동시 갱신율 ≥ 95%**",
+      "target_percentage": 95
+    }
+  ]
+}

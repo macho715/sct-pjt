@@ -1,0 +1,1908 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "name": "UNIFIED_LOGISTICS_NETWORK"
+  },
+  "nodes": [
+    {
+      "type": "root",
+      "label": "HVDC Project",
+      "level": 0,
+      "color": "#ff0000",
+      "id": "HVDC_Project"
+    },
+    {
+      "type": "system",
+      "label": "JPT71 System",
+      "level": 1,
+      "color": "#ff6b6b",
+      "id": "JPT71_System"
+    },
+    {
+      "type": "system",
+      "label": "ABU System",
+      "level": 1,
+      "color": "#51cf66",
+      "id": "ABU_System"
+    },
+    {
+      "type": "system",
+      "label": "Lightning System",
+      "level": 1,
+      "color": "#ffd43b",
+      "id": "Lightning_System"
+    },
+    {
+      "type": "vessel",
+      "label": "JPT71",
+      "level": 2,
+      "color": "#ff6b6b",
+      "id": "vessel:JPT71"
+    },
+    {
+      "type": "vessel",
+      "label": "Tamarah",
+      "level": 2,
+      "color": "#ff6b6b",
+      "id": "vessel:Tamarah"
+    },
+    {
+      "type": "vessel",
+      "label": "TAIBAH",
+      "level": 2,
+      "color": "#ff6b6b",
+      "id": "vessel:TAIBAH"
+    },
+    {
+      "type": "vessel",
+      "label": "Buahra",
+      "level": 2,
+      "color": "#ff6b6b",
+      "id": "vessel:Buahra"
+    },
+    {
+      "type": "vessel",
+      "label": "JPT62",
+      "level": 2,
+      "color": "#ff6b6b",
+      "id": "vessel:JPT62"
+    },
+    {
+      "type": "vessel",
+      "label": "YEAM",
+      "level": 2,
+      "color": "#ff6b6b",
+      "id": "vessel:YEAM"
+    },
+    {
+      "type": "vessel",
+      "label": "THURAYA",
+      "level": 2,
+      "color": "#ff6b6b",
+      "id": "vessel:THURAYA"
+    },
+    {
+      "type": "person",
+      "label": "DaN",
+      "level": 2,
+      "shipments": 0,
+      "total_work": 3,
+      "color": "#74c0fc",
+      "id": "person:DaN"
+    },
+    {
+      "type": "person",
+      "label": "Shariff",
+      "level": 2,
+      "shipments": 41,
+      "total_work": 42,
+      "color": "#74c0fc",
+      "id": "person:Shariff"
+    },
+    {
+      "type": "port",
+      "label": "Al Jaber",
+      "level": 2,
+      "color": "#51cf66",
+      "id": "port:Al Jaber"
+    },
+    {
+      "type": "port",
+      "label": "AGI",
+      "level": 2,
+      "color": "#51cf66",
+      "id": "port:AGI"
+    },
+    {
+      "type": "port",
+      "label": "MW4",
+      "level": 2,
+      "color": "#51cf66",
+      "id": "port:MW4"
+    },
+    {
+      "type": "port",
+      "label": "DAS",
+      "level": 2,
+      "color": "#51cf66",
+      "id": "port:DAS"
+    },
+    {
+      "type": "operation",
+      "label": "Shariff Shipments (41)",
+      "level": 2,
+      "count": 41,
+      "color": "#ffd43b",
+      "id": "operation:Shariff_shipments"
+    },
+    {
+      "type": "person",
+      "label": "Logistics Driver 1",
+      "level": 2,
+      "shipments": 1,
+      "total_work": 1,
+      "color": "#74c0fc",
+      "id": "person:Logistics Driver 1"
+    },
+    {
+      "type": "operation",
+      "label": "Logistics Driver 1 Shipments (1)",
+      "level": 2,
+      "count": 1,
+      "color": "#ffd43b",
+      "id": "operation:Logistics Driver 1_shipments"
+    },
+    {
+      "type": "person",
+      "label": "Haitham",
+      "level": 2,
+      "shipments": 154,
+      "total_work": 156,
+      "color": "#74c0fc",
+      "id": "person:Haitham"
+    },
+    {
+      "type": "port",
+      "label": "MOSB",
+      "level": 2,
+      "color": "#51cf66",
+      "id": "port:MOSB"
+    },
+    {
+      "type": "port",
+      "label": "Umm ALanbar",
+      "level": 2,
+      "color": "#51cf66",
+      "id": "port:Umm ALanbar"
+    },
+    {
+      "type": "port",
+      "label": "Musaffah",
+      "level": 2,
+      "color": "#51cf66",
+      "id": "port:Musaffah"
+    },
+    {
+      "type": "port",
+      "label": "al jaber",
+      "level": 2,
+      "color": "#51cf66",
+      "id": "port:al jaber"
+    },
+    {
+      "type": "operation",
+      "label": "Haitham Shipments (154)",
+      "level": 2,
+      "count": 154,
+      "color": "#ffd43b",
+      "id": "operation:Haitham_shipments"
+    },
+    {
+      "type": "person",
+      "label": "Thusar",
+      "level": 2,
+      "shipments": 16,
+      "total_work": 16,
+      "color": "#74c0fc",
+      "id": "person:Thusar"
+    },
+    {
+      "type": "operation",
+      "label": "Thusar Shipments (16)",
+      "level": 2,
+      "count": 16,
+      "color": "#ffd43b",
+      "id": "operation:Thusar_shipments"
+    },
+    {
+      "type": "person",
+      "label": "상욱",
+      "level": 2,
+      "shipments": 38,
+      "total_work": 42,
+      "color": "#74c0fc",
+      "id": "person:상욱"
+    },
+    {
+      "type": "operation",
+      "label": "상욱 Shipments (38)",
+      "level": 2,
+      "count": 38,
+      "color": "#ffd43b",
+      "id": "operation:상욱_shipments"
+    },
+    {
+      "type": "person",
+      "label": "국일 Kim",
+      "level": 2,
+      "shipments": 6,
+      "total_work": 9,
+      "color": "#74c0fc",
+      "id": "person:국일 Kim"
+    },
+    {
+      "type": "operation",
+      "label": "국일 Kim Shipments (6)",
+      "level": 2,
+      "count": 6,
+      "color": "#ffd43b",
+      "id": "operation:국일 Kim_shipments"
+    },
+    {
+      "type": "person",
+      "label": "ronpap20",
+      "level": 2,
+      "shipments": 5,
+      "total_work": 6,
+      "color": "#74c0fc",
+      "id": "person:ronpap20"
+    },
+    {
+      "type": "operation",
+      "label": "ronpap20 Shipments (5)",
+      "level": 2,
+      "count": 5,
+      "color": "#ffd43b",
+      "id": "operation:ronpap20_shipments"
+    },
+    {
+      "type": "person",
+      "label": "Friday D 13th",
+      "level": 2,
+      "shipments": 0,
+      "total_work": 13,
+      "color": "#74c0fc",
+      "id": "person:Friday D 13th"
+    },
+    {
+      "type": "person",
+      "label": "Karthi",
+      "level": 2,
+      "shipments": 0,
+      "total_work": 1,
+      "color": "#74c0fc",
+      "id": "person:Karthi"
+    },
+    {
+      "type": "person",
+      "label": "kEn 🏄🏻🌊",
+      "level": 2,
+      "shipments": 0,
+      "total_work": 2,
+      "color": "#74c0fc",
+      "id": "person:kEn 🏄🏻🌊"
+    },
+    {
+      "type": "person",
+      "label": "Jhysn",
+      "level": 2,
+      "shipments": 3,
+      "total_work": 4,
+      "color": "#74c0fc",
+      "id": "person:Jhysn"
+    },
+    {
+      "type": "operation",
+      "label": "Jhysn Shipments (3)",
+      "level": 2,
+      "count": 3,
+      "color": "#ffd43b",
+      "id": "operation:Jhysn_shipments"
+    },
+    {
+      "type": "document",
+      "label": "BL (1008)",
+      "level": 3,
+      "count": 1008,
+      "color": "#a5d8ff",
+      "id": "doc:BL"
+    },
+    {
+      "type": "document",
+      "label": "CICPA (135)",
+      "level": 3,
+      "count": 135,
+      "color": "#a5d8ff",
+      "id": "doc:CICPA"
+    },
+    {
+      "type": "document",
+      "label": "PL (117)",
+      "level": 3,
+      "count": 117,
+      "color": "#a5d8ff",
+      "id": "doc:PL"
+    },
+    {
+      "type": "document",
+      "label": "do (85)",
+      "level": 3,
+      "count": 85,
+      "color": "#a5d8ff",
+      "id": "doc:do"
+    },
+    {
+      "type": "document",
+      "label": "manifest (83)",
+      "level": 3,
+      "count": 83,
+      "color": "#a5d8ff",
+      "id": "doc:manifest"
+    },
+    {
+      "type": "document",
+      "label": "Manifest (71)",
+      "level": 3,
+      "count": 71,
+      "color": "#a5d8ff",
+      "id": "doc:Manifest"
+    },
+    {
+      "type": "document",
+      "label": "TPI (30)",
+      "level": 3,
+      "count": 30,
+      "color": "#a5d8ff",
+      "id": "doc:TPI"
+    },
+    {
+      "type": "document",
+      "label": "permit (25)",
+      "level": 3,
+      "count": 25,
+      "color": "#a5d8ff",
+      "id": "doc:permit"
+    },
+    {
+      "type": "document",
+      "label": "cicpa (23)",
+      "level": 3,
+      "count": 23,
+      "color": "#a5d8ff",
+      "id": "doc:cicpa"
+    },
+    {
+      "type": "document",
+      "label": "bl (18)",
+      "level": 3,
+      "count": 18,
+      "color": "#a5d8ff",
+      "id": "doc:bl"
+    },
+    {
+      "type": "document",
+      "label": "Cicpa (11)",
+      "level": 3,
+      "count": 11,
+      "color": "#a5d8ff",
+      "id": "doc:Cicpa"
+    },
+    {
+      "type": "document",
+      "label": "OSDR (11)",
+      "level": 3,
+      "count": 11,
+      "color": "#a5d8ff",
+      "id": "doc:OSDR"
+    },
+    {
+      "type": "document",
+      "label": "B/L (9)",
+      "level": 3,
+      "count": 9,
+      "color": "#a5d8ff",
+      "id": "doc:B/L"
+    },
+    {
+      "type": "document",
+      "label": "pl (7)",
+      "level": 3,
+      "count": 7,
+      "color": "#a5d8ff",
+      "id": "doc:pl"
+    },
+    {
+      "type": "document",
+      "label": "CIPL (6)",
+      "level": 3,
+      "count": 6,
+      "color": "#a5d8ff",
+      "id": "doc:CIPL"
+    },
+    {
+      "type": "document",
+      "label": "Do (5)",
+      "level": 3,
+      "count": 5,
+      "color": "#a5d8ff",
+      "id": "doc:Do"
+    },
+    {
+      "type": "document",
+      "label": "Pl (3)",
+      "level": 3,
+      "count": 3,
+      "color": "#a5d8ff",
+      "id": "doc:Pl"
+    },
+    {
+      "type": "document",
+      "label": "DO (2)",
+      "level": 3,
+      "count": 2,
+      "color": "#a5d8ff",
+      "id": "doc:DO"
+    },
+    {
+      "type": "document",
+      "label": "osdr (2)",
+      "level": 3,
+      "count": 2,
+      "color": "#a5d8ff",
+      "id": "doc:osdr"
+    },
+    {
+      "type": "document",
+      "label": "HAWB (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#a5d8ff",
+      "id": "doc:HAWB"
+    },
+    {
+      "type": "equipment",
+      "label": "trailer (195)",
+      "level": 3,
+      "count": 195,
+      "color": "#ffa94d",
+      "id": "equip:trailer"
+    },
+    {
+      "type": "equipment",
+      "label": "crane (162)",
+      "level": 3,
+      "count": 162,
+      "color": "#ffa94d",
+      "id": "equip:crane"
+    },
+    {
+      "type": "equipment",
+      "label": "OT (155)",
+      "level": 3,
+      "count": 155,
+      "color": "#ffa94d",
+      "id": "equip:OT"
+    },
+    {
+      "type": "equipment",
+      "label": "Trailer (115)",
+      "level": 3,
+      "count": 115,
+      "color": "#ffa94d",
+      "id": "equip:Trailer"
+    },
+    {
+      "type": "equipment",
+      "label": "Crane (107)",
+      "level": 3,
+      "count": 107,
+      "color": "#ffa94d",
+      "id": "equip:Crane"
+    },
+    {
+      "type": "equipment",
+      "label": "FR (92)",
+      "level": 3,
+      "count": 92,
+      "color": "#ffa94d",
+      "id": "equip:FR"
+    },
+    {
+      "type": "equipment",
+      "label": "webbing (75)",
+      "level": 3,
+      "count": 75,
+      "color": "#ffa94d",
+      "id": "equip:webbing"
+    },
+    {
+      "type": "equipment",
+      "label": "CCU (43)",
+      "level": 3,
+      "count": 43,
+      "color": "#ffa94d",
+      "id": "equip:CCU"
+    },
+    {
+      "type": "equipment",
+      "label": "Webbing (40)",
+      "level": 3,
+      "count": 40,
+      "color": "#ffa94d",
+      "id": "equip:Webbing"
+    },
+    {
+      "type": "equipment",
+      "label": "forklift (30)",
+      "level": 3,
+      "count": 30,
+      "color": "#ffa94d",
+      "id": "equip:forklift"
+    },
+    {
+      "type": "equipment",
+      "label": "Forklift (25)",
+      "level": 3,
+      "count": 25,
+      "color": "#ffa94d",
+      "id": "equip:Forklift"
+    },
+    {
+      "type": "equipment",
+      "label": "ccu (12)",
+      "level": 3,
+      "count": 12,
+      "color": "#ffa94d",
+      "id": "equip:ccu"
+    },
+    {
+      "type": "equipment",
+      "label": "spreader (10)",
+      "level": 3,
+      "count": 10,
+      "color": "#ffa94d",
+      "id": "equip:spreader"
+    },
+    {
+      "type": "equipment",
+      "label": "WEBBING (3)",
+      "level": 3,
+      "count": 3,
+      "color": "#ffa94d",
+      "id": "equip:WEBBING"
+    },
+    {
+      "type": "equipment",
+      "label": "Fr (2)",
+      "level": 3,
+      "count": 2,
+      "color": "#ffa94d",
+      "id": "equip:Fr"
+    },
+    {
+      "type": "equipment",
+      "label": "HIAB (2)",
+      "level": 3,
+      "count": 2,
+      "color": "#ffa94d",
+      "id": "equip:HIAB"
+    },
+    {
+      "type": "equipment",
+      "label": "Spreader (2)",
+      "level": 3,
+      "count": 2,
+      "color": "#ffa94d",
+      "id": "equip:Spreader"
+    },
+    {
+      "type": "equipment",
+      "label": "CRANE (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffa94d",
+      "id": "equip:CRANE"
+    },
+    {
+      "type": "equipment",
+      "label": "Ccu (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffa94d",
+      "id": "equip:Ccu"
+    },
+    {
+      "type": "equipment",
+      "label": "FLIFT (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffa94d",
+      "id": "equip:FLIFT"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-SIM-0019 (7)",
+      "level": 3,
+      "count": 7,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-SIM-0019"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-HE-0203 (2)",
+      "level": 3,
+      "count": 2,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-HE-0203"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-SCT-0021 (2)",
+      "level": 3,
+      "count": 2,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-SCT-0021"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-SIM-0012 (2)",
+      "level": 3,
+      "count": 2,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-SIM-0012"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-AGI-ALS-296 (2)",
+      "level": 3,
+      "count": 2,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-AGI-ALS-296"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-AGI-ALS-BL-286 (2)",
+      "level": 3,
+      "count": 2,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-AGI-ALS-BL-286"
+    },
+    {
+      "type": "reference",
+      "label": "HAWB - (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffc9c9",
+      "id": "ref:HAWB -"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-0423 (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-0423"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-HE-0149 (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-HE-0149"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-HE-0151 (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-HE-0151"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-HE-0164 (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-HE-0164"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-HE-0183 (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-HE-0183"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-HE-0185 (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-HE-0185"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-HE-0188 (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-HE-0188"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-HE-0207 (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-HE-0207"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-HE-0213 (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-HE-0213"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-HE-0241 (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-HE-0241"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-HE-0245 (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-HE-0245"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-HE-0248 (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-HE-0248"
+    },
+    {
+      "type": "reference",
+      "label": "HVDC-ADOPT-HE-0335 (1)",
+      "level": 3,
+      "count": 1,
+      "color": "#ffc9c9",
+      "id": "ref:HVDC-ADOPT-HE-0335"
+    },
+    {
+      "type": "timetag",
+      "label": "eta (850)",
+      "level": 3,
+      "count": 850,
+      "color": "#b197fc",
+      "id": "time:eta"
+    },
+    {
+      "type": "timetag",
+      "label": "ETA (451)",
+      "level": 3,
+      "count": 451,
+      "color": "#b197fc",
+      "id": "time:ETA"
+    },
+    {
+      "type": "timetag",
+      "label": "ETD (287)",
+      "level": 3,
+      "count": 287,
+      "color": "#b197fc",
+      "id": "time:ETD"
+    },
+    {
+      "type": "timetag",
+      "label": "ATA (129)",
+      "level": 3,
+      "count": 129,
+      "color": "#b197fc",
+      "id": "time:ATA"
+    },
+    {
+      "type": "timetag",
+      "label": "Eta (63)",
+      "level": 3,
+      "count": 63,
+      "color": "#b197fc",
+      "id": "time:Eta"
+    },
+    {
+      "type": "timetag",
+      "label": "ATD (54)",
+      "level": 3,
+      "count": 54,
+      "color": "#b197fc",
+      "id": "time:ATD"
+    },
+    {
+      "type": "timetag",
+      "label": "etd (45)",
+      "level": 3,
+      "count": 45,
+      "color": "#b197fc",
+      "id": "time:etd"
+    },
+    {
+      "type": "timetag",
+      "label": "ETB (9)",
+      "level": 3,
+      "count": 9,
+      "color": "#b197fc",
+      "id": "time:ETB"
+    },
+    {
+      "type": "timetag",
+      "label": "Etd (8)",
+      "level": 3,
+      "count": 8,
+      "color": "#b197fc",
+      "id": "time:Etd"
+    },
+    {
+      "type": "docfile",
+      "label": "MCP_Configuration_Guide.md",
+      "level": 3,
+      "path": "docs\\MCP_Configuration_Guide.md",
+      "color": "#e0e0e0",
+      "id": "docfile:MCP_Configuration_Guide.md"
+    },
+    {
+      "type": "docfile",
+      "label": "P2_MD_v2.6_clustering.md",
+      "level": 3,
+      "path": "docs\\P2_MD_v2.6_clustering.md",
+      "color": "#e0e0e0",
+      "id": "docfile:P2_MD_v2.6_clustering.md"
+    },
+    {
+      "type": "docfile",
+      "label": "P_MD_v2.6_mapping.md",
+      "level": 3,
+      "path": "docs\\P_MD_v2.6_mapping.md",
+      "color": "#e0e0e0",
+      "id": "docfile:P_MD_v2.6_mapping.md"
+    },
+    {
+      "type": "docfile",
+      "label": "continuous-integration.md",
+      "level": 3,
+      "path": "docs\\kr\\continuous-integration.md",
+      "color": "#e0e0e0",
+      "id": "docfile:continuous-integration.md"
+    }
+  ],
+  "links": [
+    {
+      "rel": "contains",
+      "weight": 2.0,
+      "source": "HVDC_Project",
+      "target": "JPT71_System"
+    },
+    {
+      "rel": "contains",
+      "weight": 2.0,
+      "source": "HVDC_Project",
+      "target": "ABU_System"
+    },
+    {
+      "rel": "contains",
+      "weight": 2.0,
+      "source": "HVDC_Project",
+      "target": "Lightning_System"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "vessel:JPT71"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "vessel:TAIBAH"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "vessel:Buahra"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "vessel:JPT62"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "vessel:YEAM"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "vessel:THURAYA"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "person:DaN"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "person:Shariff"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "port:Al Jaber"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "port:AGI"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "port:MW4"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "port:DAS"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "operation:Shariff_shipments"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "person:Logistics Driver 1"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "operation:Logistics Driver 1_shipments"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "port:MOSB"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "port:Umm ALanbar"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "port:Musaffah"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "port:al jaber"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "operation:Haitham_shipments"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "person:Thusar"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "operation:Thusar_shipments"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "person:상욱"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "operation:상욱_shipments"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "person:국일 Kim"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "operation:국일 Kim_shipments"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "person:ronpap20"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "operation:ronpap20_shipments"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "person:Friday D 13th"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "person:Karthi"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "person:kEn 🏄🏻🌊"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "person:Jhysn"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "JPT71_System",
+      "target": "operation:Jhysn_shipments"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "ABU_System",
+      "target": "person:DaN"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "ABU_System",
+      "target": "person:Shariff"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "ABU_System",
+      "target": "person:Logistics Driver 1"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "ABU_System",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "ABU_System",
+      "target": "person:Thusar"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "ABU_System",
+      "target": "person:상욱"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "ABU_System",
+      "target": "person:국일 Kim"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "ABU_System",
+      "target": "person:ronpap20"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "ABU_System",
+      "target": "person:Friday D 13th"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "ABU_System",
+      "target": "person:Karthi"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "ABU_System",
+      "target": "person:kEn 🏄🏻🌊"
+    },
+    {
+      "rel": "contains",
+      "weight": 1.5,
+      "source": "ABU_System",
+      "target": "person:Jhysn"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:BL"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:CICPA"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:PL"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:do"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:manifest"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:Manifest"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:TPI"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:permit"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:cicpa"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:bl"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:Cicpa"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:OSDR"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:B/L"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:pl"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:CIPL"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:Do"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:Pl"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:DO"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:osdr"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "doc:HAWB"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:trailer"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:crane"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:OT"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:Trailer"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:Crane"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:FR"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:webbing"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:CCU"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:Webbing"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:forklift"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:Forklift"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:ccu"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:spreader"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:WEBBING"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:Fr"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:HIAB"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:Spreader"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:CRANE"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:Ccu"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "equip:FLIFT"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-SIM-0019"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-HE-0203"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-SCT-0021"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-SIM-0012"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-AGI-ALS-296"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-AGI-ALS-BL-286"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HAWB -"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-0423"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-HE-0149"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-HE-0151"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-HE-0164"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-HE-0183"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-HE-0185"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-HE-0188"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-HE-0207"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-HE-0213"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-HE-0241"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-HE-0245"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-HE-0248"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "ref:HVDC-ADOPT-HE-0335"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "time:eta"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "time:ETA"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "time:ETD"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "time:ATA"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "time:Eta"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "time:ATD"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "time:etd"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "time:ETB"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "time:Etd"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "docfile:MCP_Configuration_Guide.md"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "docfile:P2_MD_v2.6_clustering.md"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "docfile:P_MD_v2.6_mapping.md"
+    },
+    {
+      "rel": "contains",
+      "weight": 0.5,
+      "source": "Lightning_System",
+      "target": "docfile:continuous-integration.md"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:JPT71",
+      "target": "person:Shariff"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:JPT71",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:JPT71",
+      "target": "person:상욱"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:Tamarah",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:TAIBAH",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:Buahra",
+      "target": "person:Shariff"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:JPT62",
+      "target": "person:Shariff"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:JPT62",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:JPT62",
+      "target": "person:상욱"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:JPT62",
+      "target": "person:ronpap20"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:YEAM",
+      "target": "person:Shariff"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:YEAM",
+      "target": "person:Logistics Driver 1"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:YEAM",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:YEAM",
+      "target": "person:상욱"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:YEAM",
+      "target": "person:국일 Kim"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:THURAYA",
+      "target": "person:Shariff"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:THURAYA",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:THURAYA",
+      "target": "person:Thusar"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:THURAYA",
+      "target": "person:상욱"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:THURAYA",
+      "target": "person:국일 Kim"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:THURAYA",
+      "target": "person:ronpap20"
+    },
+    {
+      "rel": "operates",
+      "weight": 1.0,
+      "source": "vessel:THURAYA",
+      "target": "person:Jhysn"
+    },
+    {
+      "rel": "works_at",
+      "weight": 1.0,
+      "source": "person:Shariff",
+      "target": "port:Al Jaber"
+    },
+    {
+      "rel": "works_at",
+      "weight": 1.0,
+      "source": "person:Shariff",
+      "target": "port:AGI"
+    },
+    {
+      "rel": "works_at",
+      "weight": 1.0,
+      "source": "person:Shariff",
+      "target": "port:MW4"
+    },
+    {
+      "rel": "works_at",
+      "weight": 1.0,
+      "source": "person:Shariff",
+      "target": "port:DAS"
+    },
+    {
+      "rel": "performed",
+      "weight": 4.1,
+      "source": "person:Shariff",
+      "target": "operation:Shariff_shipments"
+    },
+    {
+      "rel": "works_at",
+      "weight": 1.0,
+      "source": "port:Al Jaber",
+      "target": "person:상욱"
+    },
+    {
+      "rel": "works_at",
+      "weight": 1.0,
+      "source": "port:AGI",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "works_at",
+      "weight": 1.0,
+      "source": "port:AGI",
+      "target": "person:상욱"
+    },
+    {
+      "rel": "works_at",
+      "weight": 1.0,
+      "source": "port:MW4",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "works_at",
+      "weight": 1.0,
+      "source": "port:DAS",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "works_at",
+      "weight": 1.0,
+      "source": "port:DAS",
+      "target": "person:상욱"
+    },
+    {
+      "rel": "performed",
+      "weight": 0.1,
+      "source": "person:Logistics Driver 1",
+      "target": "operation:Logistics Driver 1_shipments"
+    },
+    {
+      "rel": "works_at",
+      "weight": 1.0,
+      "source": "person:Haitham",
+      "target": "port:MOSB"
+    },
+    {
+      "rel": "works_at",
+      "weight": 1.0,
+      "source": "person:Haitham",
+      "target": "port:Umm ALanbar"
+    },
+    {
+      "rel": "works_at",
+      "weight": 1.0,
+      "source": "person:Haitham",
+      "target": "port:Musaffah"
+    },
+    {
+      "rel": "works_at",
+      "weight": 1.0,
+      "source": "person:Haitham",
+      "target": "port:al jaber"
+    },
+    {
+      "rel": "performed",
+      "weight": 15.4,
+      "source": "person:Haitham",
+      "target": "operation:Haitham_shipments"
+    },
+    {
+      "rel": "works_at",
+      "weight": 1.0,
+      "source": "port:MOSB",
+      "target": "person:상욱"
+    },
+    {
+      "rel": "performed",
+      "weight": 1.6,
+      "source": "person:Thusar",
+      "target": "operation:Thusar_shipments"
+    },
+    {
+      "rel": "performed",
+      "weight": 3.8,
+      "source": "person:상욱",
+      "target": "operation:상욱_shipments"
+    },
+    {
+      "rel": "performed",
+      "weight": 0.6,
+      "source": "person:국일 Kim",
+      "target": "operation:국일 Kim_shipments"
+    },
+    {
+      "rel": "performed",
+      "weight": 0.5,
+      "source": "person:ronpap20",
+      "target": "operation:ronpap20_shipments"
+    },
+    {
+      "rel": "performed",
+      "weight": 0.3,
+      "source": "person:Jhysn",
+      "target": "operation:Jhysn_shipments"
+    }
+  ]
+}

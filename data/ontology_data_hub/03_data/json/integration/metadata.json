@@ -1,0 +1,149 @@
+{
+    "rdf_files_metadata": {
+        "generated_date": "2025-10-22T10:00:00Z",
+        "total_files": 16,
+        "final_files": 2,
+        "version_files": 14,
+        "total_size_mb": 10.2,
+        "files": {
+            "final": {
+                "abu_final.ttl": {
+                    "original_name": "abu_integrated_system.ttl",
+                    "size_bytes": 923346,
+                    "size_mb": 0.9,
+                    "triples": 18894,
+                    "entities": 500,
+                    "description": "ABU 시스템 최종 통합 RDF - 물류 데이터 + LPO 데이터 + 이미지 메타데이터",
+                    "created": "2025-10-20T01:26:45Z",
+                    "namespaces": [
+                        "abu:",
+                        "abui:",
+                        "rdf:",
+                        "rdfs:",
+                        "xsd:"
+                    ]
+                },
+                "lightning_final.ttl": {
+                    "original_name": "lightning_whatsapp_integrated.ttl",
+                    "size_bytes": 3113466,
+                    "size_mb": 3.1,
+                    "triples": 67000,
+                    "entities": 2000,
+                    "description": "Lightning 시스템 최종 통합 RDF - 이미지 + 엔티티 + WhatsApp 통합 데이터",
+                    "created": "2025-10-22T09:42:42Z",
+                    "namespaces": [
+                        "lightning:",
+                        "lightningi:",
+                        "rdf:",
+                        "rdfs:",
+                        "xsd:"
+                    ]
+                }
+            },
+            "versions": {
+                "abu_logistics_data.ttl": {
+                    "size_bytes": 122835,
+                    "size_mb": 0.1,
+                    "triples": 2814,
+                    "description": "ABU 기본 물류 데이터",
+                    "created": "2025-10-20T01:04:50Z"
+                },
+                "abu_lpo_data.ttl": {
+                    "size_bytes": 234527,
+                    "size_mb": 0.2,
+                    "triples": 5779,
+                    "description": "ABU LPO 데이터",
+                    "created": "2025-10-20T01:16:09Z"
+                },
+                "abu_with_images.ttl": {
+                    "size_bytes": 227088,
+                    "size_mb": 0.2,
+                    "triples": 5070,
+                    "description": "ABU 이미지 메타데이터 포함",
+                    "created": "2025-10-20T01:20:58Z"
+                },
+                "lightning_with_images.ttl": {
+                    "size_bytes": 43752,
+                    "size_mb": 0.04,
+                    "triples": 904,
+                    "description": "Lightning 이미지 메타데이터",
+                    "created": "2025-10-22T09:09:49Z"
+                },
+                "lightning_integrated_system.ttl": {
+                    "size_bytes": 3034098,
+                    "size_mb": 3.0,
+                    "triples": 65000,
+                    "description": "Lightning 기본 통합 시스템",
+                    "created": "2025-10-22T09:13:11Z"
+                },
+                "lightning_enriched_system.ttl": {
+                    "size_bytes": 3071832,
+                    "size_mb": 3.0,
+                    "triples": 66000,
+                    "description": "Lightning CSV 엔티티 보강",
+                    "created": "2025-10-22T09:32:05Z"
+                },
+                "lightning_enhanced_system.ttl": {
+                    "size_bytes": 3088899,
+                    "size_mb": 3.0,
+                    "triples": 66500,
+                    "description": "Lightning 주요 엔티티 보강",
+                    "created": "2025-10-22T09:39:24Z"
+                },
+                "invoice_SEPT_20251020_000829.ttl": {
+                    "size_bytes": 19902,
+                    "size_mb": 0.02,
+                    "triples": 526,
+                    "description": "인보이스 데이터 (2025-09)",
+                    "created": "2025-10-20T12:08:29Z"
+                },
+                "invoice_SEPT_20251020_002513.ttl": {
+                    "size_bytes": 18020,
+                    "size_mb": 0.02,
+                    "triples": 475,
+                    "description": "인보이스 데이터 (2025-09) - 수정",
+                    "created": "2025-10-20T12:25:13Z"
+                },
+                "sheet_9_hvdc_data.ttl": {
+                    "size_bytes": 2576,
+                    "size_mb": 0.003,
+                    "triples": 90,
+                    "description": "HVDC 시트 9 데이터",
+                    "created": "2025-10-19T08:35:00Z"
+                },
+                "sheet_10_hvdc_data.ttl": {
+                    "size_bytes": 2588,
+                    "size_mb": 0.003,
+                    "triples": 90,
+                    "description": "HVDC 시트 10 데이터",
+                    "created": "2025-10-19T08:35:00Z"
+                },
+                "sheet_12_hvdc_data.ttl": {
+                    "size_bytes": 2586,
+                    "size_mb": 0.003,
+                    "triples": 90,
+                    "description": "HVDC 시트 12 데이터",
+                    "created": "2025-10-19T08:35:00Z"
+                }
+            }
+        },
+        "statistics": {
+            "total_triples": 200000,
+            "total_entities": 3000,
+            "total_relationships": 5000,
+            "average_file_size_mb": 0.6,
+            "largest_file": "lightning_final.ttl",
+            "most_recent": "lightning_final.ttl"
+        },
+        "organization_notes": {
+            "final_files": "최종 버전 RDF 파일들 - 운영 환경에서 사용",
+            "version_files": "개발 과정의 중간 버전들 - 아카이브용",
+            "empty_files": "invoice_SEPT_20251020_000803.ttl (0 bytes) - 삭제 권장",
+            "recommendations": [
+                "빈 파일 삭제",
+                "버전 파일들을 versions/ 폴더로 이동",
+                "메타데이터 정기 업데이트"
+            ]
+        }
+    }
+}

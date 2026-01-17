@@ -1,0 +1,473 @@
+{
+  "version": "1.0",
+  "source": "WhatsApp: Abu Dhabi Logistics",
+  "generated_at": "2025-10-19T20:55:22+04:00",
+  "categories": {
+    "VESSEL": {
+      "JPTW71": {
+        "synonyms": [
+          "jpt71",
+          "jpt-71",
+          "jptw71",
+          "jptw-71",
+          "jopetwil 71",
+          "jopetwil-71",
+          "jpt 71"
+        ],
+        "regex": "\\b(?:jpt71|jpt\\-71|jptw71|jptw\\-71|jopetwil\\s+71|jopetwil\\-71|jpt\\s+71)\\b",
+        "priority": 80
+      },
+      "JPTW62": {
+        "synonyms": [
+          "jpt62",
+          "jpt-62",
+          "jptw62",
+          "jptw-62",
+          "jpt 62"
+        ],
+        "regex": "\\b(?:jpt62|jpt\\-62|jptw62|jptw\\-62|jpt\\s+62)\\b",
+        "priority": 80
+      },
+      "SEA_PIONEER": {
+        "synonyms": [
+          "sea pioneer",
+          "seapioneer",
+          "pioneer"
+        ],
+        "regex": "\\b(?:sea\\s+pioneer|seapioneer|pioneer)\\b",
+        "priority": 80
+      },
+      "THURAYA": {
+        "synonyms": [
+          "thuraya"
+        ],
+        "regex": "\\b(?:thuraya)\\b",
+        "priority": 80
+      },
+      "BUSHRA": {
+        "synonyms": [
+          "bushra"
+        ],
+        "regex": "\\b(?:bushra)\\b",
+        "priority": 80
+      },
+      "TAIBAH": {
+        "synonyms": [
+          "taibah"
+        ],
+        "regex": "\\b(?:taibah)\\b",
+        "priority": 80
+      },
+      "RAZAN": {
+        "synonyms": [
+          "razan"
+        ],
+        "regex": "\\b(?:razan)\\b",
+        "priority": 80
+      },
+      "WARDEH": {
+        "synonyms": [
+          "wardeh"
+        ],
+        "regex": "\\b(?:wardeh)\\b",
+        "priority": 80
+      },
+      "JEWAHER": {
+        "synonyms": [
+          "jewaher"
+        ],
+        "regex": "\\b(?:jewaher)\\b",
+        "priority": 80
+      },
+      "TAIYA": {
+        "synonyms": [
+          "taya",
+          "tayah",
+          "allianz taya",
+          "allianztaya"
+        ],
+        "regex": "\\b(?:taya|tayah|allianz\\s+taya|allianztaya)\\b",
+        "priority": 80
+      },
+      "LCT": {
+        "synonyms": [
+          "lct",
+          "landing craft"
+        ],
+        "regex": "\\b(?:lct|landing\\s+craft)\\b",
+        "priority": 80
+      }
+    },
+    "LOCATION": {
+      "AGI": {
+        "synonyms": [
+          "agi",
+          "al ghallan island",
+          "al ghallan"
+        ],
+        "regex": "\\b(?:agi|al\\s+ghallan\\s+island|al\\s+ghallan)\\b",
+        "priority": 80
+      },
+      "DAS": {
+        "synonyms": [
+          "das",
+          "das island"
+        ],
+        "regex": "\\b(?:das|das\\s+island)\\b",
+        "priority": 80
+      },
+      "MW4": {
+        "synonyms": [
+          "mw4"
+        ],
+        "regex": "\\b(?:mw4)\\b",
+        "priority": 80
+      },
+      "MOSB": {
+        "synonyms": [
+          "mosb",
+          "mussafah",
+          "mussafah wh",
+          "mosb yard"
+        ],
+        "regex": "\\b(?:mosb|mussafah|mussafah\\s+wh|mosb\\s+yard)\\b",
+        "priority": 80
+      },
+      "AL_JABER_BASE": {
+        "synonyms": [
+          "al jaber base",
+          "als base",
+          "aljaber base",
+          "als"
+        ],
+        "regex": "\\b(?:al\\s+jaber\\s+base|als\\s+base|aljaber\\s+base|als)\\b",
+        "priority": 80
+      },
+      "BUSKEEN": {
+        "synonyms": [
+          "buskeen",
+          "buskin"
+        ],
+        "regex": "\\b(?:buskeen|buskin)\\b",
+        "priority": 80
+      },
+      "ETTOCK": {
+        "synonyms": [
+          "ettock",
+          "ettok"
+        ],
+        "regex": "\\b(?:ettock|ettok)\\b",
+        "priority": 80
+      },
+      "UMM_AL_ANBAR": {
+        "synonyms": [
+          "umm alanbar",
+          "umm al anbar",
+          "umm al-anbar"
+        ],
+        "regex": "\\b(?:umm\\s+alanbar|umm\\s+al\\s+anbar|umm\\s+al\\-anbar)\\b",
+        "priority": 80
+      },
+      "MIRFA": {
+        "synonyms": [
+          "mirfa"
+        ],
+        "regex": "\\b(?:mirfa)\\b",
+        "priority": 80
+      },
+      "SHU": {
+        "synonyms": [
+          "shu"
+        ],
+        "regex": "\\b(?:shu)\\b",
+        "priority": 80
+      },
+      "PORT": {
+        "synonyms": [
+          "port",
+          "jetty",
+          "berth",
+          "anchorage"
+        ],
+        "regex": "\\b(?:port|jetty|berth|anchorage)\\b",
+        "priority": 80
+      }
+    },
+    "DOC_APPROVAL": {
+      "GATE_PASS": {
+        "synonyms": [
+          "gate pass",
+          "gate-pass",
+          "exit pass",
+          "entry pass",
+          "pass"
+        ],
+        "regex": "\\b(?:gate\\s+pass|gate\\-pass|exit\\s+pass|entry\\s+pass|pass)\\b",
+        "priority": 80
+      },
+      "DO": {
+        "synonyms": [
+          "delivery order",
+          "do copy",
+          "do",
+          "master do"
+        ],
+        "regex": "\\b(?:delivery\\s+order|do\\s+copy|do|master\\s+do)\\b",
+        "priority": 80
+      },
+      "BL": {
+        "synonyms": [
+          "bl",
+          "bill of lading",
+          "b/l"
+        ],
+        "regex": "\\b(?:bl|bill\\s+of\\s+lading|b/l)\\b",
+        "priority": 80
+      },
+      "MANIFEST": {
+        "synonyms": [
+          "manifest"
+        ],
+        "regex": "\\b(?:manifest)\\b",
+        "priority": 80
+      },
+      "CICPA": {
+        "synonyms": [
+          "cicpa",
+          "id pass"
+        ],
+        "regex": "\\b(?:cicpa|id\\s+pass)\\b",
+        "priority": 80
+      },
+      "WELLS": {
+        "synonyms": [
+          "wells",
+          "wells id",
+          "wells inspection",
+          "wells stamping"
+        ],
+        "regex": "\\b(?:wells|wells\\s+id|wells\\s+inspection|wells\\s+stamping)\\b",
+        "priority": 80
+      },
+      "EDAS": {
+        "synonyms": [
+          "edas",
+          "e-das",
+          "das permit"
+        ],
+        "regex": "\\b(?:edas|e\\-das|das\\s+permit)\\b",
+        "priority": 80
+      },
+      "INVOICE": {
+        "synonyms": [
+          "invoice",
+          "inv",
+          "bill",
+          "tariff"
+        ],
+        "regex": "\\b(?:invoice|inv|bill|tariff)\\b",
+        "priority": 80
+      }
+    },
+    "EQUIPMENT_OPERATION": {
+      "FORKLIFT": {
+        "synonyms": [
+          "forklift",
+          "flift",
+          "fl"
+        ],
+        "regex": "\\b(?:forklift|flift|fl)\\b",
+        "priority": 80
+      },
+      "CRANE": {
+        "synonyms": [
+          "crane",
+          "100t",
+          "250t",
+          "crawler",
+          "boom",
+          "mobile crane"
+        ],
+        "regex": "\\b(?:crane|100t|250t|crawler|boom|mobile\\s+crane)\\b",
+        "priority": 80
+      },
+      "A_FRAME": {
+        "synonyms": [
+          "a-frame",
+          "aframe",
+          "a frame"
+        ],
+        "regex": "\\b(?:a\\-frame|aframe|a\\s+frame)\\b",
+        "priority": 80
+      },
+      "SPREADER": {
+        "synonyms": [
+          "spreader",
+          "spreader bar",
+          "spreader beam"
+        ],
+        "regex": "\\b(?:spreader|spreader\\s+bar|spreader\\s+beam)\\b",
+        "priority": 80
+      },
+      "WEBBING_SLING": {
+        "synonyms": [
+          "webbing sling",
+          "sling",
+          "belt"
+        ],
+        "regex": "\\b(?:webbing\\s+sling|sling|belt)\\b",
+        "priority": 80
+      },
+      "RORO": {
+        "synonyms": [
+          "roro",
+          "ro-ro"
+        ],
+        "regex": "\\b(?:roro|ro\\-ro)\\b",
+        "priority": 80
+      },
+      "LOLO": {
+        "synonyms": [
+          "lolo",
+          "lo-lo"
+        ],
+        "regex": "\\b(?:lolo|lo\\-lo)\\b",
+        "priority": 80
+      },
+      "OFFLOADING": {
+        "synonyms": [
+          "offloading",
+          "unloading",
+          "discharging"
+        ],
+        "regex": "\\b(?:offloading|unloading|discharging)\\b",
+        "priority": 80
+      },
+      "ONLOADING": {
+        "synonyms": [
+          "loading",
+          "onloading",
+          "backloading"
+        ],
+        "regex": "\\b(?:loading|onloading|backloading)\\b",
+        "priority": 80
+      },
+      "FUEL_FW": {
+        "synonyms": [
+          "fw",
+          "fresh water",
+          "fuel",
+          "mgo",
+          "bunkering"
+        ],
+        "regex": "\\b(?:fw|fresh\\s+water|fuel|mgo|bunkering)\\b",
+        "priority": 80
+      },
+      "PORT_CABIN": {
+        "synonyms": [
+          "port cabin",
+          "cabin"
+        ],
+        "regex": "\\b(?:port\\s+cabin|cabin)\\b",
+        "priority": 80
+      }
+    },
+    "RISK_QUALITY": {
+      "DELAY": {
+        "synonyms": [
+          "delay",
+          "waiting",
+          "hold",
+          "pending",
+          "congested",
+          "traffic",
+          "anchorage"
+        ],
+        "regex": "\\b(?:delay|waiting|hold|pending|congested|traffic|anchorage)\\b",
+        "priority": 80
+      },
+      "WEATHER": {
+        "synonyms": [
+          "weather",
+          "wind",
+          "wave",
+          "swell",
+          "tide",
+          "high tide",
+          "low tide"
+        ],
+        "regex": "\\b(?:weather|wind|wave|swell|tide|high\\s+tide|low\\s+tide)\\b",
+        "priority": 80
+      },
+      "DAMAGE": {
+        "synonyms": [
+          "damage",
+          "crack",
+          "broken",
+          "leak",
+          "dent"
+        ],
+        "regex": "\\b(?:damage|crack|broken|leak|dent)\\b",
+        "priority": 80
+      },
+      "SAFETY": {
+        "synonyms": [
+          "tpi",
+          "mws",
+          "tuv",
+          "inspection",
+          "permit"
+        ],
+        "regex": "\\b(?:tpi|mws|tuv|inspection|permit)\\b",
+        "priority": 80
+      }
+    },
+    "STATUS_ACTION": {
+      "ARRIVAL": {
+        "synonyms": [
+          "arrive",
+          "arrived",
+          "eta",
+          "etd",
+          "notice of readiness",
+          "nor"
+        ],
+        "regex": "\\b(?:arrive|arrived|eta|etd|notice\\s+of\\s+readiness|nor)\\b",
+        "priority": 80
+      },
+      "DEPARTURE": {
+        "synonyms": [
+          "depart",
+          "sailed",
+          "etd",
+          "cast off"
+        ],
+        "regex": "\\b(?:depart|sailed|etd|cast\\s+off)\\b",
+        "priority": 80
+      },
+      "READY": {
+        "synonyms": [
+          "ready",
+          "standby",
+          "clearance granted",
+          "permit issued"
+        ],
+        "regex": "\\b(?:ready|standby|clearance\\s+granted|permit\\s+issued)\\b",
+        "priority": 80
+      },
+      "COST": {
+        "synonyms": [
+          "cost",
+          "tariff",
+          "otp",
+          "payment",
+          "invoice",
+          "charges",
+          "fee"
+        ],
+        "regex": "\\b(?:cost|tariff|otp|payment|invoice|charges|fee)\\b",
+        "priority": 80
+      }
+    }
+  }
+}

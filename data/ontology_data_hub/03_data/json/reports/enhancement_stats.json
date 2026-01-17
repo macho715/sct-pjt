@@ -1,0 +1,46 @@
+{
+  "original_triples": 66710,
+  "enhanced_triples": 67165,
+  "new_triples": 455,
+  "csv_stats": {
+    "Document": {
+      "unique": 22,
+      "total_mentions": 1654
+    },
+    "Equipment": {
+      "unique": 23,
+      "total_mentions": 1076
+    },
+    "Operation": {
+      "unique": 34,
+      "total_mentions": 4552
+    },
+    "Quantity": {
+      "unique": 135,
+      "total_mentions": 283
+    },
+    "Reference": {
+      "unique": 56,
+      "total_mentions": 67
+    },
+    "Site": {
+      "unique": 22,
+      "total_mentions": 6862
+    },
+    "TimeTag": {
+      "unique": 9,
+      "total_mentions": 1896
+    },
+    "Vessel": {
+      "unique": 30,
+      "total_mentions": 3242
+    }
+  },
+  "added_counts": {
+    "Operation": 34,
+    "Site": 22,
+    "Vessel": 30
+  },
+  "relationships_added": 120,
+  "enhancement_date": "2025-10-22T21:39:24.118852"
+}

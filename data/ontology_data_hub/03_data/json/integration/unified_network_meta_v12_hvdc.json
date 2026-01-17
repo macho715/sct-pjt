@@ -1,0 +1,67 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "Community 0",
+      "type": "community",
+      "community_id": 0,
+      "color": "#60a5fa",
+      "id": "comm:0"
+    },
+    {
+      "label": "Community 1",
+      "type": "community",
+      "community_id": 1,
+      "color": "#10b981",
+      "id": "comm:1"
+    },
+    {
+      "label": "Community 2",
+      "type": "community",
+      "community_id": 2,
+      "color": "#f59e0b",
+      "id": "comm:2"
+    },
+    {
+      "label": "Community 3",
+      "type": "community",
+      "community_id": 3,
+      "color": "#a855f7",
+      "id": "comm:3"
+    }
+  ],
+  "links": [
+    {
+      "weight": 2.0,
+      "rel": "community-bridge",
+      "source": "comm:0",
+      "target": "comm:1"
+    },
+    {
+      "weight": 9.7,
+      "rel": "community-bridge",
+      "source": "comm:0",
+      "target": "comm:3"
+    },
+    {
+      "weight": 14.9,
+      "rel": "community-bridge",
+      "source": "comm:0",
+      "target": "comm:2"
+    },
+    {
+      "weight": 2.0,
+      "rel": "community-bridge",
+      "source": "comm:1",
+      "target": "comm:2"
+    },
+    {
+      "weight": 7.9,
+      "rel": "community-bridge",
+      "source": "comm:2",
+      "target": "comm:3"
+    }
+  ]
+}

@@ -1,0 +1,1662 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "name": "UNIFIED_LOGISTICS_NETWORK_v12_HVDC"
+  },
+  "nodes": [
+    {
+      "type": "root",
+      "ontology_class": "Project",
+      "label": "HVDC Project",
+      "level": 0,
+      "color": "#ff0000",
+      "community_id": 1,
+      "id": "HVDC_Project"
+    },
+    {
+      "type": "system",
+      "ontology_class": "System",
+      "label": "JPT71 System",
+      "level": 1,
+      "color": "#ff6b6b",
+      "community_id": 0,
+      "id": "JPT71_System"
+    },
+    {
+      "type": "system",
+      "ontology_class": "System",
+      "label": "ABU System",
+      "level": 1,
+      "color": "#51cf66",
+      "community_id": 1,
+      "id": "ABU_System"
+    },
+    {
+      "type": "system",
+      "ontology_class": "System",
+      "label": "HVDC Infrastructure",
+      "level": 1,
+      "color": "#339af0",
+      "community_id": 2,
+      "id": "HVDC_Infrastructure"
+    },
+    {
+      "type": "port",
+      "ontology_class": "Location",
+      "label": "Zayed Port",
+      "description": "중량/벌크 화물 처리항",
+      "customs_code": "ADNOC 47150",
+      "level": 2,
+      "color": "#4ecdc4",
+      "community_id": 2,
+      "id": "ZAYED_PORT"
+    },
+    {
+      "type": "port",
+      "ontology_class": "Location",
+      "label": "Khalifa Port",
+      "description": "컨테이너 전용",
+      "customs_code": "",
+      "level": 2,
+      "color": "#4ecdc4",
+      "community_id": 2,
+      "id": "KHALIFA_PORT"
+    },
+    {
+      "type": "port",
+      "ontology_class": "Location",
+      "label": "Jebel Ali Port",
+      "description": "Free Zone",
+      "customs_code": "ADOPT",
+      "level": 2,
+      "color": "#4ecdc4",
+      "community_id": 2,
+      "id": "JEBEL_ALI_PORT"
+    },
+    {
+      "type": "hub",
+      "ontology_class": "Location",
+      "label": "MOSB (Mussafah Offshore Supply Base)",
+      "description": "중앙 물류 허브",
+      "operator": "ADNOC L&S",
+      "area_sqm": 20000,
+      "sct_team": "SCT 물류본부 상주",
+      "level": 2,
+      "color": "#ffd43b",
+      "community_id": 2,
+      "id": "MOSB"
+    },
+    {
+      "type": "site",
+      "ontology_class": "Location",
+      "label": "Mirfa Site",
+      "site_type": "onshore",
+      "laydown_area_sqm": 35000,
+      "level": 2,
+      "color": "#99e9f2",
+      "community_id": 2,
+      "id": "MIR"
+    },
+    {
+      "type": "site",
+      "ontology_class": "Location",
+      "label": "Shuweihat Site",
+      "site_type": "onshore",
+      "laydown_area_sqm": 10500,
+      "level": 2,
+      "color": "#99e9f2",
+      "community_id": 2,
+      "id": "SHU"
+    },
+    {
+      "type": "site",
+      "ontology_class": "Location",
+      "label": "Das Island",
+      "site_type": "offshore",
+      "voyage_from_mosb_hours": 20,
+      "level": 2,
+      "color": "#74c0fc",
+      "community_id": 2,
+      "id": "DAS"
+    },
+    {
+      "type": "site",
+      "ontology_class": "Location",
+      "label": "Al Ghallan Island",
+      "site_type": "offshore",
+      "voyage_from_mosb_hours": 10,
+      "level": 2,
+      "color": "#74c0fc",
+      "community_id": 2,
+      "id": "AGI"
+    },
+    {
+      "type": "party",
+      "ontology_class": "Party",
+      "label": "SCT 물류본부",
+      "organization": "Samsung C&T",
+      "location": "MOSB",
+      "level": 3,
+      "color": "#ff6b6b",
+      "community_id": 2,
+      "id": "SCT_Logistics_Team"
+    },
+    {
+      "type": "party",
+      "ontology_class": "Party",
+      "label": "ADNOC Logistics & Services",
+      "organization": "ADNOC",
+      "level": 3,
+      "color": "#51cf66",
+      "community_id": 2,
+      "id": "ADNOC_LS"
+    },
+    {
+      "type": "vessel",
+      "ontology_class": "Asset",
+      "label": "JPT71",
+      "level": 3,
+      "color": "#e03131",
+      "community_id": 3,
+      "id": "vessel:JPT71"
+    },
+    {
+      "type": "vessel",
+      "ontology_class": "Asset",
+      "label": "YEAM",
+      "level": 3,
+      "color": "#e03131",
+      "community_id": 2,
+      "id": "vessel:YEAM"
+    },
+    {
+      "type": "vessel",
+      "ontology_class": "Asset",
+      "label": "TAIBAH",
+      "level": 3,
+      "color": "#e03131",
+      "community_id": 2,
+      "id": "vessel:TAIBAH"
+    },
+    {
+      "type": "vessel",
+      "ontology_class": "Asset",
+      "label": "JPT62",
+      "level": 3,
+      "color": "#e03131",
+      "community_id": 2,
+      "id": "vessel:JPT62"
+    },
+    {
+      "type": "vessel",
+      "ontology_class": "Asset",
+      "label": "Buahra",
+      "level": 3,
+      "color": "#e03131",
+      "community_id": 2,
+      "id": "vessel:Buahra"
+    },
+    {
+      "type": "vessel",
+      "ontology_class": "Asset",
+      "label": "THURAYA",
+      "level": 3,
+      "color": "#e03131",
+      "community_id": 0,
+      "id": "vessel:THURAYA"
+    },
+    {
+      "type": "vessel",
+      "ontology_class": "Asset",
+      "label": "Tamarah",
+      "level": 3,
+      "color": "#e03131",
+      "community_id": 2,
+      "id": "vessel:Tamarah"
+    },
+    {
+      "type": "person",
+      "ontology_class": "Party",
+      "label": "Logistics Driver 1",
+      "level": 3,
+      "color": "#fd7e14",
+      "community_id": 0,
+      "id": "person:Logistics Driver 1"
+    },
+    {
+      "type": "person",
+      "ontology_class": "Party",
+      "label": "Friday D 13th",
+      "level": 3,
+      "color": "#fd7e14",
+      "community_id": 0,
+      "id": "person:Friday D 13th"
+    },
+    {
+      "type": "person",
+      "ontology_class": "Party",
+      "label": "국일 Kim",
+      "level": 3,
+      "color": "#fd7e14",
+      "community_id": 0,
+      "id": "person:국일 Kim"
+    },
+    {
+      "type": "person",
+      "ontology_class": "Party",
+      "label": "DaN",
+      "level": 3,
+      "color": "#fd7e14",
+      "community_id": 0,
+      "id": "person:DaN"
+    },
+    {
+      "type": "person",
+      "ontology_class": "Party",
+      "label": "Haitham",
+      "level": 3,
+      "color": "#fd7e14",
+      "community_id": 3,
+      "id": "person:Haitham"
+    },
+    {
+      "type": "person",
+      "ontology_class": "Party",
+      "label": "ronpap20",
+      "level": 3,
+      "color": "#fd7e14",
+      "community_id": 0,
+      "id": "person:ronpap20"
+    },
+    {
+      "type": "person",
+      "ontology_class": "Party",
+      "label": "kEn 🏄🏻🌊",
+      "level": 3,
+      "color": "#fd7e14",
+      "community_id": 0,
+      "id": "person:kEn 🏄🏻🌊"
+    },
+    {
+      "type": "person",
+      "ontology_class": "Party",
+      "label": "Thusar",
+      "level": 3,
+      "color": "#fd7e14",
+      "community_id": 0,
+      "id": "person:Thusar"
+    },
+    {
+      "type": "person",
+      "ontology_class": "Party",
+      "label": "상욱",
+      "level": 3,
+      "color": "#fd7e14",
+      "community_id": 0,
+      "id": "person:상욱"
+    },
+    {
+      "type": "person",
+      "ontology_class": "Party",
+      "label": "Jhysn",
+      "level": 3,
+      "color": "#fd7e14",
+      "community_id": 0,
+      "id": "person:Jhysn"
+    },
+    {
+      "type": "person",
+      "ontology_class": "Party",
+      "label": "Shariff",
+      "level": 3,
+      "color": "#fd7e14",
+      "community_id": 3,
+      "id": "person:Shariff"
+    },
+    {
+      "type": "person",
+      "ontology_class": "Party",
+      "label": "Karthi",
+      "level": 3,
+      "color": "#fd7e14",
+      "community_id": 0,
+      "id": "person:Karthi"
+    },
+    {
+      "type": "port",
+      "ontology_class": "Location",
+      "label": "DAS",
+      "level": 3,
+      "color": "#4ecdc4",
+      "community_id": 0,
+      "id": "port:DAS"
+    },
+    {
+      "type": "port",
+      "ontology_class": "Location",
+      "label": "MOSB",
+      "level": 3,
+      "color": "#4ecdc4",
+      "community_id": 0,
+      "id": "port:MOSB"
+    },
+    {
+      "type": "port",
+      "ontology_class": "Location",
+      "label": "al jaber",
+      "level": 3,
+      "color": "#4ecdc4",
+      "community_id": 0,
+      "id": "port:al jaber"
+    },
+    {
+      "type": "port",
+      "ontology_class": "Location",
+      "label": "AGI",
+      "level": 3,
+      "color": "#4ecdc4",
+      "community_id": 0,
+      "id": "port:AGI"
+    },
+    {
+      "type": "port",
+      "ontology_class": "Location",
+      "label": "MW4",
+      "level": 3,
+      "color": "#4ecdc4",
+      "community_id": 0,
+      "id": "port:MW4"
+    },
+    {
+      "type": "port",
+      "ontology_class": "Location",
+      "label": "Umm ALanbar",
+      "level": 3,
+      "color": "#4ecdc4",
+      "community_id": 0,
+      "id": "port:Umm ALanbar"
+    },
+    {
+      "type": "port",
+      "ontology_class": "Location",
+      "label": "Musaffah",
+      "level": 3,
+      "color": "#4ecdc4",
+      "community_id": 0,
+      "id": "port:Musaffah"
+    },
+    {
+      "type": "port",
+      "ontology_class": "Location",
+      "label": "Al Jaber",
+      "level": 3,
+      "color": "#4ecdc4",
+      "community_id": 0,
+      "id": "port:Al Jaber"
+    },
+    {
+      "type": "operation",
+      "ontology_class": "Process",
+      "label": "Delivery by Shariff on JPT71",
+      "level": 3,
+      "color": "#20c997",
+      "criticality": "HIGH",
+      "dependency_depth": 11,
+      "inferred": true,
+      "community_id": 3,
+      "id": "operation:delivery_Shariff_JPT71"
+    },
+    {
+      "type": "operation",
+      "ontology_class": "Process",
+      "label": "Delivery by Shariff on THURAYA",
+      "level": 3,
+      "color": "#20c997",
+      "criticality": "HIGH",
+      "dependency_depth": 11,
+      "inferred": true,
+      "community_id": 3,
+      "id": "operation:delivery_Shariff_THURAYA"
+    },
+    {
+      "type": "operation",
+      "ontology_class": "Process",
+      "label": "Delivery by Haitham on Tamarah",
+      "level": 3,
+      "color": "#20c997",
+      "criticality": "HIGH",
+      "dependency_depth": 13,
+      "inferred": true,
+      "community_id": 3,
+      "id": "operation:delivery_Haitham_Tamarah"
+    },
+    {
+      "type": "operation",
+      "ontology_class": "Process",
+      "label": "Delivery by Haitham on JPT71",
+      "level": 3,
+      "color": "#20c997",
+      "criticality": "HIGH",
+      "dependency_depth": 13,
+      "inferred": true,
+      "community_id": 3,
+      "id": "operation:delivery_Haitham_JPT71"
+    },
+    {
+      "type": "operation",
+      "ontology_class": "Process",
+      "label": "Delivery by 상욱 on JPT71",
+      "level": 3,
+      "color": "#20c997",
+      "criticality": "HIGH",
+      "dependency_depth": 9,
+      "inferred": true,
+      "community_id": 0,
+      "id": "operation:delivery_상욱_JPT71"
+    },
+    {
+      "type": "operation",
+      "ontology_class": "Process",
+      "label": "Delivery by 상욱 on THURAYA",
+      "level": 3,
+      "color": "#20c997",
+      "criticality": "HIGH",
+      "dependency_depth": 9,
+      "inferred": true,
+      "community_id": 0,
+      "id": "operation:delivery_상욱_THURAYA"
+    },
+    {
+      "type": "operation",
+      "ontology_class": "Process",
+      "label": "Delivery by ronpap20 on THURAYA",
+      "level": 3,
+      "color": "#20c997",
+      "criticality": "HIGH",
+      "dependency_depth": 5,
+      "inferred": true,
+      "community_id": 0,
+      "id": "operation:delivery_ronpap20_THURAYA"
+    },
+    {
+      "type": "operation",
+      "ontology_class": "Process",
+      "label": "Delivery by ronpap20 on JPT62",
+      "level": 3,
+      "color": "#20c997",
+      "criticality": "HIGH",
+      "dependency_depth": 5,
+      "inferred": true,
+      "community_id": 0,
+      "id": "operation:delivery_ronpap20_JPT62"
+    },
+    {
+      "type": "operation",
+      "ontology_class": "Process",
+      "label": "Delivery by Jhysn on THURAYA",
+      "level": 3,
+      "color": "#20c997",
+      "criticality": "HIGH",
+      "dependency_depth": 3,
+      "inferred": true,
+      "community_id": 0,
+      "id": "operation:delivery_Jhysn_THURAYA"
+    }
+  ],
+  "links": [
+    {
+      "rel": "belongs_to",
+      "weight": 2.0,
+      "source": "HVDC_Project",
+      "target": "JPT71_System"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 2.0,
+      "source": "HVDC_Project",
+      "target": "ABU_System"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 2.0,
+      "source": "HVDC_Project",
+      "target": "HVDC_Infrastructure"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "vessel:JPT71"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "vessel:YEAM"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "vessel:TAIBAH"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "vessel:JPT62"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "vessel:Buahra"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "vessel:THURAYA"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "person:Logistics Driver 1"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "person:Friday D 13th"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "person:국일 Kim"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "person:DaN"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "person:ronpap20"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "person:kEn 🏄🏻🌊"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "person:Thusar"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "person:상욱"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "person:Jhysn"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "person:Shariff"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "person:Karthi"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "port:DAS"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "port:MOSB"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "port:al jaber"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "port:AGI"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "port:MW4"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "port:Umm ALanbar"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "port:Musaffah"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "port:Al Jaber"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "operation:delivery_Shariff_JPT71"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "operation:delivery_Shariff_THURAYA"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "operation:delivery_Haitham_Tamarah"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "operation:delivery_Haitham_JPT71"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "operation:delivery_상욱_JPT71"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "operation:delivery_상욱_THURAYA"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "operation:delivery_ronpap20_THURAYA"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "operation:delivery_ronpap20_JPT62"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.0,
+      "source": "JPT71_System",
+      "target": "operation:delivery_Jhysn_THURAYA"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.5,
+      "source": "HVDC_Infrastructure",
+      "target": "ZAYED_PORT"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.5,
+      "source": "HVDC_Infrastructure",
+      "target": "KHALIFA_PORT"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.5,
+      "source": "HVDC_Infrastructure",
+      "target": "JEBEL_ALI_PORT"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.5,
+      "source": "HVDC_Infrastructure",
+      "target": "MOSB"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.5,
+      "source": "HVDC_Infrastructure",
+      "target": "MIR"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.5,
+      "source": "HVDC_Infrastructure",
+      "target": "SHU"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.5,
+      "source": "HVDC_Infrastructure",
+      "target": "DAS"
+    },
+    {
+      "rel": "belongs_to",
+      "weight": 1.5,
+      "source": "HVDC_Infrastructure",
+      "target": "AGI"
+    },
+    {
+      "rel": "feeds_into",
+      "weight": 1.0,
+      "source": "ZAYED_PORT",
+      "target": "MOSB"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "ZAYED_PORT",
+      "target": "vessel:JPT71"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "ZAYED_PORT",
+      "target": "vessel:YEAM"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "ZAYED_PORT",
+      "target": "vessel:TAIBAH"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "ZAYED_PORT",
+      "target": "vessel:JPT62"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "ZAYED_PORT",
+      "target": "vessel:Buahra"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "ZAYED_PORT",
+      "target": "vessel:THURAYA"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "ZAYED_PORT",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "feeds_into",
+      "weight": 1.0,
+      "source": "KHALIFA_PORT",
+      "target": "MOSB"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "KHALIFA_PORT",
+      "target": "vessel:JPT71"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "KHALIFA_PORT",
+      "target": "vessel:YEAM"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "KHALIFA_PORT",
+      "target": "vessel:TAIBAH"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "KHALIFA_PORT",
+      "target": "vessel:JPT62"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "KHALIFA_PORT",
+      "target": "vessel:Buahra"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "KHALIFA_PORT",
+      "target": "vessel:THURAYA"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "KHALIFA_PORT",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "feeds_into",
+      "weight": 1.0,
+      "source": "JEBEL_ALI_PORT",
+      "target": "MOSB"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "JEBEL_ALI_PORT",
+      "target": "vessel:JPT71"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "JEBEL_ALI_PORT",
+      "target": "vessel:YEAM"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "JEBEL_ALI_PORT",
+      "target": "vessel:TAIBAH"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "JEBEL_ALI_PORT",
+      "target": "vessel:JPT62"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "JEBEL_ALI_PORT",
+      "target": "vessel:Buahra"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "JEBEL_ALI_PORT",
+      "target": "vessel:THURAYA"
+    },
+    {
+      "rel": "flows_through",
+      "weight": 0.4,
+      "inferred": true,
+      "source": "JEBEL_ALI_PORT",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "dispatches",
+      "weight": 1.0,
+      "source": "MOSB",
+      "target": "MIR"
+    },
+    {
+      "rel": "dispatches",
+      "weight": 1.0,
+      "source": "MOSB",
+      "target": "SHU"
+    },
+    {
+      "rel": "dispatches",
+      "weight": 1.0,
+      "source": "MOSB",
+      "target": "DAS"
+    },
+    {
+      "rel": "dispatches",
+      "weight": 1.0,
+      "source": "MOSB",
+      "target": "AGI"
+    },
+    {
+      "rel": "hosts",
+      "weight": 1.0,
+      "source": "MOSB",
+      "target": "SCT_Logistics_Team"
+    },
+    {
+      "rel": "governed_by",
+      "weight": 1.0,
+      "source": "MOSB",
+      "target": "ADNOC_LS"
+    },
+    {
+      "rel": "operates_from",
+      "weight": 0.5,
+      "source": "MOSB",
+      "target": "vessel:JPT71"
+    },
+    {
+      "rel": "operates_from",
+      "weight": 0.5,
+      "source": "MOSB",
+      "target": "vessel:YEAM"
+    },
+    {
+      "rel": "operates_from",
+      "weight": 0.5,
+      "source": "MOSB",
+      "target": "vessel:TAIBAH"
+    },
+    {
+      "rel": "operates_from",
+      "weight": 0.5,
+      "source": "MOSB",
+      "target": "vessel:JPT62"
+    },
+    {
+      "rel": "operates_from",
+      "weight": 0.5,
+      "source": "MOSB",
+      "target": "vessel:Buahra"
+    },
+    {
+      "rel": "operates_from",
+      "weight": 0.5,
+      "source": "MOSB",
+      "target": "vessel:THURAYA"
+    },
+    {
+      "rel": "operates_from",
+      "weight": 0.5,
+      "source": "MOSB",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "same_as",
+      "weight": 1.0,
+      "source": "MOSB",
+      "target": "port:MOSB"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "MIR",
+      "target": "vessel:JPT71"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "MIR",
+      "target": "vessel:YEAM"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "MIR",
+      "target": "vessel:TAIBAH"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "MIR",
+      "target": "vessel:JPT62"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "MIR",
+      "target": "vessel:Buahra"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "MIR",
+      "target": "vessel:THURAYA"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "MIR",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "SHU",
+      "target": "vessel:JPT71"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "SHU",
+      "target": "vessel:YEAM"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "SHU",
+      "target": "vessel:TAIBAH"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "SHU",
+      "target": "vessel:JPT62"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "SHU",
+      "target": "vessel:Buahra"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "SHU",
+      "target": "vessel:THURAYA"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "SHU",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "connected_to",
+      "weight": 0.5,
+      "source": "DAS",
+      "target": "AGI"
+    },
+    {
+      "rel": "same_as",
+      "weight": 1.0,
+      "source": "DAS",
+      "target": "port:DAS"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "DAS",
+      "target": "vessel:JPT71"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "DAS",
+      "target": "vessel:YEAM"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "DAS",
+      "target": "vessel:TAIBAH"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "DAS",
+      "target": "vessel:JPT62"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "DAS",
+      "target": "vessel:Buahra"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "DAS",
+      "target": "vessel:THURAYA"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "DAS",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "same_as",
+      "weight": 1.0,
+      "source": "AGI",
+      "target": "port:AGI"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "AGI",
+      "target": "vessel:JPT71"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "AGI",
+      "target": "vessel:YEAM"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "AGI",
+      "target": "vessel:TAIBAH"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "AGI",
+      "target": "vessel:JPT62"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "AGI",
+      "target": "vessel:Buahra"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "AGI",
+      "target": "vessel:THURAYA"
+    },
+    {
+      "rel": "indirectly_serves",
+      "weight": 0.3,
+      "inferred": true,
+      "source": "AGI",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:JPT71",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:JPT71",
+      "target": "person:상욱"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:JPT71",
+      "target": "person:Shariff"
+    },
+    {
+      "rel": "uses",
+      "weight": 0.5,
+      "source": "vessel:JPT71",
+      "target": "operation:delivery_Shariff_JPT71"
+    },
+    {
+      "rel": "uses",
+      "weight": 0.5,
+      "source": "vessel:JPT71",
+      "target": "operation:delivery_Haitham_JPT71"
+    },
+    {
+      "rel": "uses",
+      "weight": 0.5,
+      "source": "vessel:JPT71",
+      "target": "operation:delivery_상욱_JPT71"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:JPT71",
+      "target": "vessel:YEAM"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:JPT71",
+      "target": "vessel:TAIBAH"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:JPT71",
+      "target": "vessel:JPT62"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:JPT71",
+      "target": "vessel:Buahra"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:JPT71",
+      "target": "vessel:THURAYA"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:JPT71",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:YEAM",
+      "target": "person:Logistics Driver 1"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:YEAM",
+      "target": "person:국일 Kim"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:YEAM",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:YEAM",
+      "target": "person:상욱"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:YEAM",
+      "target": "person:Shariff"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:YEAM",
+      "target": "vessel:TAIBAH"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:YEAM",
+      "target": "vessel:JPT62"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:YEAM",
+      "target": "vessel:Buahra"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:YEAM",
+      "target": "vessel:THURAYA"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:YEAM",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:TAIBAH",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:TAIBAH",
+      "target": "vessel:JPT62"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:TAIBAH",
+      "target": "vessel:Buahra"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:TAIBAH",
+      "target": "vessel:THURAYA"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:TAIBAH",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:JPT62",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:JPT62",
+      "target": "person:ronpap20"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:JPT62",
+      "target": "person:상욱"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:JPT62",
+      "target": "person:Shariff"
+    },
+    {
+      "rel": "uses",
+      "weight": 0.5,
+      "source": "vessel:JPT62",
+      "target": "operation:delivery_ronpap20_JPT62"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:JPT62",
+      "target": "vessel:Buahra"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:JPT62",
+      "target": "vessel:THURAYA"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:JPT62",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:Buahra",
+      "target": "person:Shariff"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:Buahra",
+      "target": "vessel:THURAYA"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:Buahra",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:THURAYA",
+      "target": "person:국일 Kim"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:THURAYA",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:THURAYA",
+      "target": "person:ronpap20"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:THURAYA",
+      "target": "person:Thusar"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:THURAYA",
+      "target": "person:상욱"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:THURAYA",
+      "target": "person:Jhysn"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:THURAYA",
+      "target": "person:Shariff"
+    },
+    {
+      "rel": "uses",
+      "weight": 0.5,
+      "source": "vessel:THURAYA",
+      "target": "operation:delivery_Shariff_THURAYA"
+    },
+    {
+      "rel": "uses",
+      "weight": 0.5,
+      "source": "vessel:THURAYA",
+      "target": "operation:delivery_상욱_THURAYA"
+    },
+    {
+      "rel": "uses",
+      "weight": 0.5,
+      "source": "vessel:THURAYA",
+      "target": "operation:delivery_ronpap20_THURAYA"
+    },
+    {
+      "rel": "uses",
+      "weight": 0.5,
+      "source": "vessel:THURAYA",
+      "target": "operation:delivery_Jhysn_THURAYA"
+    },
+    {
+      "rel": "co_located_with",
+      "weight": 0.2,
+      "inferred": true,
+      "location": "MOSB",
+      "source": "vessel:THURAYA",
+      "target": "vessel:Tamarah"
+    },
+    {
+      "rel": "operates",
+      "weight": 0.5,
+      "source": "vessel:Tamarah",
+      "target": "person:Haitham"
+    },
+    {
+      "rel": "uses",
+      "weight": 0.5,
+      "source": "vessel:Tamarah",
+      "target": "operation:delivery_Haitham_Tamarah"
+    },
+    {
+      "rel": "performed",
+      "weight": 0.5,
+      "source": "person:Haitham",
+      "target": "operation:delivery_Haitham_Tamarah"
+    },
+    {
+      "rel": "performed",
+      "weight": 0.5,
+      "source": "person:Haitham",
+      "target": "operation:delivery_Haitham_JPT71"
+    },
+    {
+      "rel": "performed",
+      "weight": 0.5,
+      "source": "person:ronpap20",
+      "target": "operation:delivery_ronpap20_THURAYA"
+    },
+    {
+      "rel": "performed",
+      "weight": 0.5,
+      "source": "person:ronpap20",
+      "target": "operation:delivery_ronpap20_JPT62"
+    },
+    {
+      "rel": "performed",
+      "weight": 0.5,
+      "source": "person:상욱",
+      "target": "operation:delivery_상욱_JPT71"
+    },
+    {
+      "rel": "performed",
+      "weight": 0.5,
+      "source": "person:상욱",
+      "target": "operation:delivery_상욱_THURAYA"
+    },
+    {
+      "rel": "performed",
+      "weight": 0.5,
+      "source": "person:Jhysn",
+      "target": "operation:delivery_Jhysn_THURAYA"
+    },
+    {
+      "rel": "performed",
+      "weight": 0.5,
+      "source": "person:Shariff",
+      "target": "operation:delivery_Shariff_JPT71"
+    },
+    {
+      "rel": "performed",
+      "weight": 0.5,
+      "source": "person:Shariff",
+      "target": "operation:delivery_Shariff_THURAYA"
+    }
+  ]
+}

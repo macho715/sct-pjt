@@ -1,0 +1,100 @@
+{
+  "abu_stats": {
+    "total_triples": 17099,
+    "vessels": 5,
+    "persons": 7,
+    "locations": 3,
+    "operations": 0,
+    "messages": 570,
+    "images": 282,
+    "operation_types": {},
+    "top_persons": {},
+    "top_vessels": {},
+    "top_locations": {}
+  },
+  "lightning_stats": {
+    "total_triples": 0,
+    "vessels": 33,
+    "persons": 495,
+    "locations": 23,
+    "operations": 697,
+    "messages": 2075,
+    "images": 0,
+    "operation_types": {},
+    "top_persons": {},
+    "top_vessels": {},
+    "top_locations": {}
+  },
+  "message_patterns": {
+    "message_volume": {
+      "abu": 570,
+      "lightning": 2075,
+      "ratio": 0.27
+    },
+    "avg_messages_per_vessel": {
+      "abu": 114.0,
+      "lightning": 62.9
+    },
+    "avg_operations_per_vessel": {
+      "abu": 0.0,
+      "lightning": 21.1
+    }
+  },
+  "person_roles": {
+    "total_persons": {
+      "abu": 7,
+      "lightning": 495
+    },
+    "avg_vessels_per_person": {
+      "abu": 0,
+      "lightning": 0
+    },
+    "top_contributors": {
+      "abu": {},
+      "lightning": {}
+    }
+  },
+  "operation_types": {
+    "total_operations": {
+      "abu": 0,
+      "lightning": 697
+    },
+    "operation_distribution": {
+      "abu": {},
+      "lightning": {}
+    },
+    "common_operations": [],
+    "abu_unique_operations": [],
+    "lightning_unique_operations": []
+  },
+  "efficiency_metrics": {
+    "data_density": {
+      "abu": 30.0,
+      "lightning": 0.0
+    },
+    "extraction_rate": {
+      "abu": 2.63,
+      "lightning": 60.14
+    },
+    "image_integration": {
+      "abu": 282,
+      "lightning": 0,
+      "abu_per_message": 494.74,
+      "lightning_per_message": 0.0
+    }
+  },
+  "csv_validation": {
+    "total_mentions": 19632,
+    "categories": {
+      "Document": 22,
+      "Equipment": 23,
+      "Operation": 34,
+      "Quantity": 135,
+      "Reference": 56,
+      "Site": 22,
+      "TimeTag": 9,
+      "Vessel": 30
+    }
+  },
+  "generated_at": "2025-10-22T21:26:47.048689"
+}

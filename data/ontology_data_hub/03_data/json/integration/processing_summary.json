@@ -1,0 +1,317 @@
+{
+  "timestamp": "2025-10-19T20:35:09.184642",
+  "input_file": "HVDC_입고로직_종합리포트_20251019_165153_v3.0-corrected.xlsx",
+  "analysis": {
+    "sheet_1": {
+      "name": "창고_월별_입출고",
+      "rows": 31,
+      "columns": 24,
+      "missing_values": 0,
+      "missing_percentage": 0.0,
+      "hvdc_columns": [],
+      "sample_columns": [
+        "Unnamed: 0",
+        "입고월",
+        "입고_DHL Warehouse",
+        "입고_DSV Indoor",
+        "입고_DSV Al Markaz"
+      ],
+      "data_types": {
+        "int64": 23,
+        "object": 1
+      }
+    },
+    "sheet_2": {
+      "name": "현장_월별_입고재고",
+      "rows": 33,
+      "columns": 10,
+      "missing_values": 11,
+      "missing_percentage": 3.3333333333333335,
+      "hvdc_columns": [],
+      "sample_columns": [
+        "Type",
+        "입고월",
+        "입고",
+        "Unnamed: 3",
+        "Unnamed: 4"
+      ],
+      "data_types": {
+        "object": 10
+      }
+    },
+    "sheet_3": {
+      "name": "Flow_Code_분석",
+      "rows": 5,
+      "columns": 3,
+      "missing_values": 0,
+      "missing_percentage": 0.0,
+      "hvdc_columns": [],
+      "sample_columns": [
+        "FLOW_CODE",
+        "FLOW_DESCRIPTION",
+        "Count"
+      ],
+      "data_types": {
+        "int64": 2,
+        "object": 1
+      }
+    },
+    "sheet_4": {
+      "name": "전체_트랜잭션_요약",
+      "rows": 7,
+      "columns": 4,
+      "missing_values": 0,
+      "missing_percentage": 0.0,
+      "hvdc_columns": [],
+      "sample_columns": [
+        "Category",
+        "Item",
+        "Value",
+        "Percentage"
+      ],
+      "data_types": {
+        "object": 4
+      }
+    },
+    "sheet_5": {
+      "name": "KPI_검증_결과",
+      "rows": 3,
+      "columns": 4,
+      "missing_values": 0,
+      "missing_percentage": 0.0,
+      "hvdc_columns": [],
+      "sample_columns": [
+        "KPI",
+        "Status",
+        "Value",
+        "Threshold"
+      ],
+      "data_types": {
+        "object": 4
+      }
+    },
+    "sheet_6": {
+      "name": "SQM_누적재고",
+      "rows": 230,
+      "columns": 8,
+      "missing_values": 0,
+      "missing_percentage": 0.0,
+      "hvdc_columns": [],
+      "sample_columns": [
+        "Year_Month",
+        "Warehouse",
+        "Inbound_SQM",
+        "Outbound_SQM",
+        "Net_Change_SQM"
+      ],
+      "data_types": {
+        "float64": 5,
+        "object": 2,
+        "int64": 1
+      }
+    },
+    "sheet_7": {
+      "name": "SQM_Invoice과금",
+      "rows": 363,
+      "columns": 8,
+      "missing_values": 0,
+      "missing_percentage": 0.0,
+      "hvdc_columns": [],
+      "sample_columns": [
+        "Year_Month",
+        "Warehouse",
+        "Billing_Mode",
+        "Avg_SQM",
+        "Rate_AED_per_SQM"
+      ],
+      "data_types": {
+        "object": 4,
+        "float64": 3,
+        "int64": 1
+      }
+    },
+    "sheet_8": {
+      "name": "SQM_피벗테이블",
+      "rows": 23,
+      "columns": 41,
+      "missing_values": 0,
+      "missing_percentage": 0.0,
+      "hvdc_columns": [],
+      "sample_columns": [
+        "Year_Month",
+        "DHL Warehouse_Inbound_SQM",
+        "DHL Warehouse_Outbound_SQM",
+        "DHL Warehouse_Cumulative_SQM",
+        "DHL Warehouse_Util_%"
+      ],
+      "data_types": {
+        "float64": 31,
+        "int64": 9,
+        "object": 1
+      }
+    },
+    "sheet_9": {
+      "name": "원본_데이터_샘플",
+      "rows": 1000,
+      "columns": 69,
+      "missing_values": 17744,
+      "missing_percentage": 25.715942028985506,
+      "hvdc_columns": [
+        "HVDC CODE",
+        "HVDC CODE 1",
+        "HVDC CODE 2",
+        "HVDC CODE 3",
+        "HVDC CODE 4",
+        "HVDC CODE 5"
+      ],
+      "sample_columns": [
+        "no.",
+        "Shipment Invoice No.",
+        "HVDC CODE",
+        "HVDC CODE 1",
+        "HVDC CODE 2"
+      ],
+      "data_types": {
+        "object": 24,
+        "int64": 18,
+        "float64": 15,
+        "datetime64[ns]": 12
+      }
+    },
+    "sheet_10": {
+      "name": "HITACHI_원본데이터_Fixed",
+      "rows": 7161,
+      "columns": 69,
+      "missing_values": 146916,
+      "missing_percentage": 29.73352033660589,
+      "hvdc_columns": [
+        "HVDC CODE",
+        "HVDC CODE 1",
+        "HVDC CODE 2",
+        "HVDC CODE 3",
+        "HVDC CODE 4",
+        "HVDC CODE 5"
+      ],
+      "sample_columns": [
+        "no.",
+        "Shipment Invoice No.",
+        "HVDC CODE",
+        "HVDC CODE 1",
+        "HVDC CODE 2"
+      ],
+      "data_types": {
+        "object": 26,
+        "datetime64[ns]": 17,
+        "float64": 16,
+        "int64": 10
+      }
+    },
+    "sheet_11": {
+      "name": "SIEMENS_원본데이터_Fixed",
+      "rows": 0,
+      "columns": 69,
+      "missing_values": 0,
+      "missing_percentage": 0.0,
+      "hvdc_columns": [
+        "HVDC CODE",
+        "HVDC CODE 1",
+        "HVDC CODE 2",
+        "HVDC CODE 3",
+        "HVDC CODE 4",
+        "HVDC CODE 5"
+      ],
+      "sample_columns": [
+        "no.",
+        "Shipment Invoice No.",
+        "HVDC CODE",
+        "HVDC CODE 1",
+        "HVDC CODE 2"
+      ],
+      "data_types": {
+        "object": 69
+      }
+    },
+    "sheet_12": {
+      "name": "통합_원본데이터_Fixed",
+      "rows": 7161,
+      "columns": 69,
+      "missing_values": 146916,
+      "missing_percentage": 29.73352033660589,
+      "hvdc_columns": [
+        "HVDC CODE",
+        "HVDC CODE 1",
+        "HVDC CODE 2",
+        "HVDC CODE 3",
+        "HVDC CODE 4",
+        "HVDC CODE 5"
+      ],
+      "sample_columns": [
+        "no.",
+        "Shipment Invoice No.",
+        "HVDC CODE",
+        "HVDC CODE 1",
+        "HVDC CODE 2"
+      ],
+      "data_types": {
+        "object": 26,
+        "datetime64[ns]": 17,
+        "float64": 16,
+        "int64": 10
+      }
+    }
+  },
+  "results": {
+    "sheet_9": {
+      "status": "SUCCESS",
+      "original_rows": 1000,
+      "filtered_rows": 1000,
+      "cleaned_rows": 1000,
+      "output_file": "output\\sheet_9_hvdc_data.ttl",
+      "hvdc_columns": [
+        "HVDC CODE",
+        "HVDC CODE 1",
+        "HVDC CODE 2",
+        "HVDC CODE 3",
+        "HVDC CODE 4",
+        "HVDC CODE 5"
+      ]
+    },
+    "sheet_10": {
+      "status": "SUCCESS",
+      "original_rows": 7161,
+      "filtered_rows": 5552,
+      "cleaned_rows": 5552,
+      "output_file": "output\\sheet_10_hvdc_data.ttl",
+      "hvdc_columns": [
+        "HVDC CODE",
+        "HVDC CODE 1",
+        "HVDC CODE 2",
+        "HVDC CODE 3",
+        "HVDC CODE 4",
+        "HVDC CODE 5"
+      ]
+    },
+    "sheet_12": {
+      "status": "SUCCESS",
+      "original_rows": 7161,
+      "filtered_rows": 5552,
+      "cleaned_rows": 5552,
+      "output_file": "output\\sheet_12_hvdc_data.ttl",
+      "hvdc_columns": [
+        "HVDC CODE",
+        "HVDC CODE 1",
+        "HVDC CODE 2",
+        "HVDC CODE 3",
+        "HVDC CODE 4",
+        "HVDC CODE 5"
+      ]
+    }
+  },
+  "summary": {
+    "total_sheets": 12,
+    "hvdc_sheets_processed": 3,
+    "success_count": 3,
+    "total_count": 3,
+    "success_rate": 1.0
+  }
+}

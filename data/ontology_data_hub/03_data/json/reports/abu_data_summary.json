@@ -1,0 +1,73 @@
+{
+  "summary": {
+    "total_containers": 7,
+    "total_deliveries": 27,
+    "total_shipments": 270,
+    "total_participants": 0,
+    "total_guidelines": 1,
+    "total_rules": 9,
+    "total_kpis": 5
+  },
+  "container_analysis": {
+    "types": {
+      "unknown": 7
+    },
+    "reported_by": {
+      "System": 6,
+      "- 상욱: 40ft OT Container": 1
+    }
+  },
+  "delivery_analysis": {
+    "companies": {
+      "ALPHAMED": 1,
+      "Alphamed": 13,
+      "Averda": 1,
+      "GRANITE": 1,
+      "Granite": 1,
+      "Novatech": 3,
+      "None": 4,
+      "alphamed": 1,
+      "granite": 2
+    }
+  },
+  "shipment_analysis": {
+    "ship_names": {
+      "Buahra": 1,
+      "JPT62": 75,
+      "JPT71": 23,
+      "JPt62": 4,
+      "Jpt62": 1,
+      "Jpt71": 3,
+      "THURAYA": 14,
+      "Taibah": 4,
+      "Tamarah": 3,
+      "Thuraya": 94,
+      "YEAM": 4,
+      "Yeam": 12,
+      "jpt62": 1,
+      "taibah": 2,
+      "thuraya": 27,
+      "yeam": 2
+    },
+    "statuses": {
+      "unknown": 254,
+      "underway": 14,
+      "at anchor": 2
+    }
+  },
+  "participant_analysis": {},
+  "rule_analysis": {
+    "categories": {
+      "항만 정책": 1,
+      "지연 관리": 1,
+      "안전 관리": 1,
+      "장비 관리": 1,
+      "적재 계획": 1,
+      "문서 관리": 1,
+      "보안 관리": 1,
+      "현장 관리": 1,
+      "자원 관리": 1
+    }
+  },
+  "kpi_analysis": {}
+}
